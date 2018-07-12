@@ -1,0 +1,26 @@
+# Site settings
+title: Berline.rs
+email: flo@andersground.net
+description: > # this means to ignore newlines until "baseurl:"
+  A Rust implementation group
+baseurl:  # the subpath of your site, e.g. /blog/
+url:  # the base hostname & protocol for your site
+twitter_username: RustBerlin
+github_username: berlinrs
+
+# Build settings
+markdown: kramdown
+
+highlighter: rouge
+
+# Pagination
+paginate: 15
+paginate_path: "/blog/page:num/"
+
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+

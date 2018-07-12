@@ -1,1 +1,24 @@
-<img src="Berliner-Pfannkuchen.jpg" style="width: 100%; height: 100%;"/>
+---
+layout: default
+---
+
+<div class="header-bar">
+  <h1>Berline.rs</h1>
+  <h2>A Rust implementation group</h2>
+  <br/>
+  <hr>
+  <br/>
+</div>
+
+
+<ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
+        <p>{{ post.description }}</p>
+        <br/>
+        <hr/>
+      </li>
+    {% endfor %}
+</ul>
