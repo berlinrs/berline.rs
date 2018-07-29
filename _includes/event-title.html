@@ -1,0 +1,14 @@
+{% assign event = include.event %}
+<a class="event-link" href="{{ event.url | prepend: site.baseurl }}" itemprop="url">
+  <span class="title" itemprop="name">{{ event.title }}</span>
+</a>
+<span class="event-in-space-time">
+  <time datetime="{{ event.date | date: "%Y-%m-%dT%H:%M:%SZ" }}" itemprop="startDate">
+    <span class="date">{% include fancy-date.html date=event.date %}</span>
+    <span class="time">{{ event.date | date:"%H:%M" }}</span>
+  </time>
+  <span class="event-location">
+    {% assign location = site.data.locations[event.location] %}
+    <a class="location-name" href="{{ location.web }}">@&nbsp;{{ location.short }}</a>
+  </span>
+</span>

@@ -1,0 +1,55 @@
+.talk-list.is-fancy {
+  @extend %clearfix;
+  margin-bottom: $spacing;
+
+  .talk-item {
+    @extend %half;
+    margin-bottom: $spacing;
+  }
+}
+
+.talk-list.is-short {
+  li {
+    margin-left: 1.3em;
+  }
+}
+
+.talk-item .talk {
+  &:before {
+    @include label();
+    display: block;
+  }
+}
+
+.talk-header {
+  margin-bottom: $spacing;
+
+  .talk-title {
+    font-size: 1rem;
+    margin-top: $spacing-small;
+  }
+}
+
+.talk-speaker-twitter,
+.talk-speaker-github {
+  svg {
+    fill: $color-ac;
+  }
+}
+
+.talk-abstract {
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+// Talk Header with Counter
+
+.talk-list.is-fancy {
+  counter-reset: talk-counter;
+  list-style: none;
+
+  .talk-item .talk:before {
+    counter-increment: talk-counter;
+    content: "Talk #" counter(talk-counter, decimal);
+  }
+}

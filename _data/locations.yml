@@ -1,0 +1,11 @@
+moz-berlin:
+  short: "Mozilla Berlin"
+  name: "Mozilla Berlin Office"
+  street: "Schlesische Straße 27"
+  city: "Berlin"
+  web: "http://mozilla-berlin.github.io"
+  osm: "https://www.openstreetmap.org/node/4996803917"
+  directions: |
+    - Enter the stairway C located at the very back
+    - Go up to floor 3
+    - Walk through the open door

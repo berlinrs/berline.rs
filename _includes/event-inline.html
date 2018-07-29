@@ -1,0 +1,14 @@
+{% assign event = include.event %}
+<article class="event is-inline" itemscope itemtype="http://schema.org/SocialEvent" itemid="{{ event.url | prepend: site.baseurl }}">
+  <header>
+    <h1 class="event-title">
+      {% include event-title.html event=event %}
+    </h1>
+  </header>
+  
+  {% if event.talks %}
+  <ol class="talk-list is-short">
+  {% include talk-list.html talks=event.talks show_abstract=false %}
+  </ol>
+  {% endif %}
+</article>
