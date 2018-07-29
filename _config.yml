@@ -1,9 +1,9 @@
 # Site settings
-title: Berline.rs
+title: Berlin.rs
 description: "A Berlin-local Rust community"
 url: "http://berlin.rs"
 author:
-  name: Berline.rs 
+  name: Berlin.rs 
   twitter: rustberlin
   github: berlinrs
   meetup: Rust-Berlin
