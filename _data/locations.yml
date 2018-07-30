@@ -1,15 +1,10 @@
 ---
 moz-berlin:
-  short: Mozilla Berlin
-  name: Mozilla Berlin Office
-  street: Schlesische Straße 27
+  short: Mozilla Berlin Community Space
+  name: Mozilla Berlin Community Space
+  street: Schlesische Straße 27, Gebäude 3, 3. Obergeschoss
   city: Berlin
-  web: http://mozilla-berlin.github.io
-  osm: https://www.openstreetmap.org/node/4996803917
-  directions: |-
-    - Enter the stairway C located at the very back
-    - Go up to floor 3
-    - Walk through the open door
+  osm: https://www.openstreetmap.org/?mlat=52.499485&mlon=13.449288&zoom=18
 bitcrowd:
   short: bitcrowd office
   name: bitcrowd office
@@ -61,6 +56,12 @@ innoq:
 thoughtworks-werkstatt:
   short: ThoughtWorks Werkstatt Berlin
   name: ThoughtWorks Werkstatt Berlin
-  street: Mülhauserstr. 6
+  street: Mülhauser Str. 6
+  city: 10405 Berlin
+  osm: https://www.openstreetmap.org/?mlat=52.53281&mlon=13.41964&zoom=18
+code-university:
+  short: CODE University
+  name: CODE University
+  street: Lohmühlenstr. 65
   city: Berlin
-  osm: https://www.openstreetmap.org/?mlat=52.532898&mlon=13.419651&zoom=18
+  osm: https://www.openstreetmap.org/?mlat=52.49404&mlon=13.446277&zoom=18
