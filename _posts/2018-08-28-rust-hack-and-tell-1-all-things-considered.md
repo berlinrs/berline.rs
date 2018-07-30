@@ -3,7 +3,7 @@ title: "Rust and Tell #1: All things considered"
 date: 2018-08-28 19:00:00 UTC+2
 categories: meetup 
 links:
-    "Meetup.com": "https://www.meetup.com/Rust-Berlin/events/252872742/"
+    "Meetup.com": "https://www.meetup.com/Rust-Berlin/events/253090814/"
 location: co-up
 talks:
 - title: "My cool project!"
