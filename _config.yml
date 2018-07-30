@@ -32,3 +32,6 @@ exclude:
   - .vscode
   - .gitignore
   - meetup-orga
+  - scripts
+  - vendor
+  - legacy-data

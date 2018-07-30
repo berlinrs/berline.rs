@@ -1,11 +1,66 @@
+---
 moz-berlin:
-  short: "Mozilla Berlin"
-  name: "Mozilla Berlin Office"
-  street: "Schlesische Straße 27"
-  city: "Berlin"
-  web: "http://mozilla-berlin.github.io"
-  osm: "https://www.openstreetmap.org/node/4996803917"
-  directions: |
+  short: Mozilla Berlin
+  name: Mozilla Berlin Office
+  street: Schlesische Straße 27
+  city: Berlin
+  web: http://mozilla-berlin.github.io
+  osm: https://www.openstreetmap.org/node/4996803917
+  directions: |-
     - Enter the stairway C located at the very back
     - Go up to floor 3
     - Walk through the open door
+bitcrowd:
+  short: bitcrowd office
+  name: bitcrowd office
+  street: Sanderstrasse 28
+  city: Berlin
+  osm: https://www.openstreetmap.org/?mlat=52.492435&mlon=13.423857&zoom=18
+zenmate:
+  short: ZenMate
+  name: ZenMate
+  street: Ritterstr. 12-14
+  city: Berlin
+  osm: https://www.openstreetmap.org/?mlat=52.50185&mlon=13.41099&zoom=18
+moz-volta:
+  short: Mozilla Berlin
+  name: Mozilla Berlin
+  street: Voltastr. 5, Haus 10, Treppe 6
+  city: Berlin
+  osm: https://www.openstreetmap.org/?mlat=52.541885&mlon=13.389351&zoom=18
+wooga:
+  short: Wooga GmbH
+  name: Wooga GmbH
+  street: Saarbrücker Straße 38
+  city: 10405 Berlin
+  osm: https://www.openstreetmap.org/?mlat=52.528614&mlon=13.416367&zoom=18
+blacklane:
+  short: Blacklane
+  name: Blacklane
+  street: Feurigstrasse 59
+  city: Berlin
+  osm: https://www.openstreetmap.org/?mlat=52.484844&mlon=13.3571&zoom=18
+co-up:
+  short: Co-Up
+  name: Co-Up
+  street: Adalbertstraße 8
+  city: Berlin
+  osm: https://www.openstreetmap.org/?mlat=52.500587&mlon=13.419115&zoom=18
+wire:
+  short: Wire
+  name: Wire
+  street: Hackescher Hof, Rosenthaler Straße 40-41
+  city: Berlin
+  osm: https://www.openstreetmap.org/?mlat=52.523972&mlon=13.402244&zoom=18
+innoq:
+  short: innoQ Deutschland GmbH
+  name: innoQ Deutschland GmbH
+  street: Umspannwerk Kreuzberg, Treppenaufgang C Ohlauer Str. 43 10999 Berlin
+  city: Berlin
+  osm: https://www.openstreetmap.org/?mlat=52.49403&mlon=13.4292&zoom=18
+thoughtworks-werkstatt:
+  short: ThoughtWorks Werkstatt Berlin
+  name: ThoughtWorks Werkstatt Berlin
+  street: Mülhauserstr. 6
+  city: Berlin
+  osm: https://www.openstreetmap.org/?mlat=52.532898&mlon=13.419651&zoom=18
