@@ -80,3 +80,10 @@ code-university:
   city: Berlin
   url: https://code.berlin
   osm: https://www.openstreetmap.org/?mlat=52.49404&mlon=13.446277&zoom=18
+msft-berlin:
+  short: Microsoft Berlin
+  name: Microsoft Berlin
+  street: Unter den Linden 17
+  city: Berlin
+  url: https://www.microsoft-berlin.de/
+  osm: https://www.openstreetmap.org/node/2988439433
