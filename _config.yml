@@ -32,3 +32,4 @@ exclude:
   - .vscode
   - .gitignore
   - meetup-orga
+  - projects.md
