@@ -10,6 +10,9 @@ moz-berlin:
     - Enter the stairway C located at the very back
     - Go up to floor 3
     - Walk through the open door
+  accessibility:
+    wheelchair: true
+    toilet: true
 bitcrowd:
   short: bitcrowd office
   name: bitcrowd office
@@ -52,6 +55,10 @@ co-up:
   city: Berlin
   web: http://co-up.de/
   osm: https://www.openstreetmap.org/?mlat=52.500587&mlon=13.419115&zoom=18
+  accessibility:
+    wheelchair: true
+    toilet: false
+    comments: "Please contact the organiser, the lift needs to be operated by them."
 wire:
   short: Wire
   name: Wire
