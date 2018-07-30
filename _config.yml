@@ -35,3 +35,4 @@ exclude:
   - scripts
   - vendor
   - legacy-data
+  - projects.md
