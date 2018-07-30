@@ -1,0 +1,10 @@
+---
+title: "<%= meetup["name"] %>"
+date: "<%= Time.at(meetup["time"] / 1000).strftime("%Y-%m-%d %H:%M:%S UTC+2") %>"
+categories: meetup 
+links:
+    "Meetup.com": <%= meetup["event_url"] %>
+location: <%= venue_map[meetup["venue"]["id"]] %>
+---
+
+<strong>This is a legacy meetup imported from Meetup.com. The description and speakers can be found at the original link.</strong>
