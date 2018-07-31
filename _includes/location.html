@@ -30,6 +30,7 @@
         {{ location.directions | markdownify }}
       </div>
       {% endif %}
+      {% include location-accessibility.html location=location %}
     </div>
   </div>
 </section>

@@ -3,10 +3,14 @@ layout: page
 title: About
 ---
 
-Berline.rs is a group of Rustaceans formed around and from the Rust Hack & Learn Berlin.
+Berline.rs is the website of the Berlin Rust Community. That is currently:
 
-In contrast to the users group, it takes more the form of working group. Instead of working on our own and focusing on learning, we try to discuss and design libraries that the Rust ecosystem is lacking. These will then be implemented subsequently.
+* The Rust Hack & Learn
+* The Rust Show & Tell
+* The Rust Users Group
+* The Berlin RustFest Team
 
-The aim is to improve the success rate of projects by collective ownership and maintenance. The exact mechanics around this are still in flux.
+We are an inclusive group an would love you to attend!
 
-Membership is open to people of all skill levels. You don't need to be in Berlin, but in-person meetings will be held here. 
+The group is uses the [Berlin Code of Conduct](https://berlincodeofconduct.org). On top
+of that, we ensure that our meetups are accessible to the extend possible.
