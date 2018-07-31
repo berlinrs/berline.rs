@@ -3,7 +3,7 @@ title: "Binding to Rust from everything"
 date: 2018-08-08 19:00:00 UTC+2
 categories: meetup 
 links:
-    "Meetup.com": "https://www.meetup.com/Rust-Berlin/events/252872742/"
+    "Meetup.com": "https://www.meetup.com/Rust-Berlin/events/252872742"
 location: moz-berlin 
 talks:
 - title: "rust-bindgen"
