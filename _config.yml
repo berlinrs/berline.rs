@@ -17,6 +17,9 @@ google_maps_api_key: AIzaSyBkz492n9gf895Tfi12ikKVurgIHHOFmK4
 # Build settings
 permalink: "/:year/:month/:day/:title.html"
 markdown: kramdown
+kramdown:
+  parse_block_html: true
+
 defaults:
   - scope:
       path: ""
