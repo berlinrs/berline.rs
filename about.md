@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Berline.rs is the website of the Berlin Rust Community. That is currently:
+Berlin.rs is the website of the Berlin Rust Community. That is currently:
 
 * The Rust Hack & Learn
 * The Rust Show & Tell
