@@ -11,3 +11,4 @@ Sometimes you want to test or modify things locally. Luckily, this is pretty eas
 - Run `bundle install` (if you don't have Bundler installed, install it using `gem install bundler`)
 - Run `bundle exec jekyll serve` to get a local preview of your site. It auto-updates every time you edit something
 - If you want LiveReload functionality, run `bundle exec jekyll serve --livereload`
+
