@@ -19,4 +19,4 @@ The main idea is to look behind the human mind of a crate, project or learning R
 
 We will have 4 slots, with 20 minutes each. You decide on how you want to fill this time. If you want to use less, also feel free to do so.
 
-It is open to EVERYONE. From absolut beginner to experienced Rust programmers.
+It is open to EVERYONE. From absolute beginner to experienced Rust programmers.
