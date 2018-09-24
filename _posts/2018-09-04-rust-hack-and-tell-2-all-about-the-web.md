@@ -1,6 +1,6 @@
 ---
 title: "Rust and Tell #2: All about the web"
-date: 2018-09-04 19:00:00 UTC+2
+date: 2018-10-04 19:00:00 UTC+2
 categories: meetup 
 links:
     "Meetup.com": "https://www.meetup.com/Rust-Berlin/events/254194727/"
