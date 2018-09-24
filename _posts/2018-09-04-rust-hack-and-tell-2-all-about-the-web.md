@@ -1,14 +1,23 @@
 ---
 title: "Rust and Tell #2: All about the web"
-date: 2018-09-22 19:00:00 UTC+2
+date: 2018-09-04 19:00:00 UTC+2
 categories: meetup 
 links:
     "Meetup.com": "https://www.meetup.com/Rust-Berlin/events/254194727/"
 location: co-up
 talks:
-- title: "My cool web project!"
+- title: "GraphQL client"
   speaker:
-    name: "still you!"
+    name: "Tom Houlé"
+- title: "Insights about the Rust 'Net Web' working group"
+  speaker:
+    name: "Yoshua Wuyts"
+- title: "Empty Slot"
+  speaker:
+    name: "You?"
+- title: "Empty Slot"
+  speaker:
+    name: "You?"
 ---
 
 Our second "Rust and Tell" event: This time around we want to explore web related projects. Running a web server with Rust? Have written an API? Tell us about it!
