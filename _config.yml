@@ -1,7 +1,7 @@
 # Site settings
 title: Berline.rs
 description: "A Berlin-local Rust community"
-url: "http://berlin.rs"
+url: "http://berline.rs"
 author:
   name: Berline.rs 
   twitter: rustberlin
@@ -9,8 +9,8 @@ author:
   meetup: Rust-Berlin
   email: undefined
 
-feedback_url: https://github.com/berlinrs/berlin.rs
-source_url: https://github.com/berlinrs/berlin.rs
+feedback_url: https://github.com/berlinrs/berline.rs
+source_url: https://github.com/berlinrs/berline.rs
 
 google_maps_api_key: AIzaSyBkz492n9gf895Tfi12ikKVurgIHHOFmK4
 
