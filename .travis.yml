@@ -11,6 +11,7 @@ deploy:
   github-token: $GITHUB_TOKEN
   keep-history: true
   target-branch: master
+  allow-empty-commit: true
   on:
     branch: master
     
