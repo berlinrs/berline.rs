@@ -1,0 +1,48 @@
+.event {
+  margin: $spacing 0;
+
+  .talk-list,
+  .location,
+  .event-links {
+    margin-top: $spacing;
+  }
+}
+
+.event-title {
+  font-size: 1.5rem;
+}
+
+.event-in-space-time {
+  display: block;
+  font-weight: normal;
+}
+
+.event-title,
+.event-meetupcom,
+.event time,
+.event-meta {
+  margin-bottom: $spacing;
+}
+
+.event-links {
+  ul {
+    padding-left: 0;
+    margin-left: 0;
+    list-style: none;
+  }
+
+  li {
+    display: inline-block;
+    padding-bottom: $spacing-small;
+    padding-right: $spacing-small;
+
+    + li {
+      &:before {
+        display: inline-block;
+        padding-right: $spacing-small;
+        content: " – ";
+        color: $color-lo;
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+<div class="location-accessibility">  
+  <h1 class="section-headline">Accessibility info</h1>
+  <div class="text">
+  {% if location.accessibility %}
+    <p>
+      <span itemprop="additionalProperty" itemscope itemtype="http://schema.org/PropertyValue">
+        <span itemprop="name">Wheelchair Accessible</span>:
+        {% if location.accessibility.wheelchair %}
+        <meta itemprop="value" content="{{ location.accessibility.wheelchair }}">Yes</meta>
+        {% else %}
+        <meta itemprop="value" content="{{ location.accessibility.wheelchair }}">No</meta>
+        {% endif %}
+      </span>
+    </p>
+    <p>
+      <span itemprop="additionalProperty" itemscope itemtype="http://schema.org/PropertyValue">
+        <span itemprop="name">Accessible Toilet</span>:
+        {% if location.accessibility.toilet %}
+        <meta itemprop="value" content="{{ location.accessibility.toilet }}">Yes</meta>
+        {% else %}
+        <meta itemprop="value" content="{{ location.accessibility.toilet }}">No</meta>
+        {% endif %}
+      </span>
+    </p>
+    {% if location.accessibility.comment %}
+    <p>
+      <span itemprop="additionalProperty" itemscope itemtype="http://schema.org/PropertyValue">
+        <span itemprop="name">Comment</span>:
+        <meta itemprop="value" content="{{ location.accessibility.comment }}">{{ location.accessibility.comment }}</meta>
+      </span>
+    </p>
+    {% endif %}
+  {% else %}
+    <p>
+        No accessibility info available for this location.
+    </p>
+  {% endif %}
+  </div>
+</div>

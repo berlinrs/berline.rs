@@ -1,0 +1,41 @@
+# Site settings
+title: Berline.rs
+description: "A Berlin-local Rust community"
+url: "http://berline.rs"
+author:
+  name: Berline.rs 
+  twitter: rustberlin
+  github: berlinrs
+  meetup: Rust-Berlin
+  email: undefined
+
+feedback_url: https://github.com/berlinrs/berline.rs
+source_url: https://github.com/berlinrs/berline.rs
+
+google_maps_api_key: AIzaSyBkz492n9gf895Tfi12ikKVurgIHHOFmK4
+
+# Build settings
+permalink: "/:year/:month/:day/:title.html"
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "event"
+
+# Content settings
+future: true # we use dates for the actual meetup time, not the post publication time
+timezone: "Europe/Berlin"
+
+exclude:
+  - .vscode
+  - .gitignore
+  - meetup-orga
+  - scripts
+  - vendor
+  - legacy-data
+  - projects.md
