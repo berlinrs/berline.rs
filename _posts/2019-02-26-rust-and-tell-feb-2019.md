@@ -4,7 +4,7 @@ date: 2019-02-26 19:00:00 UTC+1
 categories: meetup
 links:
     "Meetup.com": "https://www.meetup.com/Rust-Berlin/events/258268834/"
-location: TBD
+location: innoq
 talks:
 - title: "Life Before Main"
   speaker:
