@@ -12,9 +12,9 @@ talks:
 - title: "That Looks Oddly Familiar"
   speaker:
     name: "Jan Stępień"
-- title: "Empty Slot"
+- title: "Kubernetes Pod Log Tailing Tool"
   speaker:
-    name: "You?"
+    name: "Mahmut Bulut"
 ---
 
 "Rust and Tell" is back for 2019 with our first meetup of the year!
