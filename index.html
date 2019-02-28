@@ -35,9 +35,13 @@ header-variant: start-page
   {% if further_down_the_line.size > 0 %}
   <section class="future-meetups">
     <p class="section-headline">Upcoming</p>
-    {% for event in further_down_the_line %}  
-      {% include event-inline.html event=event %}
-    {% endfor %}
+    {% assign event = further_down_the_line[0] %}
+    {% include event-inline.html event=event %}
+
+    {% if further_down_the_line.size > 1 %}
+    {% assign event = further_down_the_line[1] %}
+    {% include event-inline.html event=event %}
+    {% endif %}
   </section>
   {% endif %}
 
