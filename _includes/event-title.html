@@ -9,6 +9,10 @@
   </time>
   <span class="event-location">
     {% assign location = site.data.locations[event.location] %}
+    {% if location %}
     <a class="location-name" href="{{ location.web }}">@&nbsp;{{ location.short }}</a>
+    {% else %}
+    @ TBD
+    {% endif %}
   </span>
 </span>
