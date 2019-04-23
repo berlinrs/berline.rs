@@ -9,7 +9,7 @@ talks:
 - title: "cargo-nono: The Challenges and Pitfalls with no_std in Rust"
   speaker:
     name: "Max Goisser"
-- title: "*Talk Title has to be kept a secret for now*"
+- title: "Runtime"
   speaker:
     name: "Yoshua Wuyts"
 - title: "WASI: A system interface to run WebAssembly outside the web"
