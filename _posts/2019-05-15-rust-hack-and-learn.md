@@ -9,7 +9,11 @@ talks: false
 ---
 
 4 years ago the Rust community released [Rust 1.0](https://blog.rust-lang.org/2015/05/15/Rust-1.0.html) to the world!
-Let's get together and celebrate.
+Coincidentally it also happens that we now had over 100 Rust Berlin events
+since the very first [Rust Hack and Learn](/2014/11/04/hacking.html) in 2014
+(yes, you read that right, the Hack and Learn started before Rust 1.0).
+
+That's not just one, but **TWO** reasons to celebrate.
 
 We will turn our bi-weekly Hack and Learn into a small birthday celebration with drinks, food & lightning talks.
 
