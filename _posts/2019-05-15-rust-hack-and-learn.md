@@ -1,5 +1,5 @@
 ---
-title: "Rust Hack and Learn"
+title: "Rust Hack and Learn - Birthday edition"
 date: "2019-05-15 19:00:00 CEST"
 categories: meetup
 links:
@@ -8,11 +8,17 @@ location: moz-berlin
 talks: false
 ---
 
-Let's meet for open hacking and (co)-learning in our bi-weekly learning group!
+4 years ago the Rust community released [Rust 1.0](https://blog.rust-lang.org/2015/05/15/Rust-1.0.html) to the world!
+Let's get together and celebrate.
 
-Everyone is welcome. Rusties of all skill levels meet and hack on cool Rust stuff. Please bring a computer (if available) or tell us if you need one, we can provide you with a machine.
+We will turn our bi-weekly Hack and Learn into a small birthday celebration with drinks, food & lightning talks.
 
-Never written a single line of Rust, but interested in the language? Don't worry, most of us are just starting off. There are people around to get you set up and going.
+We invite you to give short lightning talks introducing your current project, how you picked up Rust, explain your favorite RFC or a small new feature that makes you excited about Rust.
+
+Everyone is welcome. Rusties of all skill levels can meet and hack on cool Rust stuff. As always we will meet at Mozilla's Community Space, which has space for both working and the talks.
+We provide drinks and this time even some food.
+
+Never written a single line of Rust, but interested in the language? Don't worry, a lot of us are just starting off. There are people around to get you set up and going.
 
 Already have a project? Just hack on it or find others interested in contributing. If you have something working, you can put it on the big screen and show everyone.
 
