@@ -8,12 +8,12 @@ talks:
 - title: "3D Engine in Rust - The challenges going from C++ to Rust"
   speaker:
     name: Stefan Buschmann
-- title: "TBD"
+- title: "Nannou - Creative Coding Framework for Rust"
   speaker:
-    name: "You?"
-- title: "TBD"
+    name: "Mitchell Nordine"
+- title: "Oxidising Geoclue"
   speaker:
-    name: "You?"
+    name: "Zeeshan Ali"
 ---
 
 "Rust and Tell“ is a monthly event (the last Tuesday of every month) to share ideas and learn about new things about Rust. Meet fellow Rustaceans, share your learnings, get motivated and inspired! We’re open to any and all kinds of talks about any subjects that you think will be interesting to an audience interested in Rust. Whether you're an experienced Rust developer or just getting started, we strongly encourage you to share your learnings.
