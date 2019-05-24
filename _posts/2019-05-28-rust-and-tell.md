@@ -4,6 +4,7 @@ date: "2019-05-28 19:00:00 UTC+2"
 categories: meetup
 links:
     "Meetup.com": https://www.meetup.com/Rust-Berlin/events/szgnqqyzhblc/
+location: dalia
 talks:
 - title: "3D Engine in Rust - The challenges going from C++ to Rust"
   speaker:

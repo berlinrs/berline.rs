@@ -97,3 +97,10 @@ msft-berlin:
   city: Berlin
   url: https://www.microsoft-berlin.de/
   osm: https://www.openstreetmap.org/node/2988439433
+dalia:
+  short: Dalia Research
+  name: Dalia Research
+  street: Lobeckstraße 30/35
+  city: Berlin
+  url: https://daliaresearch.com/
+  osm: https://www.openstreetmap.org/way/220812676
