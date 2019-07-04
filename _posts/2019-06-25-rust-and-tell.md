@@ -5,15 +5,18 @@ categories: meetup
 links:
     "Meetup.com": https://www.meetup.com/Rust-Berlin/events/262032302/
 talks:
-- title: "TBD"
+- title: "Share Logic Between Android & iOS Apps using Rust"
   speaker:
-    name: "You?"
-- title: "TBD"
+    name: "Adrien"
+- title: "Rin - An Open Source Toolkit for Creative Expression with Code in Rust"
   speaker:
-    name: "You?"
-- title: "TBD"
+    name: "Arturo"
+- title: "Replacing the Python Ecosystem One Package at a Time"
   speaker:
-    name: "You?"
+    name: "Vincent"
+- title: "Lightning Talk: Technical Debt Research"
+  speaker:
+    name: "Viktor"
 ---
 
 "Rust and Tell“ is a monthly event (the last Tuesday of every month) to share ideas and learn about new things about Rust. Meet fellow Rustaceans, share your learnings, get motivated and inspired! We’re open to any and all kinds of talks about any subjects that you think will be interesting to an audience interested in Rust. Whether you're an experienced Rust developer or just getting started, we strongly encourage you to share your learnings.
