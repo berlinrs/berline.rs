@@ -104,3 +104,10 @@ dalia:
   city: Berlin
   url: https://daliaresearch.com/
   osm: https://www.openstreetmap.org/way/220812676
+parity:
+  short: Parity/Web3 Foundation
+  name: Parity/Web3 Foundation
+  street: Glogauerstr. 6
+  city: Berlin
+  url: https://www.parity.io/
+  osm: https://www.openstreetmap.org/node/2840615700
