@@ -111,3 +111,9 @@ parity:
   city: Berlin
   url: https://www.parity.io/
   osm: https://www.openstreetmap.org/node/2840615700
+prisma:
+  short: Prisma
+  name: Prisma
+  street: Prenzlauer Allee 193
+  city: Berlin
+  osm: https://www.openstreetmap.org/node/518827255
