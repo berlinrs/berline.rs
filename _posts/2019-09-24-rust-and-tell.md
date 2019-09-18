@@ -6,12 +6,12 @@ location: prisma
 links:
     "Meetup.com": https://www.meetup.com/Rust-Berlin/events/262624007/
 talks:
-- title: "TBD"
+- title: "Automation made simple with Rust"
   speaker:
-    name: "**OPEN**"
-- title: "TBD"
+    name: "Morgan"
+- title: "A Journey from Scala to Rust: Rewriting a Large Code Base at Prisma"
   speaker:
-    name: "**OPEN**"
+    name: "Dom Petrick"
 - title: "TBD"
   speaker:
     name: "**OPEN**"
