@@ -12,9 +12,9 @@ talks:
 - title: "A Journey from Scala to Rust: Rewriting a Large Code Base at Prisma"
   speaker:
     name: "Dom Petrick"
-- title: "TBD"
+- title: "Building a Networked Key-Value Store in Rust"
   speaker:
-    name: "**OPEN**"
+    name: "Arve Knudsen"
 ---
 
 "Rust and Tell“ is a monthly event (the last Tuesday of every month) to share ideas and learn about new things about Rust. Meet fellow Rustaceans, share your learnings, get motivated and inspired! We’re open to any and all kinds of talks about any subjects that you think will be interesting to an audience interested in Rust. Whether you're an experienced Rust developer or just getting started, we strongly encourage you to share your learnings.
