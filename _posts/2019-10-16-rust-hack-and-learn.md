@@ -4,8 +4,18 @@ date: "2019-10-16 19:00:00 CEST"
 categories: meetup
 links:
     "Meetup.com": https://www.meetup.com/opentechschool-berlin/events/nxdpgryznbvb/
-location: moz-berlin
 talks: false
+---
+
+---
+
+**Important Info:**
+
+Our usual venue is not available on this day.
+We're currently looking for alternative venues for that evening.
+
+Please check back here closer to the event for venue details.
+
 ---
 
 Let's meet for open hacking and (co)-learning in our bi-weekly learning group!
