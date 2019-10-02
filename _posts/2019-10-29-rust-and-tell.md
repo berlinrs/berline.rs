@@ -4,7 +4,7 @@ date: "2019-10-29 19:00:00 UTC+1"
 categories: meetup
 location: prisma
 links:
-    "Meetup.com": https://www.meetup.com/Rust-Berlin/events/262624007/
+    "Meetup.com": https://www.meetup.com/Rust-Berlin/events/265339403/
 talks:
 - title: "TBA"
   speaker:
