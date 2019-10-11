@@ -117,3 +117,9 @@ prisma:
   street: Prenzlauer Allee 193
   city: Berlin
   osm: https://www.openstreetmap.org/node/518827255
+ferrous:
+  short: Ferrous Systems
+  name: Ferrous Systems
+  street: Boxhagener Straße 79
+  city: Berlin
+  osm: https://www.openstreetmap.org/node/2825036679

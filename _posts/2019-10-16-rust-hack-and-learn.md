@@ -4,6 +4,7 @@ date: "2019-10-16 19:00:00 CEST"
 categories: meetup
 links:
     "Meetup.com": https://www.meetup.com/opentechschool-berlin/events/nxdpgryznbvb/
+location: ferrous
 talks: false
 ---
 
@@ -12,9 +13,14 @@ talks: false
 **Important Info:**
 
 Our usual venue is not available on this day.
-We're currently looking for alternative venues for that evening.
+We are meeting at the office of [Ferrous Systems](https://ferrous-systems.com/).
 
-Please check back here closer to the event for venue details.
+The address:
+
+<address>
+Boxhagener Straße 79,
+10245 Berlin
+</address>
 
 ---
 
