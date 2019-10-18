@@ -3,7 +3,7 @@ title: Berline.rs
 description: "A Berlin-local Rust community"
 url: "http://berline.rs"
 author:
-  name: Berline.rs 
+  name: Berline.rs
   twitter: rustberlin
   github: berlinrs
   meetup: Rust-Berlin
@@ -26,6 +26,9 @@ defaults:
       type: "posts"
     values:
       layout: "event"
+
+plugins:
+  - jekyll-feed
 
 # Content settings
 future: true # we use dates for the actual meetup time, not the post publication time
