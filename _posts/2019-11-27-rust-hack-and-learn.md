@@ -1,6 +1,6 @@
 ---
 title: "Rust Hack and Learn"
-date: "2019-10-30 19:00:00 CET"
+date: "2019-11-27 19:00:00 CET"
 categories: meetup
 links:
     "Meetup.com": https://www.meetup.com/opentechschool-berlin/events/nxdpgryzpbkc/
