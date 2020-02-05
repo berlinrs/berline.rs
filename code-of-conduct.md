@@ -11,6 +11,7 @@ In case of violations, please don't hesitate to approach us at events. The organ
 
 If you want to file a report or complaint in writing, please don't hesitate to contact us directly.
 
+* [Jan-Erik Rediger](mailto:janerik@fnordig.de)
 * [Florian Gilcher](mailto:flo@andersground.net)
 
 </article>
