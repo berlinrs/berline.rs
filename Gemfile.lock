@@ -216,6 +216,8 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
+    reverse_markdown (1.4.0)
+      nokogiri
     rouge (2.2.1)
     ruby-enum (0.7.2)
       i18n
@@ -245,6 +247,8 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 200)
   jekyll-feed (~> 0.11)
+  nokogiri (~> 1.10)
+  reverse_markdown (~> 1.4.0)
 
 BUNDLED WITH
-   2.0.1
+   2.0.2

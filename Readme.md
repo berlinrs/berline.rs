@@ -2,6 +2,20 @@
 
 This is the [rust-meetup-template](http://github.com/rust-community/rust-meetup-template)-based website for http://berlin.rs.
 
+## Importing from meetup.com
+
+To import a new event from Meetup.com run the import script:
+
+```
+bundle exec scripts/import.rb URL
+```
+
+To install the required tooling, run:
+
+```
+bundle install --with=development
+```
+
 ## Local development
 
 Sometimes you want to test or modify things locally. Luckily, this is pretty easy, you just have to do the following:
