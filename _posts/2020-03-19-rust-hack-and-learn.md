@@ -10,10 +10,28 @@ talks: false
 
 **ATTENTION**:
 
-The in-person Hack and Learn on the 19th of March is canceled.
+Due to the current pandemic we’ve canceled the in-person Hack and Learn event.
 
-Due to the current pandemic we've decided to cancel the upcoming in-person Hack and Learn event.
-We're currently trying to provide an online venue for people to meet next week.
+We still want to provide a venue to meet and we are experimenting with how to provide a good experience for everyone.
+
+This Thursday, 19. March 2020, we're going to meet online.
+We’ll be hosting the event via a video meeting on [Zoom] and a [Matrix] channel.
+
+* Before Thursday please install the Zoom client if you plan to join.
+* For Matrix start with the [Riot webapp][riot] and create an account (You can find some alternative home servers in [a list online](https://www.hello-matrix.net/public_servers.php). [Other clients][matrix-clients] are available as well.
+
+One caveat: Thursday will be a first test run on how such an event will work.
+We're testing out the features and how we can moderate these channels.
+This time it might be less about working on Rust projects and instead experimenting around with online venus.
+Feel free to join and drop out at any point.
+
+We'll post the Matrix channel details and a Zoom join link on Thursday.
+Everyone is invited to join us, no travel necessary.
+
+[Zoom]: https://zoom.us/
+[Matrix]: https://matrix.org/
+[riot]: https://riot.im/app/#/welcome
+[matrix-clients]: https://matrix.org/clients
 
 Further updates will be posted here and on our twitter channel [@RustBerlin](https://twitter.com/RustBerlin) shortly.
 
