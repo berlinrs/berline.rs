@@ -8,7 +8,10 @@ links:
 talks: false
 ---
 
-**ATTENTION**:
+<center>
+    <h2><a href="https://zoom.us/j/294985356">Join the Video Meeting on Zoom</a></h2>
+    <h2><a href="https://matrix.to/#/!xycQxSjSAvEezkyztA:chat.berline.rs?via=chat.berline.rs">Join the chat on Matrix</a></h2>
+</center>
 
 Due to the current pandemic we’ve canceled the in-person Hack and Learn event.
 
@@ -17,23 +20,40 @@ We still want to provide a venue to meet and we are experimenting with how to pr
 This Thursday, 19. March 2020, we're going to meet online.
 We’ll be hosting the event via a video meeting on [Zoom] and a [Matrix] channel.
 
-* Before Thursday please install the Zoom client if you plan to join.
-* For Matrix start with the [Riot webapp][riot] and create an account (You can find some alternative home servers in [a list online](https://www.hello-matrix.net/public_servers.php). [Other clients][matrix-clients] are available as well.
-
-One caveat: Thursday will be a first test run on how such an event will work.
+Thursday will be a first test run on how such an event will work.
 We're testing out the features and how we can moderate these channels.
 This time it might be less about working on Rust projects and instead experimenting around with online venus.
 Feel free to join and drop out at any point.
 
-We'll post the Matrix channel details and a Zoom join link on Thursday.
 Everyone is invited to join us, no travel necessary.
+
+## Zoom instructions
+
+At 19:00 follow the [Zoom meeting invite](https://zoom.us/j/294985356).
+Zoom offers an in-browser video chat or you can use the client after you install it.
+
+## Matrix instructions
+
+If you already have a Matrix account join the `#hack-and-learn:chat.berline.rs` channel ([Join Channel link](https://matrix.to/#/!xycQxSjSAvEezkyztA:chat.berline.rs?via=chat.berline.rs)).
+
+If you don't have an account you can create one on our server.
+
+1. Open the [Riot webapp][riot].
+2. Click "Create Account".
+3. Choose "Advanced".
+4. Enter this homeserver URL: `https://chat.berline.rs`
+5. Pick a username and a password.
+    * Caveat: we currently don't allow password resets and can't recover them either. Remember your password!
+6. Complete the registration.
+7. Now join [the `#hack-and-learn:chat.berline.rs` channel](https://matrix.to/#/!xycQxSjSAvEezkyztA:chat.berline.rs?via=chat.berline.rs).
+
+One note: We set this server up on short notice.
+We don't guarantee to keep it running beyond our Hack'n'Learn for now.
 
 [Zoom]: https://zoom.us/
 [Matrix]: https://matrix.org/
 [riot]: https://riot.im/app/#/welcome
 [matrix-clients]: https://matrix.org/clients
-
-Further updates will be posted here and on our twitter channel [@RustBerlin](https://twitter.com/RustBerlin) shortly.
 
 ---
 
