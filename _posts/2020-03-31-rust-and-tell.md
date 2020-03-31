@@ -12,18 +12,44 @@ talks:
 - title: "Tremor - A Rust Project from Wayfair"
   speaker:
     name: "Heinz Gies"
-- title: TBD
+- title: "Async HTTP"
   speaker:
-    name: TBD
+    name: "Yosh Wuyts"
 ---
 
-**ATTENTION**:
+<center>
+    <h2><a href="https://zoom.us/j/537514684">Join the Video Meeting on Zoom</a></h2>
+    <h2><a href="https://matrix.to/#/!nScYCdqWQUsTkFRJMb:chat.berline.rs">Join the chat on Matrix</a></h2>
+</center>
 
-The Rust and Tell on the 31st of March will not be happening in-person.
-The event will happen in an online venue.
-We are still working on the technical details of this which we will let you know in a later update.
+## Zoom instructions
 
-If you have any questions, please let us know!
+At 19:00 follow the [Zoom meeting invite](https://zoom.us/j/537514684).
+Zoom offers an in-browser video chat or you can use the client after you install it.
+
+## Matrix instructions
+
+If you already have a Matrix account join the `#rust-and-tell:chat.berline.rs` channel ([Join Channel link][channel]).
+
+If you don't have an account you can create one on our server.
+
+1. Open the [Riot webapp][riot].
+2. Click "Create Account".
+3. Choose "Advanced".
+4. Enter this homeserver URL: `https://chat.berline.rs`
+5. Pick a username and a password.
+    * Caveat: we currently don't allow password resets and can't recover them either. Remember your password!
+6. Complete the registration.
+7. Now join [the `#rust-and-tell:chat.berline.rs` channel][channel].
+
+One note: We set this server up on short notice.
+We don't guarantee to keep it running forever.
+
+[Zoom]: https://zoom.us/
+[Matrix]: https://matrix.org/
+[riot]: https://riot.im/app/#/welcome
+[matrix-clients]: https://matrix.org/clients
+[channel]: https://matrix.to/#/!nScYCdqWQUsTkFRJMb:chat.berline.rs
 
 ---
 
