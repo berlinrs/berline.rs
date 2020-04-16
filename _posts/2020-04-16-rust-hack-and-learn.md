@@ -1,15 +1,15 @@
 ---
 title: "Rust Hack and Learn"
-date: "2020-04-02 19:00:00 +0200"
+date: "2020-04-16 19:00:00 +0200"
 categories: meetup
 location: online
 links:
-    "Meetup.com": https://www.meetup.com/opentechschool-berlin/events/gztznrybcgbdb/
+    "Meetup.com": https://www.meetup.com/opentechschool-berlin/events/269908898/
 talks: false
 ---
 
 <center>
-    <h2><a href="https://zoom.us/j/572151751">Join the Video Meeting on Zoom</a></h2>
+    <h2><a href="https://zoom.us/j/94207335828">Join the Video Meeting on Zoom</a></h2>
     <h2><a href="https://matrix.to/#/!xycQxSjSAvEezkyztA:chat.berline.rs">Join the chat on Matrix</a></h2>
 </center>
 
@@ -17,7 +17,7 @@ Due to the current pandemic we’ve canceled the in-person Hack and Learn event.
 
 We still want to provide a venue to meet and we are experimenting with how to provide a good experience for everyone.
 
-This Thursday, 02. April 2020, we're going to meet online.
+This Thursday, 16. April 2020, we're going to meet online.
 We’ll be hosting the event via a video meeting on [Zoom] and a [Matrix] channel.
 
 Thursday will be a first test run on how such an event will work.
@@ -29,7 +29,7 @@ Everyone is invited to join us, no travel necessary.
 
 ## Zoom instructions
 
-At 19:00 follow the [Zoom meeting invite](https://zoom.us/j/572151751).
+At 19:00 follow the [Zoom meeting invite](https://zoom.us/j/94207335828).
 Zoom offers an in-browser video chat or you can use the client after you install it.
 
 ## Matrix instructions
@@ -71,6 +71,6 @@ Don't have a project yet? There are lots of ideas and cool projects floating aro
 
 Here are some ideas if you don't know what to hack on:
 
-- Install Rust [https://www.rust-lang.org/downloads.html](https://www.rust-lang.org/downloads.html "https://www.rust-lang.org/downloads.html").
-- Read the Rust book [https://doc.rust-lang.org/](https://doc.rust-lang.org/ "https://doc.rust-lang.org/").
-- Complete Rustlings (a great beginners course!) [https://github.com/rust-lang/rustlings](https://github.com/rust-lang/rustlings "https://github.com/rust-lang/rustlings").
+- Install Rust [https://www.rust-lang.org/downloads.html](https://www.rust-lang.org/downloads.html "https://www.rust-lang.org/downloads.html") .
+- Read the Rust book [https://doc.rust-lang.org/](https://doc.rust-lang.org/ "https://doc.rust-lang.org/")
+- Complete Rustlings (a great beginners course!) [https://github.com/rust-lang/rustlings](https://github.com/rust-lang/rustlings "https://github.com/rust-lang/rustlings")
