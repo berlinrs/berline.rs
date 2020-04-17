@@ -101,7 +101,7 @@ def main
     name: title,
     time: datetime,
     link: uri,
-    venue: location.downcase,
+    venue: (location || "online").downcase,
     description: desc,
   })
 
