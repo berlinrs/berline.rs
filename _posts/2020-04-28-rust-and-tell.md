@@ -6,13 +6,13 @@ location: online
 links:
     "Meetup.com": https://www.meetup.com/Rust-Berlin/events/270177388/
 talks:
-- title: Dev Diary: Writing a Clipboard Manager with Rust
+- title: "Dev Diary: Writing a Clipboard Manager with Rust"
   speaker:
     name: Tymoteusz Jankowski
-- title: Project Spotlight: Maelstrom Matrix Server in Rust
+- title: "Project Spotlight: Maelstrom Matrix Server in Rust"
   speaker:
     name: Chris Bruce
-- title: Artillery: Fire-forged Cluster Management & Distributed Data Protocol
+- title: "Artillery: Fire-forged Cluster Management & Distributed Data Protocol"
   speaker:
     name: Mahmut Bulut
 - title: Interactions with a Diving Computer
