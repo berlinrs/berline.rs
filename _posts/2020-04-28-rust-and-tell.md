@@ -15,15 +15,10 @@ talks:
 - title: "Artillery: Fire-forged Cluster Management & Distributed Data Protocol"
   speaker:
     name: Mahmut Bulut
-- title: Interactions with a Diving Computer
-  speaker:
-    name: Florian Gilcher
 ---
 
 <center>
-    <h2><a href="https://zoom.us/j/98642967897">Join the Video Meeting on Zoom</a></h2>
-    <h2><a href="https://matrix.to/#/!nScYCdqWQUsTkFRJMb:chat.berline.rs">Join the chat on Matrix</a></h2>
-    <h2><a href="https://www.youtube.com/watch?v=FoOhuEHwRCw">Watch on YouTube</a></h2>
+    <h2><a href="https://youtu.be/yGuxtodWYDs">Watch on YouTube</a></h2>
 </center>
 
 ## Zoom instructions
