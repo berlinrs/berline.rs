@@ -1,70 +1,49 @@
 ---
-title: "Rust Hack and Learn"
-date: "2020-04-30 19:00:00 +0200"
+title: "Rust Hack and Learn goes to Zurich (but online)!"
+date: "2020-04-30 19:30:00 +0200"
 categories: meetup
 location: online
 links:
-    "Meetup.com": https://www.meetup.com/opentechschool-berlin/events/gztznrybcgbnc
-talks: false
+    "Meetup.com": https://www.meetup.com/Rust-Zurich/events/270169298/
+talks:
+- title: cargo-crev
+  speaker:
+    name: "Christian (aka chrysn)"
+- title: cargo-audit
+  speaker:
+    name: "Tony Arcieri (aka tarcieri/bascule)"
 ---
 
 <center>
-    <h2><a href="https://matrix.to/#/!xycQxSjSAvEezkyztA:chat.berline.rs">Join the chat on Matrix</a></h2>
+    <h2><a href="https://www.meetup.com/Rust-Zurich/events/270169298/">Join the Rust Zurich Meetup</a></h2>
+    <h2><a href="https://www.twitch.tv/rustzurich/">Twitch Livestream of Rust Zurich</a></h2>
+    <h2><a href="https://riot.im/app/#/room/#rust-zuerisee:matrix.coredump.ch">Join the <code>#rust-zuerisee</code> chat on Matrix</a></h2>
 </center>
 
 Due to the current pandemic we’ve canceled the in-person Hack and Learn event.
+To switch things up a little bit we're not holding our typical Hack'n'Learn online session this time either.
 
-We still want to provide a venue to meet and we are experimenting with how to provide a good experience for everyone.
+Instead we encourage you join this week's Rust Zürich meetup.
 
-We're going to meet online.
-We’ll be hosting the event via a video meeting on [Zoom] and a [Matrix] channel.
+Details:
 
-Everyone is invited to join us, no travel necessary.
+For the second virtual Rust Zürisee Meetup, we'll have two guests talking about security-related topics.
 
-## Zoom instructions
+Christian (aka chrysn) will talk about cargo-crev:
+«Don't waste time reviewing crates – make it count instead!
+With crev code reviews, we can mesh up our reviews to gain a level of review coverage on,
+and thus trust in, our dependencies that would be practically unobtainable alone. Let's join forces to cover our whole dependency trees.»
 
-At 19:00 follow the Zoom meeting invite (Link will follow).
-Zoom offers an in-browser video chat or you can use the client after you install it.
+Tony Arcieri (aka tarcieri / bascule) will talk about cargo-audit and the RustSec Advisory Database.
 
-## Matrix instructions
+The talks will start at 19:30 CEST (UTC+2).
+Talks will be live streamed on the [Rust Zurich Twitch account](https://www.twitch.tv/rustzurich/).
 
-If you already have a Matrix account join the `#hack-and-learn:chat.berline.rs` channel ([Join Channel link](https://matrix.to/#/!xycQxSjSAvEezkyztA:chat.berline.rs)).
+The live-chat used for questions and general discussion:
 
-If you don't have an account you can create one on our server.
+[`#rust-zuerisee:matrix.coredump.ch`](https://riot.im/app/#/room/#rust-zuerisee:matrix.coredump.ch).  
+(*Note:* This can be joined if you already created an account on the `chat.berline.rs` Matrix server.)
 
-1. Open the [Riot webapp][riot].
-2. Click "Create Account".
-3. Choose "Advanced".
-4. Enter this homeserver URL: `https://chat.berline.rs`
-5. Pick a username and a password.
-    * Caveat: we currently don't allow password resets and can't recover them either. Remember your password!
-6. Complete the registration.
-7. Now join [the `#hack-and-learn:chat.berline.rs` channel](https://matrix.to/#/!xycQxSjSAvEezkyztA:chat.berline.rs).
+After the talks we'll have some virtual beers together on Jitsi.
 
-One note: We set this server up on short notice.
-We don't guarantee to keep it running beyond our Hack'n'Learn for now.
-
-[Zoom]: https://zoom.us/
-[Matrix]: https://matrix.org/
-[riot]: https://riot.im/app/#/welcome
-[matrix-clients]: https://matrix.org/clients
-
----
-
-Rust is a language empowering everyone to build reliable and efficient software.
-
-Let's meet for open hacking and (co)-learning in our bi-weekly learning group!
-
-Everyone is welcome. Rusties of all skill levels meet and hack on cool Rust stuff. Please bring a computer.
-
-Never written a single line of Rust, but interested in the language? There will be people around to get you set up and going.
-
-Already have a project? Just hack on it or find others interested in contributing. If you have something working, you can put it on the big screen and show everyone.
-
-Don't have a project yet? There are lots of ideas and cool projects floating around that you can work on!
-
-Here are some ideas if you don't know what to hack on:
-
-- Install Rust [https://www.rust-lang.org/downloads.html](https://www.rust-lang.org/downloads.html "https://www.rust-lang.org/downloads.html") .
-- Read the Rust book [https://doc.rust-lang.org/](https://doc.rust-lang.org/ "https://doc.rust-lang.org/")
-- Complete Rustlings (a great beginners course!) [https://github.com/rust-lang/rustlings](https://github.com/rust-lang/rustlings "https://github.com/rust-lang/rustlings")
+We're looking forward to the presentations and hope that many people will join us!
