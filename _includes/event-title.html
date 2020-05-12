@@ -5,7 +5,7 @@
 <span class="event-in-space-time">
   <time datetime="{{ event.date | date: "%Y-%m-%dT%H:%M:%SZ" }}" itemprop="startDate">
     <span class="date">{% include fancy-date.html date=event.date %}</span>
-    <span class="time">{{ event.date | date:"%H:%M" }}</span>
+    <span class="time">{{ event.date | date:"%H:%M %Z" }}</span>
   </time>
   <span class="event-location">
     {% assign location = site.data.locations[event.location] %}
