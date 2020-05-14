@@ -9,6 +9,7 @@ talks: false
 ---
 
 <center>
+    <h2><a href="https://zoom.us/j/89488857087">Join the Video Meeting on Zoom</a></h2>
     <h2><a href="https://matrix.to/#/!xycQxSjSAvEezkyztA:chat.berline.rs">Join the chat on Matrix</a></h2>
 </center>
 
@@ -28,7 +29,7 @@ Everyone is invited to join us, no travel necessary.
 
 ## Zoom instructions
 
-At 19:00 follow the Zoom meeting invite (Link will follow).
+At 19:00 follow the [Zoom meeting invite](https://zoom.us/j/89488857087).
 Zoom offers an in-browser video chat or you can use the client after you install it.
 
 ## Matrix instructions
