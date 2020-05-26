@@ -20,7 +20,17 @@ talks:
     name: "Stephan Dilly"
 ---
 
+<center>
+    <h2><a href="https://zoom.us/j/83382103476">Join the Video Meeting on Zoom</a></h2>
+    <h2><a href="https://matrix.to/#/!nScYCdqWQUsTkFRJMb:chat.berline.rs">Join the chat on Matrix</a></h2>
+</center>
+
+---
+
 ## Instructions for the Online Event
+
+At 19:00 follow the [Zoom][] meeting invite: [Zoom Meeting Invite](https://zoom.us/j/83382103476).
+Zoom offers an in-browser video chat or you can use the client after you install it.
 
 You will automatically be voice-muted and not be able to unmute yourself during the meetup.
 Please also disable your webcam.
