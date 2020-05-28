@@ -8,6 +8,7 @@ links:
 ---
 
 <center>
+    <h2><a href="https://theonline.town/cSvy2tn8nxPYtqyZ/hack-and-learn">Join the Online Town</a></h2>
     <h2><a href="https://matrix.to/#/!xycQxSjSAvEezkyztA:chat.berline.rs">Join the chat on Matrix</a></h2>
 </center>
 
@@ -22,7 +23,7 @@ Everyone is invited to join us, no travel necessary.
 
 ## Online meetup instructions
 
-At 19:00 follow the link to our little online town (Link will follow).
+At 19:00 join [our little Online Town](https://theonline.town/cSvy2tn8nxPYtqyZ/hack-and-learn).
 It works from the browser and uses your webcam and microphone over WebRTC.
 
 ## Matrix instructions
