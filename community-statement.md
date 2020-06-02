@@ -51,6 +51,7 @@ The Rust Berlin Organisers team, namely:
 * Florian Gilcher (Rust Berlin, RustFest, Rust Community, Rust Core)
 * Marisa H. (Rust Berlin, RustBridge, Rustlings)
 * Ryan Levick (Rust Berlin)
+* Jan-Erik Rediger (Rust Berlin, RustFest, Rust Community)
 
 
 If you want to sign this statement, as an organisation or as an indivdual,
