@@ -12,7 +12,7 @@ Last week, news of the murder of George Floyd by the Minneapolis Police Departme
 We, the Rust Berlin organisers, want to make a clear statement:
 * Condem racism of all forms
 * Stricly oppose police violence
-* Stand alongside Blsck people everyone helping in the current situation
+* Stand alongside Black people & everyone helping in the current situation
 
 ## Why this statement
 
@@ -27,7 +27,7 @@ These issues can't be remained neutral on, and a stance must be taken.
 
 Our stance is that we are in full support with Black people and those supporting them.
 
-Police violence against people of color is not only a US problem and must be fought everwhere. For Germany and Berlin in particular, we'd like to highlight the [death in custody project](http://isdonline.de/death-in-custody-aufklaerung-der-todesumstaende-in-gewahrsamssituationen-jetzt/) and the [UN highlight of racial profiling in Germany](https://news.un.org/en/story/2017/02/552282-germany-un-rights-panel-highlights-racial-profiling-against-people-african). 
+Police violence against people of color is not only a US problem and must be fought everwhere. For Germany and Berlin in particular, we'd like to highlight the [death in custody project](http://isdonline.de/death-in-custody-aufklaerung-der-todesumstaende-in-gewahrsamssituationen-jetzt/) and the [UN highlight of racial profiling in Germany](https://news.un.org/en/story/2017/02/552282-germany-un-rights-panel-highlights-racial-profiling-against-people-african).
 
 ## Talk is cheap: What you can do
 
