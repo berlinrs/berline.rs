@@ -58,4 +58,10 @@ The Rust Berlin Organisers team, namely:
 If you want to sign this statement, as an organisation or as an indivdual,
 send us a [Pull Request](https://github.com/berlinrs/berline.rs) or [open an issue](https://github.com/berlinrs/berline.rs/issues/new) and we will add you.
 
+<time datetime="2020-06-03T00:00:00Z">
+<p>
+Published: 2020-06-03
+</p>
+</time>
+
 </article>
