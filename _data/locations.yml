@@ -1,4 +1,7 @@
 ---
+empty:
+  short: ""
+  name: ""
 online:
   short: Online
   name: Online
