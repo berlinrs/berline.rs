@@ -54,7 +54,6 @@ The Rust Berlin Organisers team, namely:
 * Jan-Erik Rediger (Rust Berlin, RustFest, Rust Community)
 * Bastian Gruber (Rust Berlin)
 
-
 If you want to sign this statement, as an organisation or as an indivdual,
 send us a [Pull Request](https://github.com/berlinrs/berline.rs) or [open an issue](https://github.com/berlinrs/berline.rs/issues/new) and we will add you.
 
