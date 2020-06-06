@@ -57,6 +57,7 @@ The Rust Berlin Organisers team and friends, namely:
 * Rafaela Wetzel (RustFest)
 * Ramón Huidobro
 * Rust London Community Organisers
+* Istvan Sz. (Rust Community Team, Rust Tallinn, Rust Hungary)
 
 If you want to sign this statement, as an organisation or as an indivdual,
 send us a [Pull Request](https://github.com/berlinrs/berline.rs) or [open an issue](https://github.com/berlinrs/berline.rs/issues/new) and we will add you.
