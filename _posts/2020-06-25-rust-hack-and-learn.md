@@ -5,6 +5,7 @@ categories: meetup
 location: online
 links:
     "Meetup.com": https://www.meetup.com/opentechschool-berlin/events/txcprrybcjbhc/
+talks: false
 ---
 
 <center>
