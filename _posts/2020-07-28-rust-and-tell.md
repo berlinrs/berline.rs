@@ -17,10 +17,26 @@ talks:
     name: "You?"
 ---
 
+<center>
+    <h2><a href="https://us02web.zoom.us/j/83953952516">Join the Video Meeting on Zoom</a></h2>
+    <h2><a href="https://matrix.to/#/!nScYCdqWQUsTkFRJMb:chat.berline.rs">Join the chat on Matrix</a></h2>
+</center>
+
 ## Zoom instructions
 
-At 19:00 follow the [Zoom][] meeting invite: _LINK TBD_.
+At 19:00 follow the [Zoom][] meeting invite: [Zoom Meeting Invite](https://us02web.zoom.us/j/83953952516).
 Zoom offers an in-browser video chat or you can use the client after you install it.
+
+You will automatically be voice-muted and not be able to unmute yourself during the meetup.
+Please also disable your webcam.
+The meetup will be recorded in Zoom, everyone with enabled video will be recorded as well.
+
+The text chat inside Zoom is available, please use that for questions to the speaker. If time allows a moderator will direct them towards the speaker after the talk.
+
+During the breaks we will try out Zoom’s Breakout Rooms.
+You will be randomly assigned to a breakout room with others.
+Feel free to use this to talk to people in breaks. If you don’t want to, just mute yourself or leave the room.
+You will be brought back into the main channel before the next talk starts.
 
 ## Matrix instructions
 
