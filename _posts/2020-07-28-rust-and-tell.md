@@ -6,12 +6,12 @@ location: online
 links:
     "Meetup.com": https://www.meetup.com/Rust-Berlin/events/272028231/
 talks:
-- title: "A Toy Operating System for Raspberry Pi"
-  speaker:
-    name: Kaviraj Kanagaraj
 - title: "Implementing Fast Route Planning Algorithms in Rust"
   speaker:
       name: Payas Rajan
+- title: "Rust'N'Games"
+  speaker:
+    name: Stephan Dilly
 - title: "To the 90s and Back: Adventures in Rust COM Programming"
   speaker:
     name: ""
