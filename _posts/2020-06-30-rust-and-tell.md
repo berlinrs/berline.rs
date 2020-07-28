@@ -20,6 +20,10 @@ talks:
     name: Zeeshan
 ---
 
+<center>
+    <h2><a href="https://www.youtube.com/watch?v=X2MqRZIzdcM">Watch the recording</a></h2>
+</center>
+
 ## Zoom instructions
 
 At 19:00 follow the [Zoom][] meeting invite: _LINK TBD_.

@@ -21,8 +21,7 @@ talks:
 ---
 
 <center>
-    <h2><a href="https://zoom.us/j/83382103476">Join the Video Meeting on Zoom</a></h2>
-    <h2><a href="https://matrix.to/#/!nScYCdqWQUsTkFRJMb:chat.berline.rs">Join the chat on Matrix</a></h2>
+    <h2><a href="https://www.youtube.com/watch?v=rpilJV-eIVw">Watch the recording</a></h2>
 </center>
 
 ---

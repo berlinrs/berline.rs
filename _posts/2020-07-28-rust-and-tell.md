@@ -18,8 +18,6 @@ talks:
 ---
 
 <center>
-    <h2><a href="/live">Livestream</a></h2>
-    <h2><a href="https://us02web.zoom.us/j/83953952516">Join the Video Meeting on Zoom</a></h2>
     <h2><a href="https://matrix.to/#/!nScYCdqWQUsTkFRJMb:chat.berline.rs">Join the chat on Matrix</a></h2>
 </center>
 
