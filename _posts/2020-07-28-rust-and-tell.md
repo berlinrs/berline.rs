@@ -12,9 +12,9 @@ talks:
 - title: "Implementing Fast Route Planning Algorithms in Rust"
   speaker:
       name: Payas Rajan
-- title: "Open"
+- title: "To the 90s and Back: Adventures in Rust COM Programming"
   speaker:
-    name: "You?"
+    name: ""
 ---
 
 <center>
