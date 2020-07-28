@@ -14,7 +14,7 @@ talks:
     name: Stephan Dilly
 - title: "To the 90s and Back: Adventures in Rust COM Programming"
   speaker:
-    name: ""
+    name: "Ryan Levick"
 ---
 
 <center>
