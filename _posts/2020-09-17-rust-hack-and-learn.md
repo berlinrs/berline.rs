@@ -25,25 +25,7 @@ It works from the browser and uses your webcam and microphone over WebRTC.
 
 ## Matrix instructions
 
-If you already have a Matrix account join the `#hack-and-learn:chat.berline.rs` channel ([Join Channel link](https://matrix.to/#/!xycQxSjSAvEezkyztA:chat.berline.rs)).
-
-If you don't have an account you can create one on our server.
-
-1. Open the [Element webapp][element].
-2. Click "Create Account".
-3. Choose "Advanced".
-4. Enter this homeserver URL: `https://chat.berline.rs`
-5. Pick a username and a password.
-    * Caveat: we currently don't allow password resets and can't recover them either. Remember your password!
-6. Complete the registration.
-7. Now join [the `#hack-and-learn:chat.berline.rs` channel](https://matrix.to/#/!xycQxSjSAvEezkyztA:chat.berline.rs).
-
-One note: We set this server up on short notice.
-We don't guarantee to keep it running beyond our Hack'n'Learn for now.
-
-[Matrix]: https://matrix.org/
-[element]: https://app.element.io/#/welcome
-[matrix-clients]: https://matrix.org/clients
+See [Chat instructions](/chat/).
 
 ---
 

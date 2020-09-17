@@ -39,27 +39,7 @@ You will be brought back into the main channel before the next talk starts.
 
 ## Matrix instructions
 
-If you already have a [Matrix][] account join the `#rust-and-tell:chat.berline.rs` channel ([Join Channel link][channel]).
-
-If you don't have an account you can create one on our server.
-
-1. Open the [Element webapp][element].
-2. Click "Create Account".
-3. Choose "Advanced".
-4. Enter this homeserver URL: `https://chat.berline.rs`
-5. Pick a username and a password.
-    * Caveat: we currently don't allow password resets and can't recover them either. Remember your password!
-6. Complete the registration.
-7. Now join [the `#rust-and-tell:chat.berline.rs` channel][channel].
-
-One note: We set this server up on short notice.
-We don't guarantee to keep it running forever.
-
-[Zoom]: https://zoom.us/
-[Matrix]: https://matrix.org/
-[element]: https://app.element.io/#/welcome
-[matrix-clients]: https://matrix.org/clients
-[channel]: https://matrix.to/#/!nScYCdqWQUsTkFRJMb:chat.berline.rs
+See [Chat instructions](/chat/).
 
 ---
 
