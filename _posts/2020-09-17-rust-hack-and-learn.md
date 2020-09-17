@@ -20,7 +20,7 @@ Everyone is invited to join us, no travel necessary.
 
 ## Online meetup instructions
 
-At 19:00 join [our gather space](https://gather.town/oBoQi0hF69LNir2n/rust-hack-and-learn).
+At [19:00 CEST](https://time.is/1900_17_Sept_2020_in_Berlin/UTC/San_Francisco/City_of_London,_Greater_London,_England,_United_Kingdom/Tokyo/Rio_de_Janeiro?Rust__Hack%27n%27Learn) join [our gather space](https://gather.town/oBoQi0hF69LNir2n/rust-hack-and-learn).
 It works from the browser and uses your webcam and microphone over WebRTC.
 
 ## Matrix instructions
