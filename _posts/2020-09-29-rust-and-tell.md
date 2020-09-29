@@ -18,13 +18,16 @@ talks:
 ---
 
 <center>
+    <h2><a href="https://www.youtube.com/watch?v=GuShMUou6_U&feature=youtu.be">YouTube Livestream</a></h2>
+    <h2><a href="https://twilio.zoom.us/j/92809068898?pwd=VHlYRFc3Qi90WjdrNDBNMjJGU0o2QT09">Zoom Meeting</a></h2>
     <h2><a href="https://matrix.to/#/!nScYCdqWQUsTkFRJMb:chat.berline.rs">Join the chat on Matrix</a></h2>
 </center>
 
 ## Zoom instructions
 
-At 19:00 follow the [Zoom][] meeting invite: TBD.
-Zoom offers an in-browser video chat or you can use the client after you install it.
+At 19:00 follow the [Zoom][] meeting invite: [Zoom Meeting](https://twilio.zoom.us/j/92809068898?pwd=VHlYRFc3Qi90WjdrNDBNMjJGU0o2QT09).
+
+[Zoom]: https://zoom.us/
 
 You will automatically be voice-muted and not be able to unmute yourself during the meetup.
 Please also disable your webcam.
