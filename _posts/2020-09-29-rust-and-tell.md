@@ -9,12 +9,12 @@ talks:
 - title: "Playing with Rust on 8-bit Atari"
   speaker:
     name: "Rafał Chabowski"
-- title: "-- open --"
+- title: "Building a Video-on-demand Server to Learn Rust"
   speaker:
-    name: "You?"
-- title: "-- open --"
+    name: "Sid"
+- title: "What do Event Sourcing Abstractions Look Like?"
   speaker:
-    name: "You?"
+    name: "Daniel Olano"
 ---
 
 <center>
