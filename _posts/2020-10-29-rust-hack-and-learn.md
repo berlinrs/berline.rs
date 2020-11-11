@@ -8,4 +8,4 @@ links:
 talks: false
 ---
 
-The Hack and Learn on October 29th is cancelled.
+The Hack and Learn on October 29th is canceled.
