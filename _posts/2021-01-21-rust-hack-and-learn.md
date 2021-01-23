@@ -55,3 +55,21 @@ Here are some ideas if you don't know what to hack on:
 - Install Rust [https://www.rust-lang.org/downloads.html](https://www.rust-lang.org/downloads.html "https://www.rust-lang.org/downloads.html") .
 - Read the Rust book [https://doc.rust-lang.org/](https://doc.rust-lang.org/ "https://doc.rust-lang.org/")
 - Complete Rustlings (a great beginners course!) [https://github.com/rust-lang/rustlings](https://github.com/rust-lang/rustlings "https://github.com/rust-lang/rustlings")
+
+---
+
+Update:
+
+We talked about the following topics:
+
+* [Our trusted Rust bard](https://www.youtube.com/watch?v=EWldB-KXLeY)
+* Rust on Embedded:
+    * [The Embedded book](https://rust-embedded.github.io/book/)
+    * [The Discovery Book](https://docs.rust-embedded.org/discovery/)
+        * How to navigate the docs, find information in a controller's manual & how to apply that information to code
+    * "Realtime system doesn't mean fast, it means meeting your deadline"
+* Functional programming Rust?
+* Getting involved as a beginner:
+    * "Help wanted" section in [This Week in Rust](https://this-week-in-rust.org/)
+    * [Good first issues on Clippy](https://github.com/rust-lang/rust-clippy/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-issue)
+* Rust in safety critical systems
