@@ -23,7 +23,7 @@ And if the above even slightly resonates, this means: we are searching _you_.
 
 If you are interested, please send us an [email](mailto:rustberlin@rediger.net) or attend [this week's meetup](https://berline.rs/2021/02/04/rust-hack-and-learn.html).
 
-Rust Berlin
+Rust Berlin  
 Florian, Jan-Erik, Ryan and Bastian
 
 </article>
