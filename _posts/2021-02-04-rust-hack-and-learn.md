@@ -9,6 +9,12 @@ talks: false
 ---
 
 <center>
+    <h2><a href="/call-for-organisers/">We're looking for help with organising Rust Berlin events!</a></h2>
+</center>
+
+---
+
+<center>
     <h2><a href="https://meet.jit.si/RustHackAndLearnBerlin">Join the Jitsi Video chat</a></h2>
     <h2><a href="https://matrix.to/#/!xycQxSjSAvEezkyztA:chat.berline.rs">Join the chat on Matrix</a></h2>
 </center>
