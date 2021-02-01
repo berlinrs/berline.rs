@@ -7,7 +7,7 @@ permalink: /call-for-organisers/
 
 Hello everyone!
 
-**tl;dr we're looking for help with organising [Rust Berlin](https://berline.rs) events!** 
+**tl;dr we're looking for help with organising [Rust Berlin](https://berline.rs) events!**
 
 Since November 4th, 2014, [Rust Berlin](https://berline.rs) has been running meetups for Rustaceans and Rust-curious people in Berlin. With our bi-weekly Hack & Learn and a monthly Rust & Tell, we run up to 3 events a month and have way over [150](https://berline.rs/archive/) events under our belt. This makes us one of the most active and consistently running Rust users group. Rust Berlin runs infrastructure available to the global Rust community. During the pandemic, we are also one of the meeting spots for the global Rust communities.
 
@@ -21,7 +21,7 @@ You would join a team of experienced organisers: all of us have run multiple mee
 
 And if the above even slightly resonates, this means: we are searching _you_.
 
-If you are interested, please send us an [email](rustberlin@rediger.net) or attend [next weeks meetup](https://berline.rs/2021/02/04/rust-hack-and-learn.html).
+If you are interested, please send us an [email](mailto:rustberlin@rediger.net) or attend [this week's meetup](https://berline.rs/2021/02/04/rust-hack-and-learn.html).
 
 Rust Berlin
 Florian, Jan-Erik, Ryan and Bastian
