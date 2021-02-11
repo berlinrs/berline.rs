@@ -7,6 +7,6 @@ group :jekyll_plugins do
 end
 
 group :development do
-  gem "nokogiri", "~> 1.10"
+  gem "nokogiri", "~> 1.11"
   gem "reverse_markdown", "~> 1.4.0"
 end
