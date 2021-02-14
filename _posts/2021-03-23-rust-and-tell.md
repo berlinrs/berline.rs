@@ -1,5 +1,5 @@
 ---
-title: "Rust and Tell"
+title: "Rust and Tell - 2021 Kickoff"
 date: "2021-03-23 19:00:00 +0200"
 categories: meetup
 location: online
