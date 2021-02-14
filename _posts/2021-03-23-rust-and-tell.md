@@ -17,10 +17,6 @@ links:
 ---
 
 
-<center>
-    <h2><a href="https://www.youtube.com/watch?v=GuShMUou6_U&feature=youtu.be">YouTube Livestream</a></h2>
-    <h2><a href="https://matrix.to/#/!nScYCdqWQUsTkFRJMb:chat.berline.rs">Join the chat on Matrix</a></h2>
-</center>
 
 ## Zoom instructions
 
