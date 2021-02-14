@@ -5,6 +5,15 @@ categories: meetup
 location: online
 links:
     "Meetup.com": https://www.meetup.com/Rust-Berlin/events/[needs-to-be-created]/
+- title: "Open"
+  speaker:
+    name: "You?"
+- title: "Open"
+  speaker:
+    name: "You?"
+- title: "Open"
+  speaker:
+    name: "You?"
 ---
 
 
