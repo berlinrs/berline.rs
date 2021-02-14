@@ -20,7 +20,7 @@ links:
 
 ## Zoom instructions
 
-At 19:00 follow the [Zoom][] meeting invite: [Zoom Meeting](https://twilio.zoom.us/j/92809068898?pwd=VHlYRFc3Qi90WjdrNDBNMjJGU0o2QT09).
+At 19:00 follow the [Zoom][] meeting invite: _LINK TBD_.
 
 [Zoom]: https://zoom.us/
 
