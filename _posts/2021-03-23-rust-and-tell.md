@@ -1,10 +1,10 @@
 ---
 title: "Rust and Tell - 2021 Kickoff"
-date: "2021-03-23 19:00:00 +0200"
+date: "2021-03-23 19:00:00 +0100"
 categories: meetup
 location: online
 links:
-    "Meetup.com": https://www.meetup.com/Rust-Berlin/events/[needs-to-be-created]/
+    "Meetup.com": https://www.meetup.com/Rust-Berlin/events/276384275/
 talks:
 - title: "Open"
   speaker:
@@ -22,7 +22,7 @@ With new organizers, new speakers and new topics we will bring you another Rust 
 
 **SPEAKERS WANTED 🙏**
 
-Send a message to [@evanxg852000](https://twitter.com/evanxg852000) or an email to [evanxg852000@gmail.com](mailto:evanxg852000@gmail.com).
+Send a message to [@evanxg852000](https://twitter.com/evanxg852000) or an email to [rustberlin@rediger.net](mailto:rustberlin@rediger.net).
  
 "Rust and Tell“ is a monthly event to share ideas, and learn about new things in and about Rust. Meet fellow Rustaceans, share your learnings, get motivated and inspired.
 
