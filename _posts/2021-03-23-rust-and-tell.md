@@ -22,7 +22,7 @@ With new organizers, new speakers and new topics we will bring you another Rust 
 
 **SPEAKERS WANTED 🙏**
 
-Send a message to [@evanxg852000](https://twitter.com/evanxg852000) or an email to [rustberlin@rediger.net](mailto:rustberlin@rediger.net).
+Send a message to [@evanxg852000](https://twitter.com/evanxg852000) or an email to [contact@berline.rs](mailto:contact@berline.rs).
  
 "Rust and Tell“ is a monthly event to share ideas, and learn about new things in and about Rust. Meet fellow Rustaceans, share your learnings, get motivated and inspired.
 
