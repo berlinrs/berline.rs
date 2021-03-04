@@ -8,7 +8,6 @@ Berline.rs is the website of the Berlin Rust Community. That is currently:
 * The Rust Hack & Learn
 * The Rust Show & Tell
 * The Rust Users Group
-* The Berlin RustFest Team
 
 We are an inclusive group an would love you to attend!
 
