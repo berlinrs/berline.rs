@@ -55,3 +55,20 @@ Here are some ideas if you don't know what to hack on:
 - Install Rust [https://www.rust-lang.org/downloads.html](https://www.rust-lang.org/downloads.html "https://www.rust-lang.org/downloads.html") .
 - Read the Rust book [https://doc.rust-lang.org/](https://doc.rust-lang.org/ "https://doc.rust-lang.org/")
 - Complete Rustlings (a great beginners course!) [https://github.com/rust-lang/rustlings](https://github.com/rust-lang/rustlings "https://github.com/rust-lang/rustlings")
+
+---
+
+Update:
+
+We talked about the following topics:
+
+* HTTP request -- how can do it asynchronously in otherwise-synchronous code?
+  * [reqwest](https://crates.io/crates/reqwest)
+  * [`tokio::spawn`](https://docs.rs/tokio/1.2.0/tokio/fn.spawn.html)
+* Web frameworks
+  * [actix-web](https://crates.io/crates/actix-web)
+  * [rocket](https://crates.io/crates/rocket)
+  * [tide](https://crates.io/crates/tide)
+  * [war](https://crates.io/crates/warp)
+  * <https://www.arewewebyet.org/>
+* [The Rust Foundation](https://foundation.rust-lang.org/posts/2021-02-08-hello-world/)
