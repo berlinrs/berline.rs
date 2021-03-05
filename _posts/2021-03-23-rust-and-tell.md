@@ -4,17 +4,17 @@ date: "2021-03-23 19:00:00 +0100"
 categories: meetup
 location: online
 links:
-    "Meetup.com": https://www.meetup.com/Rust-Berlin/events/276384275/
+  "Meetup.com": https://www.meetup.com/Rust-Berlin/events/276384275/
 talks:
-- title: "Open"
-  speaker:
-    name: "You?"
-- title: "Open"
-  speaker:
-    name: "You?"
-- title: "Open"
-  speaker:
-    name: "You?"
+  - title: "Rust Foundation"
+    speaker:
+      name: "Ashley Williams"
+  - title: "Building a multiplayer WebAssembly game with Aper"
+    speaker:
+      name: "Paul Butler"
+  - title: "Introduction to CI/CD for Rust with GitLab"
+    speaker:
+      name: "Mario García"
 ---
 
 We are delighted 🥳 🎉 to announce that the "Rust and Tell" monthly meetup is kicking off again for 2021!
@@ -23,7 +23,7 @@ With new organizers, new speakers and new topics we will bring you another Rust 
 **SPEAKERS WANTED 🙏**
 
 Send a message to [@evanxg852000](https://twitter.com/evanxg852000) or an email to [contact@berline.rs](mailto:contact@berline.rs).
- 
+
 "Rust and Tell“ is a monthly event to share ideas, and learn about new things in and about Rust. Meet fellow Rustaceans, share your learnings, get motivated and inspired.
 
 Some ideas include but are not limited to: experience learning about async programming in Rust, how to implement a no-std compliant crate for use on embedded systems, or struggles with the borrow checker and how to overcome them. All ideas are welcome!
@@ -40,7 +40,7 @@ We usually plan 3 slots of 20 minutes each. You decide on how you want to fill t
 
 At 19:00 follow the [Zoom][] meeting invite: _LINK TBD_.
 
-[Zoom]: https://zoom.us/
+[zoom]: https://zoom.us/
 
 You will automatically be voice-muted and not be able to unmute yourself during the meetup.
 Please also disable your webcam.
