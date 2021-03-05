@@ -20,8 +20,7 @@ talks:
 We are delighted 🥳 🎉 to announce that the "Rust and Tell" monthly meetup is kicking off again for 2021!
 With new organizers, new speakers and new topics we will bring you another Rust meetup, online, livestreamed to your home.
 
-**SPEAKERS WANTED 🙏**
-
+Want to talk at the next meetup?
 Send a message to [@evanxg852000](https://twitter.com/evanxg852000) or an email to [contact@berline.rs](mailto:contact@berline.rs).
 
 "Rust and Tell“ is a monthly event to share ideas, and learn about new things in and about Rust. Meet fellow Rustaceans, share your learnings, get motivated and inspired.
