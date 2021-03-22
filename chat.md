@@ -20,20 +20,18 @@ If you already have a Matrix account you can join the channels by clicking the `
 
 If you don't have an account you can create one on our server.
 
-1. Open the [Element webapp][element].
+1. Open the [Element webapp][element] on RustChat.
     * Alternative [Matrix clients] work as well.
 2. Click "Create Account".
-3. Choose "Advanced".
-4. Enter this homeserver URL: `https://chat.berline.rs`
-5. Pick a username and a password.
+3. Pick a username and a password.
     * Caveat: we currently don't allow password resets and can't recover them either. Remember your password!
-6. Complete the registration.
-7. Now join one of our channels.
+4. Complete the registration.
+5. Now join one of our channels.
 
 [hack-and-learn-channel]: https://matrix.to/#/!xycQxSjSAvEezkyztA:chat.berline.rs
 [rust-and-tell-channel]: https://matrix.to/#/!nScYCdqWQUsTkFRJMb:chat.berline.rs
 [Matrix]: https://matrix.org/
-[element]: https://app.element.io/#/welcome
+[element]: https://rustch.at/
 [Matrix clients]: https://matrix.org/clients
 
 </article>
