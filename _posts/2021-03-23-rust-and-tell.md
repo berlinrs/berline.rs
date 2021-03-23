@@ -17,6 +17,16 @@ talks:
       name: "Mario García"
 ---
 
+<center style="text-align: center">
+    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://live.berline.rs">Livestream</a></h2>
+    |
+    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://us02web.zoom.us/j/88946365804">Zoom Meeting</a></h2>
+    |
+    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://matrix.to/#/!nScYCdqWQUsTkFRJMb:chat.berline.rs">Join the chat on Matrix</a></h2>
+</center>
+
+---
+
 We are delighted 🥳 🎉 to announce that the "Rust and Tell" monthly meetup is kicking off again for 2021!
 With new organizers, new speakers and new topics we will bring you another Rust meetup, online, livestreamed to your home.
 
@@ -37,7 +47,7 @@ We usually plan 3 slots of 20 minutes each. You decide on how you want to fill t
 
 ## Zoom instructions
 
-At 19:00 follow the [Zoom][] meeting invite: [Zoom Meeting Invite](https://us02web.zoom.us/j/88946365804).
+At 19:00 follow the [Zoom][] meeting invite: [Zoom Meeting](https://us02web.zoom.us/j/88946365804).
 
 [zoom]: https://zoom.us/
 
