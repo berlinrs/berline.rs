@@ -37,7 +37,7 @@ We usually plan 3 slots of 20 minutes each. You decide on how you want to fill t
 
 ## Zoom instructions
 
-At 19:00 follow the [Zoom][] meeting invite: _LINK TBD_.
+At 19:00 follow the [Zoom][] meeting invite: [Zoom Meeting Invite](https://us02web.zoom.us/j/88946365804).
 
 [zoom]: https://zoom.us/
 
