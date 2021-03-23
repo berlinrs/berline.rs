@@ -7,7 +7,7 @@ permalink: /chat/
 
 # Rust Berlin Matrix Chat
 
-Rust Berlin hosts their own [Matrix] server under chat.berline.rs.
+Rust Berlin hosts their own [Matrix] server under rustch.at.
 
 It has 2 major channels for our meetups:
 
