@@ -1,6 +1,6 @@
 ---
 title: "Rust and Tell"
-date: "2021-04-27 19:00:00 +0100"
+date: "2021-04-27 19:00:00 +0200"
 categories: meetup
 location: online
 links:
