@@ -12,9 +12,9 @@ talks:
 - title: "Using Rust to build open-source distributed networks"
   speaker:
     name: "Bernhard Borges"
-- title: "Open"
+- title: "Cropping.Rocks: a Rust/Rocket/WASM microservice"
   speaker:
-    name: "You?"
+    name: "Andreas Klostermaier"
 ---
 
 We are happy 🥳 🎉 to announce that the "Rust and Tell" online meetup for April will be on Tuesday, 27th!.
