@@ -18,7 +18,7 @@ talks:
 ---
 
 <center style="text-align: center">
-    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://live.berline.rs">Replay</a></h2>
+    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://live.berline.rs">Livestream</a></h2>
     |
     <h2 style="display: inline-block; padding: 0 20px;"><a href="https://us02web.zoom.us/j/88235404986">Zoom Meeting</a></h2>
     |
