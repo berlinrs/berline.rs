@@ -30,10 +30,6 @@ talks:
 
 We are happy 🥳 🎉 to announce that the "Rust and Tell" online meetup for April will be on Tuesday, 27th!.
 
-**SPEAKERS WANTED 🙏**
-
-Send a message to [@evanxg852000](https://twitter.com/evanxg852000) or an email to [contact@berline.rs](mailto:contact@berline.rs).
- 
 "Rust and Tell“ is a monthly event to share ideas, and learn about new things in and about Rust. Meet fellow Rustaceans, share your learnings, get motivated and inspired.
 
 Some ideas include but are not limited to: experience learning about async programming in Rust, how to implement a no-std compliant crate for use on embedded systems, or struggles with the borrow checker and how to overcome them. All ideas are welcome!
