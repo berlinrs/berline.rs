@@ -17,6 +17,17 @@ talks:
     name: "Andreas Klostermaier"
 ---
 
+<center style="text-align: center">
+    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://live.berline.rs">Replay</a></h2>
+    |
+    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://us02web.zoom.us/j/88235404986">Zoom Meeting</a></h2>
+    |
+    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://matrix.to/#/!nScYCdqWQUsTkFRJMb:chat.berline.rs">Join the chat on Matrix</a></h2>
+</center>
+
+---
+
+
 We are happy 🥳 🎉 to announce that the "Rust and Tell" online meetup for April will be on Tuesday, 27th!.
 
 **SPEAKERS WANTED 🙏**
@@ -37,7 +48,7 @@ We usually plan 3 slots of 20 minutes each. You decide on how you want to fill t
 
 ## Zoom instructions
 
-At 19:00 follow the [Zoom][] meeting invite: _LINK TBD_.
+At 19:00 follow the [Zoom][] meeting invite: [Zoom Meeting](https://us02web.zoom.us/j/88235404986).
 
 [Zoom]: https://zoom.us/
 
