@@ -39,7 +39,9 @@ end
 
 def extract_title(doc)
   title = doc.search("title").inner_text
-  title.gsub(/ \|.+/, "").strip
+  title
+    .sub(/, .+/, "")
+    .sub(/ \|.+/, "").strip
 end
 
 def extract_description(doc)
