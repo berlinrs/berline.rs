@@ -9,8 +9,9 @@ talks: false
 ---
 
 <center>
-    <h2><a href="https://meet.jit.si/RustHackAndLearnBerlin">Join the Jitsi Video chat</a></h2>
-    <h2><a href="https://matrix.to/#/!xycQxSjSAvEezkyztA:chat.berline.rs">Join the chat on Matrix</a></h2>
+    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://meet.jit.si/RustHackAndLearnBerlin">Jitsi Video chat</a></h2>
+    |
+    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://matrix.to/#/!xycQxSjSAvEezkyztA:chat.berline.rs">Matrix Chat</a></h2>
 </center>
 
 Bring your ideas, questions & projects and let's meet.
