@@ -21,7 +21,7 @@ We are happy 🥳 🎉 to announce that the "Rust and Tell" online meetup for Ma
 
 **SPEAKERS WANTED 🙏**
 
-Send a message to [@evanxg852000](https://twitter.com/evanxg852000) or an email to [contact@berline.rs](mailto:contact@berline.rs).
+We desperatly need speakers for the following months, as we have exhausted our back log of talks. Rust & Tell needs your help to keep going by giving a talk. Send a message to [@evanxg852000](https://twitter.com/evanxg852000) or an email to [contact@berline.rs](mailto:contact@berline.rs).
  
 "Rust and Tell“ is a monthly event to share ideas, and learn about new things in and about Rust. Meet fellow Rustaceans, share your learnings, get motivated and inspired.
 
