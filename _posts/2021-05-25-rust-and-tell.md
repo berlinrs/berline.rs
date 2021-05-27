@@ -18,9 +18,9 @@ talks:
 ---
 
 <center style="text-align: center">
-    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://live.berline.rs">Livestream</a></h2>
+    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://live.berline.rs">Replay</a></h2>
     |
-    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://us02web.zoom.us/j/83539700689">Zoom Meeting</a></h2>
+    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://www.youtube.com/watch?v=YbguuQzHcfk">Recording (YouTube)</a></h2>
     |
     <h2 style="display: inline-block; padding: 0 20px;"><a href="https://matrix.to/#/!nScYCdqWQUsTkFRJMb:chat.berline.rs">Join the chat on Matrix</a></h2>
 </center>
@@ -40,25 +40,6 @@ We are always looking for speakers of any level. Please either write in the comm
 We usually plan 3 slots of 20 minutes each. You decide on how you want to fill this time. We are also flexible in allocating longer time if you need it; just let us know so we can make the arrangement.
 
 "Rust and Tell“ is open to EVERYONE. From absolute beginner to experienced Rust programmers. We want to learn from your experience!
-
----
-
-## Zoom instructions
-
-At 19:00 follow the [Zoom][] meeting invite: [Zoom Meeting](https://us02web.zoom.us/j/83539700689).
-
-[Zoom]: https://zoom.us/
-
-You will automatically be voice-muted and not be able to unmute yourself during the meetup.
-Please also disable your webcam.
-The meetup will be recorded in Zoom, everyone with enabled video will be recorded as well.
-
-The text chat inside Zoom is available, please use that for questions to the speaker. If time allows a moderator will direct them towards the speaker after the talk.
-
-During the breaks we will try out Zoom’s Breakout Rooms.
-You will be randomly assigned to a breakout room with others.
-Feel free to use this to talk to people in breaks. If you don’t want to, just mute yourself or leave the room.
-You will be brought back into the main channel before the next talk starts.
 
 ## Matrix instructions
 
