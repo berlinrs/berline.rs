@@ -2,6 +2,7 @@
 layout: default
 title: Call for Organisers
 permalink: /call-for-organisers/
+not_in_menu: true
 ---
 <article class="page" role="main">
 
