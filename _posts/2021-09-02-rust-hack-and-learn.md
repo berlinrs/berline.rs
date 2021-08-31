@@ -24,11 +24,6 @@ Bring your ideas, questions & projects and let's meet.
 Feel free to join and drop out at any point.
 Everyone is invited to join us, no travel necessary.
 
-## Notes for the event on Sep 2nd 2021:
-
-In addition to our usual coincidental choice of topics we will dedicate some time for the second part of a workshop about Rust Futures. Together we'll be working through Amos' "Understanding Rust futures by going way too deep".
-
-
 ## Online meetup instructions
 
 At [19:00 CEST](https://time.is/1900_27_May_2021_in_Berlin/UTC/San_Francisco/City_of_London,_Greater_London,_England,_United_Kingdom/Tokyo/Rio_de_Janeiro?Rust__Hack%27n%27Learn) join [our Jitsi Video Chat](https://meet.jit.si/RustHackAndLearnBerlin).
