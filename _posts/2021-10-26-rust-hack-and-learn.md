@@ -59,4 +59,4 @@ Here are some ideas if you don't know what to hack on:
 - Read the Rust book [https://doc.rust-lang.org/](https://doc.rust-lang.org/ "https://doc.rust-lang.org/")
 - Complete Rustlings (a great beginners course!) [https://github.com/rust-lang/rustlings](https://github.com/rust-lang/rustlings "https://github.com/rust-lang/rustlings")
 
-Your host: Jan-Erik Rediger
+Your host: Andreas Klostermaier
