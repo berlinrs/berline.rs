@@ -20,18 +20,6 @@ talks: false
 This event is happening on a Tuesday!
 </h2>
 
-We're moving things around!
-For the longest time this event happened on a Thursday every second week.
-This was both due to the availability of the organizers and availability of the venue.
-
-Since we moved the Hack and Learn online last year we changed things around already.
-We tried new tools, new formats and brought in new organizers.
-
-For the remainder of the year we're moving the Hack'n'Learn to Tuesdays.
-It's still online and free for everyone to join.
-
-Your hosts: Andreas & Jan-Erik.
-
 ---
 
 Bring your ideas, questions & projects and let's meet.
