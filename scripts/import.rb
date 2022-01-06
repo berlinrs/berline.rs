@@ -6,6 +6,7 @@ require "time"
 require "erb"
 require "nokogiri"
 require "reverse_markdown"
+require "json"
 
 TEMPLATE = <<-TMPL
 ---
@@ -61,21 +62,39 @@ def extract_location(doc)
 end
 
 def extract_datetime(doc)
-  time = doc.search("div.eventTimeDisplay time")
+  puts doc.to_html
+  time = doc.search("div.eventTimeDisplay")
   time = ReverseMarkdown.convert(time.inner_html)
   time = time.gsub(/ to \d.+/, "")
   Time.parse(time)
 end
 
+def extract_from_json(doc)
+  json = doc.search("script#__NEXT_DATA__")
+  json = JSON.parse(json.inner_text)
+
+  event = json["props"]["pageProps"]["event"]
+  title = event["title"]
+  date = Time.parse(event["dateTime"])
+  location = event["venue"]["name"]
+  desc = event["description"]
+
+  [title, date, location, desc]
+end
+
 def import_event(html)
   doc = Nokogiri::HTML(html)
 
-  title = extract_title(doc)
-  date = extract_datetime(doc)
-  location = extract_location(doc)
-  desc = extract_description(doc)
+  if data = extract_from_json(doc)
+    data
+  else
+    title = extract_title(doc)
+    date = extract_datetime(doc)
+    location = extract_location(doc)
+    desc = extract_description(doc)
 
-  [title, date, location, desc]
+    [title, date, location, desc]
+  end
 end
 
 def main
