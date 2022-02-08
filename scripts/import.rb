@@ -8,6 +8,8 @@ require "nokogiri"
 require "reverse_markdown"
 require "json"
 
+API_URL = "https://api.meetup.com/%s/events/%s"
+
 TEMPLATE = <<-TMPL
 ---
 title: "<%= name %>"
@@ -69,13 +71,11 @@ def extract_datetime(doc)
   Time.parse(time)
 end
 
-def extract_from_json(doc)
-  json = doc.search("script#__NEXT_DATA__")
-  json = JSON.parse(json.inner_text)
+def extract_from_json(json)
+  event = JSON.parse(json)
 
-  event = json["props"]["pageProps"]["event"]
-  title = event["title"]
-  date = Time.parse(event["dateTime"])
+  title = event["name"]
+  date = Time.at(event["time"] / 1000)
   location = event["venue"]["name"]
   desc = event["description"]
 
@@ -111,8 +111,20 @@ def main
     exit 1
   end
 
-  resp = Net::HTTP.get(uri)
-  title, datetime, location, desc = import_event(resp)
+  path = uri.path
+  components = path.split("/")
+  if components.size < 3
+    $stderr.puts "URL does not contain group and event ID"
+    exit 1
+  end
+
+  # Example: /de-DE//opentechschool-berlin/events/283633079
+  event_id = components[-1]
+  group = components[-3]
+  api_url = URI(API_URL % [group, event_id])
+
+  resp = Net::HTTP.get(api_url)
+  title, datetime, location, desc = extract_from_json(resp)
 
   date = datetime.strftime("%Y-%m-%d")
   outfile = File.join("_posts", "#{date}-#{slug(title)}.md")
