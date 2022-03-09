@@ -2,7 +2,7 @@
 title: "Rust Hack and Learn"
 date: "2022-03-01 19:00:00 +0100"
 categories: meetup
-location: online event
+location: online
 links:
     "Meetup.com": https://www.meetup.com/opentechschool-berlin/events/283633083/
 talks: false
