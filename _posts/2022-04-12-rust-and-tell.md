@@ -9,9 +9,9 @@ talks:
 - title: "Full-stack WASM development with fp-bindgen"
   speaker:
     name: "Arend"
-- title: TBD
+- title: "Graphical User Interfaces with Rust and Slint on a Pico Microcontroller"
   speaker:
-    name: TBD
+    name: "Simon"
 - title: TBD
   speaker:
     name: TBD
