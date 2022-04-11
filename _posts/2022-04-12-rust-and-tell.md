@@ -12,9 +12,9 @@ talks:
 - title: "Graphical User Interfaces with Rust and Slint on a Pico Microcontroller"
   speaker:
     name: "Simon"
-- title: TBD
+- title: "Rich collaborative data structures for everyone"
   speaker:
-    name: TBD
+    name: "Bartosz Sypytkowski"
 ---
 
 We are very happy to announce another edition of the Rust and Tell Berlin Meetup - this time we are back onsite!
@@ -31,10 +31,10 @@ The talks will be recorded and there will be a photographer onsite. Please let u
 * 19:00 - Welcome and announcements
 * 19:10 - Talk 1: Full-stack WASM development with fp-bindgen - Arend
 * 19:30 - Q&A + announcements from Prisma
-* 19:55 - Talk 2: -- OPEN SLOT --
+* 19:55 - Talk 2: Graphical User Interfaces with Rust and Slint on a Pico Microcontroller - Simon
 * 20:15 - Q&A
 * 20:25 - Break + snacks
-* 20:45 - Talk 3: -- OPEN SLOT --
+* 20:45 - Talk 3: Rich collaborative data structures for everyone - Bartosz Sypytkowski
 * 20:05 - Q&A
 * 20:15 - Hang out and chat
 * 22:00 - Doors close
