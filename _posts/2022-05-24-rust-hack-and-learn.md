@@ -37,7 +37,7 @@ See [Chat instructions](/chat/).
 
 ---
 
-Notes for this event: In addition to our usual coincidental choice of topics we will dedicate the first 45 minutes or so to Rust beginners by introducing selected concepts of the Rust language. In this event this will be Rust's Patterns and Matching!
+Notes for this event: In addition to our usual coincidental choice of topics we will dedicate the first 45 minutes or so to Rust beginners by introducing selected concepts of the Rust language. In this event we will finish Rust’s Patterns and Matching!
 
 ---
 
