@@ -72,11 +72,12 @@ def extract_datetime(doc)
 end
 
 def extract_from_json(json)
-  event = JSON.parse(json)
+  event = Hash.new { |hash, key| hash[key] = {} }
+  event.merge!(JSON.parse(json))
 
   title = event["name"]
   date = Time.at(event["time"] / 1000)
-  location = event["venue"]["name"]
+  location = event["venue"]["name"] || "online"
   desc = event["description"]
 
   [title, date, location, desc]
