@@ -35,11 +35,12 @@ It works from the browser and uses your webcam and microphone over WebRTC.
 
 See [Chat instructions](/chat/).
 
----
+-----
 
-Notes for this event: In addition to our usual coincidental choice of topics we will dedicate the first 45 minutes or so to Rust beginners by introducing selected concepts of the Rust language. In this event we will finish Rust’s Patterns and Matching!
+Notes for this event: In addition to our usual coincidental choice of topics we will dedicate the first 45 minutes or so to Rust beginners by introducing selected concepts of the Rust language. In this event it is all about strings in Rust (String-type, string slices, string literals, OSStrings...)!
 
----
+-----
+
 
 Rust is a language empowering everyone to build reliable and efficient software.
 
