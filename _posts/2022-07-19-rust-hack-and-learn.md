@@ -37,7 +37,7 @@ See [Chat instructions](/chat/).
 
 -----
 
-Notes for this event: In addition to our usual coincidental choice of topics we will dedicate the first 45 minutes or so to Rust beginners by introducing selected concepts of the Rust language. In this event it is all about strings in Rust (String-type, string slices, string literals, OSStrings...)!
+Notes for this event: In addition to our usual coincidental choice of topics we will dedicate the first 30 minutes or so to Rust beginners by casually introducing selected concepts of the Rust language. In this event we will conclude Rust Strings with OsStr, CStr and casting between string types...)!
 
 -----
 
