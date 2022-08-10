@@ -36,6 +36,8 @@ It works from the browser and uses your webcam and microphone over WebRTC.
 See [Chat instructions](/chat/).
 
 -----
+This event will be hosted by Rafael (Rust Meetup Nuremberg) and Tobias (Slint team), filling in for Andreas who is on holidays this week.
+-----
 
 Rust is a language empowering everyone to build reliable and efficient software.
 
