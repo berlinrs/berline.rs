@@ -12,9 +12,9 @@ talks:
 - title: "Using Rust inside Scala with `robusta_jni`"
   speaker:
     name: "Bogdan K."
-- title: "TBD"
+- title: "Aya - Writing eBPF programs in Rust"
   speaker:
-    name: "TBD"
+    name: "Michal Rostecki"
 ---
 
 We are delighted to announce another edition of the Rust and Tell Berlin Meetup - this time we are back onsite!
