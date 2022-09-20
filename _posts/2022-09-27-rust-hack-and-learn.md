@@ -37,6 +37,10 @@ See [Chat instructions](/chat/).
 
 -----
 
+This event will be hosted by Rafael and Jörn, filling in for Andreas who is on holidays this week.
+
+-----
+
 Rust is a language empowering everyone to build reliable and efficient software.
 
 Let's meet for open hacking and (co)-learning in our bi-weekly learning group!
