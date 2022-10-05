@@ -6,15 +6,15 @@ location: prisma
 links:
     "Meetup.com": https://www.meetup.com/rust-berlin/events/288175448/
 talks:
-- title: "TBD"
+- title: "Case study: Rust in axle OS"
   speaker:
-    name: "TBD"
-- title: "TBD"
+    name: "Philip Tennen"
+- title: "Let our rusty crab 🦀 explore the deeps of the C 🌊"
   speaker:
-    name: "TBD"
-- title: "TBD"
+    name: "Ivan Sraka"
+- title: "Aya - extending the Linux Kernel with eBPF and Rust"
   speaker:
-    name: "TBD"
+    name: "Michal Rostecki"
 ---
 
 We are delighted to host a special "EuroRust" version of Rust&Tell Berlin.
@@ -30,12 +30,12 @@ The talks will be recorded and there will be a photographer onsite. Please let u
 
 * 18:30 - Doors open, time for snacks and networking
 * 19:00 - Welcome and announcements
-* 19:10 - SLOT #1
+* 19:10 - "Case study: Rust in axle OS" by Philip Tennen
 * 19:30 - Q&A + announcements from Prisma
-* 19:55 - SLOT #2
+* 19:55 - "Let our rusty crab 🦀 explore the deeps of the C 🌊" by Ivan Sraka
 * 20:15 - Q&A
 * 20:25 - Break + snacks
-* 20:45 - SLOT #3
+* 20:45 - "Aya - extending the Linux Kernel with eBPF and Rust" by Michal Rostecki
 * 21:15 - Hang out and chat
 * 21:30 - Doors close
 
