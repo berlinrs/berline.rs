@@ -36,6 +36,8 @@ It works from the browser and uses your webcam and microphone over WebRTC.
 See [Chat instructions](/chat/).
 
 -----
+Notes for this event: In addition to our usual coincidental choice of topics we will dedicate the first 30 minutes or so to Rust beginners by casually introducing selected concepts of the Rust language. In this event we will look into the use of Regular Expressions in Rust...!
+-----
 
 Rust is a language empowering everyone to build reliable and efficient software.
 
