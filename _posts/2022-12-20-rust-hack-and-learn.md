@@ -35,7 +35,9 @@ It works from the browser and uses your webcam and microphone over WebRTC.
 
 See [Chat instructions](/chat/).
 
-------
+-----
+Notes for this event: this will be our last H&L meetup in 2022. No beginners topic intro this time. Instead, we will recap the year in Rust and have plenty of time to look into your projects and code!
+-----
 
 Rust is a language empowering everyone to build reliable and efficient software.
 
