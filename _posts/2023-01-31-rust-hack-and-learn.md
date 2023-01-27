@@ -16,6 +16,10 @@ talks: false
 
 ---
 
+Notes for this event: In addition to our usual coincidental choice of topics we will dedicate the first 30 minutes or so to Rust beginners by casually introducing selected concepts of the Rust language. In this event Jörn will teach us about the "thiserror"-crate as part 2 of our 3 part series about error management in Rust!
+
+---
+
 Bring your ideas, questions & projects and let's meet.
 
 * What did you work on this week?
