@@ -12,7 +12,7 @@ talks:
 - title: "autometrics-rs"
   speaker:
     name: Evan Schwartz
-- title: OPEN SLOT
+- title: "Kotlin+Rust - How to write bugs once and ship them to many platforms"
   speaker:
     name: TBD
 - title: "Learnings from 4 years of Rust&Tell and a goodbye"
