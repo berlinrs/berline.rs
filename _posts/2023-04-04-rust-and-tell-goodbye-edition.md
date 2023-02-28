@@ -33,7 +33,7 @@ Please let us know if you do not want to appear in the photos.
 * 18:40 - „Introducing Selium - Composable messaging with zero config“ - Peter Hayes
 * 19:20 - „autometrics-rs“ - Evan Schwartz
 * 19:55 - Break + snacks
-* 20:15 - OPEN SLOT
+* 20:15 - „Kotlin+Rust - How to write bugs once and ship them to many platforms“ -
 * 20:45 - „Learnings from 4 years of Rust&Tell and a goodbye“ -Bastian Gruber
 * 21:15 - Hang out and chat
 * 21:30 - Doors close
