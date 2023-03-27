@@ -16,6 +16,10 @@ talks: false
 
 ---
 
+Notes for this event: In addition to our usual coincidental choice of topics we will dedicate the first 30 minutes or so to Rust beginners by casually introducing selected concepts of the Rust language. In this event, Daps will introduce us to Axum and Yew as part 3 of our small series about Rust web frameworks and we've planned a short intro to Tauri by romdisc!
+
+---
+
 Bring your ideas, questions & projects and let's meet.
 
 * What did you work on this week?
