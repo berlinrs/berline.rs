@@ -35,12 +35,6 @@ It works from the browser and uses your webcam and microphone over WebRTC.
 
 See [Chat instructions](/chat/).
 
----
-
-Notes for this event: In addition to our usual coincidental choice of topics we will dedicate the first 30 minutes or so to Rust beginners by casually introducing selected concepts of the Rust language. In this event, JanPaul will introduce us to actix-web as part 2 of our small series about Rust web frameworks!
-
----
-
 Rust is a language empowering everyone to build reliable and efficient software.
 
 Let's meet for open hacking and (co)-learning in our bi-weekly learning group!
