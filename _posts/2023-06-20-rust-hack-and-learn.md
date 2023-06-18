@@ -37,7 +37,7 @@ See [Chat instructions](/chat/).
 
 ---
 
-Notes for this event: In addition to our usual coincidental choice of topics we will dedicate the first 30 minutes or so to Rust beginners by casually introducing selected concepts of the Rust language. In this event, JanPaul will introduce us to actix-web as part 2 of our small series about Rust web frameworks!
+Notes for this event: In addition to our usual coincidental choice of topics we want to discuss our recent idea of creating a packaging insert or maintenance notice for Cargo Packages. Let's explore the benefits and feasibility of this concept together.
 
 ---
 
