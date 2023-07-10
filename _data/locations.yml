@@ -80,42 +80,42 @@ innoq:
   name: innoQ Deutschland GmbH
   street: Umspannwerk Kreuzberg, Treppenaufgang C Ohlauer Str. 43 10999 Berlin
   city: Berlin
-  url: https://www.innoq.com/en/
+  web: https://www.innoq.com/en/
   osm: https://www.openstreetmap.org/?mlat=52.49403&mlon=13.4292&zoom=18
 thoughtworks-werkstatt:
   short: ThoughtWorks Werkstatt Berlin
   name: ThoughtWorks Werkstatt Berlin
   street: Mülhauser Str. 6
   city: 10405 Berlin
-  url: https://www.thoughtworks.com
+  web: https://www.thoughtworks.com
   osm: https://www.openstreetmap.org/?mlat=52.53281&mlon=13.41964&zoom=18
 code-university:
   short: CODE University
   name: CODE University
   street: Lohmühlenstr. 65
   city: Berlin
-  url: https://code.berlin
+  web: https://code.berlin
   osm: https://www.openstreetmap.org/?mlat=52.49404&mlon=13.446277&zoom=18
 msft-berlin:
   short: Microsoft Berlin
   name: Microsoft Berlin
   street: Unter den Linden 17
   city: Berlin
-  url: https://www.microsoft-berlin.de/
+  web: https://www.microsoft-berlin.de/
   osm: https://www.openstreetmap.org/node/2988439433
 dalia:
   short: Dalia Research
   name: Dalia Research
   street: Lobeckstraße 30/35
   city: Berlin
-  url: https://daliaresearch.com/
+  web: https://daliaresearch.com/
   osm: https://www.openstreetmap.org/way/220812676
 parity:
   short: Parity/Web3 Foundation
   name: Parity/Web3 Foundation
   street: Glogauerstr. 6
   city: Berlin
-  url: https://www.parity.io/
+  web: https://www.parity.io/
   osm: https://www.openstreetmap.org/node/2840615700
 prisma:
   short: Prisma
@@ -129,3 +129,10 @@ ferrous:
   street: Boxhagener Straße 79
   city: Berlin
   osm: https://www.openstreetmap.org/node/2825036679
+schleusenkrug:
+  short: Schleusenkrug
+  name: Schleusenkrug
+  street: Müller-Breslau-Straße 14b
+  city: Berlin
+  web: https://www.schleusenkrug.de/
+  osm: https://www.openstreetmap.org/node/269712300
