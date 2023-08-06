@@ -136,3 +136,10 @@ schleusenkrug:
   city: Berlin
   web: https://www.schleusenkrug.de/
   osm: https://www.openstreetmap.org/node/269712300
+hubraum:
+  short: hubraum
+  name: "hubraum - tech incubator of Deutsche Telekom"
+  street: "Winterfeldtstraße 21"
+  city: Berlin
+  web: https://www.hubraum.com/
+  osm: https://www.openstreetmap.org/node/4586825790
