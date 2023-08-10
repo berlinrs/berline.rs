@@ -31,7 +31,7 @@ _Rust across all platforms with UniFFI_ by Jan-Erik Rediger
 UniFFI takes your Rust code, applies some magic* and enables it to be used from Kotlin, Swift & Python.
 Over the past years UniFFI has grown from a small project codifying our learned best practices into a full blown "multi-language bindings generator for Rust"
 It gained support for a multitude of languages & async Rust and is in use by multiple projects within and outside of Mozilla.
-This talk shows what it can do and presents all the new features in gained in the past years.
+This talk shows what it can do and presents all the new features it gained in the past years.
 
 **Speaker Bios**
 
