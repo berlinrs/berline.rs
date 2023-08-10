@@ -12,9 +12,6 @@ talks:
 - title: "Rust across all platforms with UniFFI"
   speaker:
     name: "Jan-Erik Rediger"
-- title: "TBD"
-  speaker:
-    name: "you?"
 ---
 
 We are delighted to announce another edition of the Rust and Tell Berlin Meetup!
