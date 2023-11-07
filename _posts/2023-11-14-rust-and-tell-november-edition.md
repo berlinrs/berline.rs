@@ -50,7 +50,7 @@ Before starting data journey at GLS, Prasun has worked building products at Cisc
 In his free time he likes to dissect open source tools and this talk is going to be one of them.
 
 _Josh Junon_  
-Josh Juron is a senior Rust developer at GitButer.
+Josh Juron is a senior Rust developer at GitButler.
 Prior to GitButler he was the lead developer of the Oro Operating System.
 
 **Food & Drinks**
