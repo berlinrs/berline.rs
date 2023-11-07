@@ -12,7 +12,7 @@ talks:
 - title: "Meilisearch: Rust based search engine"
   speaker:
     name: "Prasun Joshi"
-- title: "TBD"
+- title: "Josh Junon"
   speaker:
     name: "TBD"
 ---
@@ -48,6 +48,10 @@ _Prasun Joshi_
 Prasun is a Rust enthusiast and currently working as Data Engineer at GLS.
 Before starting data journey at GLS, Prasun has worked building products at Cisco, Freshworks and Quince in different languages like Go, Java and Kotlin.
 In his free time he likes to dissect open source tools and this talk is going to be one of them.
+
+_Josh Junon_  
+Josh Juron is a senior Rust developer at GitButer.
+Prior to GitButler he was the lead developer of the Oro Operating System.
 
 **Food & Drinks**
 
