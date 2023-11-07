@@ -14,7 +14,7 @@ talks:
     name: "Prasun Joshi"
 - title: "Josh Junon"
   speaker:
-    name: "TBD"
+    name: "The Oro Kernel Boot Protocol - a Tango with Undefined Behavior"
 ---
 
 <p style="text-align: center">
@@ -37,6 +37,12 @@ _Meilisearch: Rust based search engine_ by Prasun Joshi
 In this talk, we'll dissect Meilisearch - a search engine - to understand how to build performant systems using Rust.
 We'll also see it in action by implementing a custom search engine.
 
+_The Oro Kernel Boot Protocol - a Tango with Undefined Behavior_ by Josh Junon
+
+Telling an OS's kernel about the system on which it's running can be messy, especially when you want to decouple the kernel and the bootloader stage.
+He'll talk about how he wrote "ser2mem" using procedural macros, how the kernel can "deserialize" this information using a single pointer cast,
+and how he pushed the boundaries of what's considered undefined behavior in Rust.
+
 **Speaker Bios**
 
 _Vitaly Bragilevsky_  
@@ -50,8 +56,10 @@ Before starting data journey at GLS, Prasun has worked building products at Cisc
 In his free time he likes to dissect open source tools and this talk is going to be one of them.
 
 _Josh Junon_  
-Josh Juron is a senior Rust developer at GitButler.
-Prior to GitButler he was the lead developer of the Oro Operating System.
+Josh is a software engineer of 20+ years and the creator of the Oro Operating System project.
+He's worked within the OSS community for 15 years, most of which was spent in the Node.js golden era,
+but switched to C/C++ about 10 years ago, and Rust about 3 years ago - the language he works with the most now.
+Previously, he worked at Uber, ZEIT (Vercel), and a number of other interesting companies - and just recently started with GitButler as a Senior Rust Developer.
 
 **Food & Drinks**
 
