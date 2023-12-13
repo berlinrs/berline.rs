@@ -16,6 +16,14 @@ talks: false
 
 ---
 
+**Announcements**:
+
+* This event will be hosted by Joern.
+* This is the last event scheduled for this year.
+* In 2024 we will move this event from Tuesdays to Thursdays, with the first event on January 18, 2024
+
+---
+
 Bring your ideas, questions & projects and let's meet.
 
 * What did you work on this week?
