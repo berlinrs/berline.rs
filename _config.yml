@@ -4,7 +4,6 @@ description: "A Berlin-local Rust community"
 url: "http://berline.rs"
 author:
   name: Berline.rs
-  twitter: rustberlin
   github: berlinrs
   meetup: Rust-Berlin
   email: undefined
