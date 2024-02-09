@@ -2,6 +2,26 @@
 
 This is the [rust-meetup-template](http://github.com/rust-community/rust-meetup-template)-based website for http://berlin.rs.
 
+## Redeploy without changes
+
+To update the current listed meetup without changes to any files:
+
+```
+git commit --allow-empty -m 'Re-deploy'
+git push origin main
+```
+
+## Creating the next Hack'n'Learn events
+
+Hack'n'Learn events are sourced from <https://www.meetup.com/rust-berlin/>.
+To create the next 3 upcoming events run:
+
+```
+bundle exec scripts/next-hackandlearn.rb
+```
+
+Existing events won't be overwritten.
+
 ## Importing from meetup.com
 
 To import a new event from Meetup.com run the import script:
