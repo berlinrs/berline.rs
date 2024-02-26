@@ -150,3 +150,9 @@ gitbutler:
   city: Berlin
   web: https://gitbutler.com/
   osm: https://www.openstreetmap.org/node/9833347812
+sap:
+  short: SAP
+  name: Deutschland SE & Co. KG
+  street: "George-Stephenson-Str. 7-13"
+  city: Berlin
+  osm: https://www.openstreetmap.org/node/10981860458
