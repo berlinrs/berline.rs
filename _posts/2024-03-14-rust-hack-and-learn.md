@@ -27,7 +27,9 @@ Feel free to join and drop out at any point.
 Everyone is invited to join us, no travel necessary.
 
 -----
+
 Notes for this event: In addition to our usual coincidental choice of topics we will do another round of our NAIVE (Novice And Intermediate Vocational Exercises) sessions.
+
 -----
 
 ## Online meetup instructions
