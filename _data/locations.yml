@@ -156,3 +156,10 @@ sap:
   street: "George-Stephenson-Str. 7-13"
   city: Berlin
   osm: https://www.openstreetmap.org/node/10981860458
+betahaus:
+  short: betahaus
+  name: betahaus
+  street: "Rudi-Dutschke-Straße 23"
+  city: Berlin
+  osm: https://www.openstreetmap.org/node/6403066082
+  web: https://www.betahaus.com/
