@@ -1,6 +1,6 @@
 ---
 title: "Rust Hack and Learn"
-date: "2024-03-28 19:00 +0000"
+date: "2024-03-28 19:00 +0100"
 categories: meetup
 location: online
 links:
