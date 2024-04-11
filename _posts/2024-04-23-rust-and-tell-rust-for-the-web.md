@@ -9,7 +9,7 @@ talks:
 - title: "SpinKube: WebAssembly and the Web"
   speaker:
     name: "Ryan Levick"
-- title: "TBA"
+- title: "CI/CD for Rust with Github Actions"
   speaker:
     name: "Jonas Dohse"
 - title: "Panel Discussion"
