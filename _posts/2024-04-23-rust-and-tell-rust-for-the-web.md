@@ -9,7 +9,7 @@ talks:
 - title: "SpinKube: WebAssembly and the Web"
   speaker:
     name: "Ryan Levick"
-- title: "CI/CD for Rust with Github Actions"
+- title: "Faster continuous integration runs for Rust"
   speaker:
     name: "Jonas Dohse"
 - title: "Panel Discussion"
@@ -37,6 +37,22 @@ small, fast, and secure-by-default server-side workloads feel much more real and
 In this talk, we'll get you caught up on the latest in the WebAssembly ecosystem with a focus on the WASI HTTP specification and SpinKube.
 By the end, you should have a clearer idea of how WebAssembly may change the way you architect your server-side deployments in the future.
 
+_Faster continuous integration runs for Rust_ by Jonas Dohse
+
+Rust's reputation for long compile times is unfortunately not completely unwarranted.
+In our project we eventually ended up with 15 minutes to create and run a debug build.
+That's way too long.
+Long feedback times reduce the utility of continuous integration,
+delay critical bug fixes and increase the stress of operating a production system.
+
+In this talk I want to show what we did to reduce our CI run times and how effective this was.
+This includes an overview of factors that drive compile times and how to analyze
+as well as dependency caching and choice of build tools.
+I will also touch on test organization to improve test runtime and alternative test runners.
+This will also apply to local builds.
+
+At the end of the talk you should have a good idea about how to improve build times.
+
 
 **Speaker Bios**
 
@@ -44,5 +60,8 @@ _Ryan Levick_
 Ryan is a principal engineer at Fermyon where he works on Spin and upstream WebAssembly tooling.
 He is also a member of the Rust Foundation Board.
 In his free time he enjoys running, singing, cooking, travelling and exploring Berlin where he lives.
+
+_Jonas Dohse_  
+Jonas is Tech Lead at SAP, supporting a team building an in-memory analytics database in Rust.
 
 [mainmatter]: https://mainmatter.com/
