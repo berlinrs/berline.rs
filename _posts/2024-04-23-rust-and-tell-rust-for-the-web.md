@@ -64,4 +64,9 @@ In his free time he enjoys running, singing, cooking, travelling and exploring B
 _Jonas Dohse_  
 Jonas is Tech Lead at SAP, supporting a team building an in-memory analytics database in Rust.
 
+_Luca Palmieri_  
+Luca works as a Principal Engineering Consultant at Mainmatter.
+He has been part of the Rust community since 2018 and is best known as the author of "Zero to Production in Rust",
+the go-to book for backend development in Rust.
+
 [mainmatter]: https://mainmatter.com/
