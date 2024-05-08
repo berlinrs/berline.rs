@@ -27,7 +27,7 @@ Hang out, listen to the talks and have some drinks after the event.
 
 **Line-Up**
 
-_SpinKube: WebAssembly and the Web_ by Ryan Levick
+_SpinKube: WebAssembly and the Web_ by Ryan Levick ([Recording](https://www.youtube.com/watch?v=MvDRGTBTFMM))
 
 WebAssembly has been touted as the next big thing in server-side development for many years,
 but it has arguably so far failed to reach the mainstream.
@@ -37,7 +37,7 @@ small, fast, and secure-by-default server-side workloads feel much more real and
 In this talk, we'll get you caught up on the latest in the WebAssembly ecosystem with a focus on the WASI HTTP specification and SpinKube.
 By the end, you should have a clearer idea of how WebAssembly may change the way you architect your server-side deployments in the future.
 
-_Faster continuous integration runs for Rust_ by Jonas Dohse
+_Faster continuous integration runs for Rust_ by Jonas Dohse ([Recording](https://www.youtube.com/watch?v=DMwAEa3FpEI))
 
 Rust's reputation for long compile times is unfortunately not completely unwarranted.
 In our project we eventually ended up with 15 minutes to create and run a debug build.
@@ -52,6 +52,10 @@ I will also touch on test organization to improve test runtime and alternative t
 This will also apply to local builds.
 
 At the end of the talk you should have a good idea about how to improve build times.
+
+_Panel Talk_ ([Recording](https://www.youtube.com/watch?v=_D0IS1ftlPc))
+
+Both speakers join Luca Palmieri on stage for a round of questions and and answers.
 
 
 **Speaker Bios**
