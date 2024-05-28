@@ -163,3 +163,9 @@ betahaus:
   city: Berlin
   osm: https://www.openstreetmap.org/node/6403066082
   web: https://www.betahaus.com/
+hedwig-dohm-haus:
+  short: Hedwig-Dohm-Haus
+  name: Hedwig-Dohm-Haus
+  street: "Ziegelstraße 5"
+  city: Berlin
+  osm: https://www.openstreetmap.org/way/327516766
