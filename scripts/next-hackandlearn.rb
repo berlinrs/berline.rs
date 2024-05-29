@@ -22,14 +22,16 @@ def extract_from_json(resp)
   next_events = json[0, 5]
 
   next_events.map { |event|
-    {
-      title: "Rust Hack and Learn",
-      date: event["local_date"],
-      time: event["local_time"],
-      tz: Time.now.strftime("%z"),
-      link: event["link"],
-    }
-  }
+    if event["name"] == "Rust Hack and Learn"
+      {
+        title: "Rust Hack and Learn",
+        date: event["local_date"],
+        time: event["local_time"],
+        tz: Time.now.strftime("%z"),
+        link: event["link"],
+      }
+    end
+  }.compact
 end
 
 def main
