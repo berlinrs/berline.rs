@@ -29,3 +29,13 @@ Building software for music making needs a delicate balance. The creative act wa
 _Cijail: How to protect your CI/CD pipelines from supply chain attacks?_ by Ivan Gankevich
 
 Supply chain attacks are especially popular nowadays, and there is a good reason for that. Many build tools such as Cargo, Pip, Npm were not designed to protect from them. At the same time there are similar tools such as Nix and Guix build systems that are particularly successful in mitigating such attacks. These tools precisely control what files are downloaded over the network before the build starts and prohibit any network access during the build itself. In this talk I introduce a tool called Cijail that allows you to adopt similar rules for other build systems. This tool is based on Seccomp, can be run inside CI/CD pipelines, and does not require superuser privileges. It protects from data exfiltration via DNS and via other means effectively limiting the damage supply chain attacks can cause to a single computer or even an application container. The tool is open source and written in Rust.
+
+**Speaker Bios**
+
+_Johan Thelander Lövgren_  
+Johan aka 'a moment unfolding' is a Swedish musician and software developer building tools and systems for exploring sounds and creating music.
+Focused on improvisation his goal is to enrich his multi-instrumental live performances through computing.
+
+_Ivan Gankevich_  
+Ivan works as a Product Lead at Staex where he oversees the development of a virtual private network in Rust and is responsible for CI/CD pipelines' security.
+He discovered Rust a few years ago and since then help migrate all of the company's projects to this language. In his free time he enjoys hiking and traveling across Europe.
