@@ -16,6 +16,12 @@ talks: false
 
 ---
 
+In todays event we will start the "Rust Summer of Web Frameworks". We are setting up a little web project (a searchable database of Rust ressources that we shared in previous events) and then over the next months we'll try to implement this project in as many different Rust web frameworks as possible. By the end of the year we want to have a really good understanding of web development in Rust in general and the differences in the popular Rust web frameworks in particular.
+
+Besides, there will also be plenty of room for our usual casual Rust talk, sharing your projects or asking for help!
+
+---
+
 Bring your ideas, questions & projects and let's meet.
 
 * What did you work on this week?
