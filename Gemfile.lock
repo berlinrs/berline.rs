@@ -240,7 +240,7 @@ GEM
       ffi (~> 1.0)
     reverse_markdown (2.1.1)
       nokogiri
-    rexml (3.3.3)
+    rexml (3.3.6)
       strscan
     rouge (3.30.0)
     rubyzip (2.3.2)
