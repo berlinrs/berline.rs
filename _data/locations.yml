@@ -169,3 +169,9 @@ hedwig-dohm-haus:
   street: "Ziegelstraße 5"
   city: Berlin
   osm: https://www.openstreetmap.org/way/327516766
+prater:
+  short: Prater Beer Garden
+  name: Prater Beer Garden
+  street: "Kastanienallee 7-9"
+  city: Berlin
+  osm: https://www.openstreetmap.org/way/56919250
