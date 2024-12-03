@@ -35,6 +35,12 @@ It works from the browser and uses your webcam and microphone over WebRTC.
 
 See [Chat instructions](/chat/).
 
+---
+
+Notes for this event: Radu Marias from Xorio will give a talk about his development of rencfs - an encrypted filesystem written in Rust.
+
+---
+
 Rust is a language empowering everyone to build reliable and efficient software.
 
 Let's meet for open hacking and (co)-learning in our bi-weekly learning group!
