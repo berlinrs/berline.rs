@@ -16,6 +16,12 @@ talks: false
 
 ---
 
+---
+
+Notes for this event: this will be our last meetup in 2024. In addition to our usual coincidental choice of topics we will do another round of our NAIVE (Novice And Intermediate Vocational Exercises) sessions about Rust Lifetimes.
+
+---
+    
 Bring your ideas, questions & projects and let's meet.
 
 * What did you work on this week?
