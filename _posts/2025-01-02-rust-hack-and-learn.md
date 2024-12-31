@@ -16,6 +16,12 @@ talks: false
 
 ---
 
+---
+
+Notes for this event: Guest host Joern will be leading this casual first meetup of the year.
+
+---
+    
 Bring your ideas, questions & projects and let's meet.
 
 * What did you work on this week?
