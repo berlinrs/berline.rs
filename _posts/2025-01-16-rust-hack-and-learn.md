@@ -16,6 +16,10 @@ talks: false
 
 ---
 
+Kickstart 2025 with Rust! Join us for the first (well, actually second) meetup of the year to share, learn, and connect!
+
+---
+    
 Bring your ideas, questions & projects and let's meet.
 
 * What did you work on this week?
