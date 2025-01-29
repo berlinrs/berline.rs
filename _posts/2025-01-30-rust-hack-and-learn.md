@@ -16,6 +16,12 @@ talks: false
 
 ---
 
+---
+
+Notes for this event: In addition to our usual coincidental choice of topics we will do another round of our NAIVE (Novice And Intermediate Vocational Exercises) sessions, exploring modules in combined bin/lib packages.
+
+---
+    
 Bring your ideas, questions & projects and let's meet.
 
 * What did you work on this week?
@@ -28,7 +34,7 @@ Everyone is invited to join us, no travel necessary.
 
 ## Online meetup instructions
 
-At [19:00 CET](https://time.is/1900_20_Dec_2022_in_Berlin/UTC/San_Francisco/City_of_London,_Greater_London,_England,_United_Kingdom/Tokyo/Rio_de_Janeiro?Rust__Hack%27n%27Learn) join [our Jitsi Video Chat](https://meet.jit.si/RustHackAndLearnBerlin).
+At [19:00 CET](https://time.is/1900_30_Jan_2025_in_Berlin/UTC/San_Francisco/City_of_London,_Greater_London,_England,_United_Kingdom/Tokyo/Rio_de_Janeiro?Rust__Hack%27n%27Learn) join [our Jitsi Video Chat](https://meet.jit.si/RustHackAndLearnBerlin).
 It works from the browser and uses your webcam and microphone over WebRTC.
 
 ## Matrix instructions
