@@ -1,10 +1,10 @@
 ---
-title: "<%= title %>"
-date: "<%= date %> <%= time %> <%= tz %>"
+title: "Rust Hack and Learn"
+date: "2025-04-10 19:00 +0200"
 categories: meetup
 location: online
 links:
-    "Meetup.com": <%= link %>
+    "Meetup.com": https://www.meetup.com/rust-berlin/events/fghbmtyhcgbnb/
 talks: false
 ---
 
@@ -28,7 +28,7 @@ Everyone is invited to join us, no travel necessary.
 
 ## Online meetup instructions
 
-At [19:00 CET](https://time.is/1900_<%= day %>_<%= month %>_<%= year %>_in_Berlin/UTC/Baltimore/London/Los_Angeles/New_York/Lagos/Sydney/Kuala_Lumpur/Kolkata?Rust__Hack%27n%27Learn) join [our Jitsi Video Chat](https://meet.jit.si/RustHackAndLearnBerlin).
+At [19:00 CET](https://time.is/1900_10_Apr_2025_in_Berlin/UTC/Baltimore/London/Los_Angeles/New_York/Lagos/Sydney/Kuala_Lumpur/Kolkata?Rust__Hack%27n%27Learn) join [our Jitsi Video Chat](https://meet.jit.si/RustHackAndLearnBerlin).
 It works from the browser and uses your webcam and microphone over WebRTC.
 
 ## Matrix instructions

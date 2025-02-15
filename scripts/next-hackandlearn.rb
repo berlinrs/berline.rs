@@ -3,6 +3,7 @@
 
 require "net/http"
 require "time"
+require "date"
 require "erb"
 require "nokogiri"
 require "reverse_markdown"
@@ -23,12 +24,17 @@ def extract_from_json(resp)
 
   next_events.map { |event|
     if event["name"] == "Rust Hack and Learn"
+      event_date = Date.parse(event["local_date"])
+
       {
         title: "Rust Hack and Learn",
         date: event["local_date"],
         time: event["local_time"],
-        tz: Time.now.strftime("%z"),
+        tz: "+0" + (event["utc_offset"] / 36000).to_s,
         link: event["link"],
+        year: event_date.strftime("%Y"),
+        month: event_date.strftime("%b"),
+        day: event_date.strftime("%d"),
       }
     end
   }.compact
