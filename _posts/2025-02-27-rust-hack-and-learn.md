@@ -16,6 +16,10 @@ talks: false
 
 ---
 
+Notes for this event: we expect to have some presentations of pet projects from our participants, that didn't make it last time.
+
+---
+
 Bring your ideas, questions & projects and let's meet.
 
 * What did you work on this week?
