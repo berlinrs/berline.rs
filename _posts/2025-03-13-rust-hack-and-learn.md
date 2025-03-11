@@ -16,6 +16,10 @@ talks: false
 
 ---
 
+Notes for this event: no special talks or activities are planned for this session, just hanging out casually with our usual coincidental choice of topics.
+
+---
+    
 Bring your ideas, questions & projects and let's meet.
 
 * What did you work on this week?
