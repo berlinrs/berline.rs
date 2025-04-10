@@ -16,6 +16,7 @@ talks: false
 
 ---
 
+
 Bring your ideas, questions & projects and let's meet.
 
 * What did you work on this week?
