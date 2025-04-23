@@ -16,6 +16,12 @@ talks: false
 
 ---
 
+---
+
+Notes for this event: In addition to our usual coincidental choice of topics we plan to do an update on our web framework comparison project.
+
+---
+    
 Bring your ideas, questions & projects and let's meet.
 
 * What did you work on this week?
