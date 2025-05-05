@@ -13,14 +13,9 @@ git push origin main
 
 ## Creating the next Hack'n'Learn events
 
-Hack'n'Learn events are sourced from <https://www.meetup.com/rust-berlin/>.
-To create the next 3 upcoming events run:
+As of May 2025 Hack'n'Learn events are NO LONGER sourced from <https://www.meetup.com/rust-berlin/>, as the API was deprecated and the new GrapQL-API is behind a paywall.
 
-```
-bundle exec scripts/next-hackandlearn.rb
-```
-
-Existing events won't be overwritten.
+Instead new events are sourced from a local CSV file in the scripts folder. Please refer to the README.md file in the scripts folder for full instructions.
 
 ## Importing from meetup.com
 
