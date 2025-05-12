@@ -16,12 +16,36 @@ talks: false
 
 ---
 
-Bring your ideas, questions & projects and let's meet.
+We are celebrating 10 years of Rust 1.0 with a very special Joint Meetup of
 
-* What did you work on this week?
-* What problems did you solve this week with Rust?
-* Are you just learning Rust and want some topic explained?
-* Found an interesting crate you want to talk about?
+* [Rust Berlin: Hack And Learn](https://www.meetup.com/de-DE/rust-berlin/)
+* [Rust Berlin: Rust And Tell](https://www.meetup.com/de-DE/rust-berlin/)
+* [Rust Paris](https://www.meetup.com/de-DE/rust-paris/)
+* [London Rust Project Group](https://www.meetup.com/de-DE/london-rust-project-group/)
+* [Rust Zürisee (Zurich)](https://www.meetup.com/de-DE/rust-zurich/)
+* [Rust TLV (Tel Aviv)](https://www.meetup.com/de-DE/rust-tlv/)
+* [Rust Nürnberg](https://www.meetup.com/de-DE/rust-noris/)
+* [Rust Munich](https://www.meetup.com/de-DE/rust-munich/)
+* [Rust Aarhus](https://www.meetup.com/de-de/rust-aarhus/)
+* and [lunch.rs](http://lunch.rs/)
+
+---
+You can't make it to RustWeek in Utrecht? But you still want to celebrate with your fellow Rustaceans? Then join us for the biggest Rust online meetup of all time!
+
+This event is happening online!
+
+---
+Preliminary schedule of the event (all times CEST/MESZ):
+
+* 19:00 – 19:15 Participant Check-In and Informal Gathering
+* 19:15 – 19:30 Welcome Note
+* 19:30 – 19:50 Keynote Speech by Sean McArthur
+* 19:50 – 20:00 Break
+* 20:00 – 21:45 Introduction of the Participating Meetup Groups
+* 21:45 – 22:00 Break
+* 22:00 – 22:30 Q&A, Official Closing, and Raffle
+* 22:30 – Open End Casual Hangout and Open Networking
+
 
 Feel free to join and drop out at any point.
 Everyone is invited to join us, no travel necessary.
@@ -34,19 +58,3 @@ It works from the browser and uses your webcam and microphone over WebRTC.
 ## Matrix instructions
 
 See [Chat instructions](/chat/).
-
-Rust is a language empowering everyone to build reliable and efficient software.
-
-Let's meet for open hacking and (co)-learning in our bi-weekly learning group!
-
-Everyone is welcome. Rusties of all skill levels meet and hack on cool Rust stuff.
-
-- Never written a single line of Rust, but interested in the language? There will be people around to get you set up and going.
-- Already have a project? Just hack on it or find others interested in contributing. If you have something working, you can put it on the big screen and show everyone.
-- Don't have a project yet? There are lots of ideas and cool projects floating around that you can work on!
-
-Here are some ideas if you don't know what to hack on:
-
-- Install Rust [https://www.rust-lang.org/downloads.html](https://www.rust-lang.org/downloads.html "https://www.rust-lang.org/downloads.html") .
-- Read the Rust book [https://doc.rust-lang.org/](https://doc.rust-lang.org/ "https://doc.rust-lang.org/")
-- Complete Rustlings (a great beginners course!) [https://github.com/rust-lang/rustlings](https://github.com/rust-lang/rustlings "https://github.com/rust-lang/rustlings")
