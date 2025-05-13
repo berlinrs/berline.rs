@@ -175,3 +175,29 @@ prater:
   street: "Kastanienallee 7-9"
   city: Berlin
   osm: https://www.openstreetmap.org/way/56919250
+c-base:
+  short: c-base
+  name: c-base Berlin
+  street: "Rungestraße 20"
+  city: Berlin
+  osm: https://www.openstreetmap.org/node/260050809
+  web: https://www.c-base.org/
+  directions: |
+    - Walk through the first and second back yard into the last hallway
+    - Enter on the right - the door should be open
+  accessibility:
+    wheelchair: true
+    toilet: true
+c-base-and-online:
+  short: Online and at c-base Berlin
+  name: Online and at c-base Berlin
+  street: "Rungestraße 20"
+  city: Berlin
+  osm: https://www.openstreetmap.org/node/260050809
+  web: https://www.c-base.org/
+  directions: |
+    - Walk through the first and second back yard into the last hallway
+    - Enter on the right - the door should be open
+  accessibility:
+    wheelchair: true
+    toilet: true
