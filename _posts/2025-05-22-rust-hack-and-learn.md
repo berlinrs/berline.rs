@@ -21,7 +21,7 @@ Bring your ideas, questions & projects and let's meet.
 * What did you work on this week?
 * What problems did you solve this week with Rust?
 * Are you just learning Rust and want some topic explained?
-* Found an interesting crate you want to talk about?
+* Found an interesting crate you want to talk about? 
 
 Feel free to join and drop out at any point.
 Everyone is invited to join us, no travel necessary.
