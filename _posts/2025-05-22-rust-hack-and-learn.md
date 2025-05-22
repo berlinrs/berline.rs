@@ -16,6 +16,13 @@ talks: false
 
 ---
 
+![packt-logo](https://www.packtpub.com/rebuild/build/assets/packt-Dz-8EKdV.svg)
+
+For this event we have **something special**! **&lt;packt&gt; Publishing** has provided us with some **special offers** and **free Rust eBooks**, which will be raffled among the participants of this evening’s event.
+
+
+---
+    
 Bring your ideas, questions & projects and let's meet.
 
 * What did you work on this week?
