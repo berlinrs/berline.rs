@@ -16,6 +16,10 @@ talks: false
 
 ---
 
+This event will be hosted by guest-host Rafael from Rust Nürnberg.
+
+---
+
 Bring your ideas, questions & projects and let's meet.
 
 * What did you work on this week?
