@@ -201,3 +201,16 @@ c-base-and-online:
   accessibility:
     wheelchair: true
     toilet: true
+in-berlin:
+  short: IN-Berlin
+  name: IN-Berlin - Individual Network Berlin e.V.
+  street: "Lehrter Str. 53"
+  city: Berlin
+  osm: https://www.openstreetmap.org/node/412766878
+  web: https://www.in-berlin.de/club/room/
+  directions: |
+    - Come in! We are in the conference room.
+  accessibility:
+    wheelchair: true
+    # TODO: to be confirmed
+    #toilet: true
