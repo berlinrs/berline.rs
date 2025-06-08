@@ -29,8 +29,8 @@ talks: false
 <ul>
 <li>10 July 2025</li>
 <li>7 August 2025 (tentative)</li>
-<li>11 Sept 2025</li>
-<li>2 Oct 2025</li>
+<li>4 Sept 2025 (corrected! tentative)</li>
+<li>2 Oct 2025 (tentative)</li>
 <li>30 Oct 2025</li>
 <li>27 Nov 2025</li>
 </ul>
