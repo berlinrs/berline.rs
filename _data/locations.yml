@@ -209,8 +209,7 @@ in-berlin:
   osm: https://www.openstreetmap.org/node/412766878
   web: https://www.in-berlin.de/club/room/
   directions: |
-    - Come in! We are in the conference room.
+    - Come in! We are right by the front door.
   accessibility:
     wheelchair: true
-    # TODO: to be confirmed
-    #toilet: true
+    toilet: false
