@@ -129,7 +129,7 @@ ferrous:
   street: Boxhagener Straße 79
   city: Berlin
   osm: https://www.openstreetmap.org/node/2825036679
-ferrous_kdab_slint:
+ferrous_slint_kdab:
   short: "Ferrous Systems & Slint & KDAB"
   name: "Ferrous Systems & Slint & KDAB"
   street: Wallstraße 58
