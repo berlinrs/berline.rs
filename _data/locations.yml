@@ -125,10 +125,20 @@ prisma:
   osm: https://www.openstreetmap.org/node/518827255
 ferrous:
   short: Ferrous Systems
-  name: Ferrous Systems
+  name: Ferrous Systems (Old Office)
   street: Boxhagener Straße 79
   city: Berlin
   osm: https://www.openstreetmap.org/node/2825036679
+ferrous_kdab_slint:
+  short: "Ferrous Systems & Slint & KDAB"
+  name: "Ferrous Systems & Slint & KDAB"
+  street: Wallstraße 58
+  city: Berlin
+  web: https://ferrous-systems.com
+  osm: https://www.openstreetmap.org/node/1552576884
+  accessibility:
+    wheelchair: true
+    toilet: true
 schleusenkrug:
   short: Schleusenkrug
   name: Schleusenkrug
