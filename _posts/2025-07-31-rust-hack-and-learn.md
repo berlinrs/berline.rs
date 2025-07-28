@@ -16,6 +16,10 @@ talks: false
 
 ---
 
+Notes for this event: because we are using Jitsi, be advised about a possible Jitsi security issue as described [here](https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one) and discussed on [HackerNews](https://news.ycombinator.com/item?id=44663684).
+
+---
+
 Bring your ideas, questions & projects and let's meet.
 
 * What did you work on this week?
