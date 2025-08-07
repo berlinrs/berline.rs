@@ -132,13 +132,18 @@ ferrous:
 ferrous_slint_kdab:
   short: "Ferrous Systems & Slint & KDAB"
   name: "Ferrous Systems, Slint and KDAB shared office space"
-  street: Wallstraße 58
+  street: Wallstraße 59
   city: Berlin
   web: https://ferrous-systems.com
   osm: https://www.openstreetmap.org/node/1552576884
   accessibility:
     wheelchair: true
     toilet: true
+  directions: |
+    - Enter the courtyard
+    - Take the building on the left
+    - Go up to floor 2
+    - Enter the KDAB/Ferrous Systems/Slint office
 schleusenkrug:
   short: Schleusenkrug
   name: Schleusenkrug
