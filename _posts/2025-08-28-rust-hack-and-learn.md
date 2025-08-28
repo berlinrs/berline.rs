@@ -16,7 +16,7 @@ talks: false
 
 ---
 
-Bring your ideas, questions & projects and let's meet.
+Bring your ideas, questions & projects and let's meet...
 
 * What did you work on this week?
 * What problems did you solve this week with Rust?
