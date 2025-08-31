@@ -140,10 +140,10 @@ ferrous_slint_kdab:
     wheelchair: true
     toilet: true
   directions: |
-    - Enter the courtyard
-    - Take the building on the left
-    - Go up to floor 2
-    - Enter the KDAB/Ferrous Systems/Slint office
+    - From the street, enter the courtyard.
+    - Enter the building to your left, house number 59.
+    - Take the stairs or elevator up to the 2nd floor.
+    - Enter the KDAB/Ferrous Systems/Slint office.
 schleusenkrug:
   short: Schleusenkrug
   name: Schleusenkrug
