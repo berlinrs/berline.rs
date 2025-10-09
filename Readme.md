@@ -1,6 +1,6 @@
 # Berlin.rs
 
-This is the [rust-meetup-template](http://github.com/rust-community/rust-meetup-template)-based website for http://berlin.rs.
+This is the [rust-meetup-template](http://github.com/rust-community/rust-meetup-template)-based website for <http://berlin.rs>.
 
 ## Redeploy without changes
 
