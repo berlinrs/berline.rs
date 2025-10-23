@@ -24,7 +24,7 @@ Bring your ideas, questions & projects and let's meet.
 * Found an interesting crate you want to talk about?
 
 Feel free to join and drop out at any point.
-Everyone is invited to join us, no travel necessary.
+Everyone is invited to join us, no travel necessary. 
 
 ## Online meetup instructions
 
