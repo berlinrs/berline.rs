@@ -28,8 +28,8 @@ talks: false
 <h2>Planned programme</h2>
 
 <p>Being an informal meetup, we are open to anything between just meet and talk, explore nerd snipes and rabbit holes, mob code together, plan and build fun projects, tinker with electronics, and presentations with Q&amp;A.</p>
-<p>This time, we could go through the topic of lifetimes, by reading through <a href="https://quinedot.github.io/rust-learning/lifetime-intuition.html" target="_blank">Quinedot‘s guide</a> together and branching off into discussions from there.<br>
-But if someone brings other cool stuff, questions or problems, then let us dedicate the meetup time to that! Our preconceived plan is just the backup.</p>
+<p>This time, we could go through the topic of lifetimes, by reading through <a href="https://quinedot.github.io/rust-learning/lifetime-intuition.html" target="_blank">Quinedot‘s guide</a> together and branching off into discussions from there.</p>
+<p>If someone brings other cool stuff, questions or problems, then let us instead dedicate the meetup time to that! Our preconceived plan is just the backup.</p>
 <p>Anyone is invited to bring their projects and questions, show something, ask something, or explore a topic together. The best conversations and deepest rabbit holes can emerge out of seemingly nowhere.</p>
 
 <h2>Projected upcoming meetups</h2>
