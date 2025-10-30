@@ -1,8 +1,8 @@
 ---
 title: "Rust Berlin on location 🏳️‍🌈 – Edition 008"
-date: "2025-10-30 19:00 +0200"
+date: "2025-10-30 19:00 +0100"
 categories: meetup
-location: in-berlin
+location: ferrous_slint_kdab
 links:
     "Meetup.com": https://www.meetup.com/rust-berlin/events/311752307/
 talks: false
