@@ -45,7 +45,7 @@ Everyone is welcome. Rusties of all skill levels meet and hack on cool Rust stuf
 - Already have a project? Just hack on it or find others interested in contributing. If you have something working, you can put it on the big screen and show everyone.
 - Don't have a project yet? There are lots of ideas and cool projects floating around that you can work on!
 
-Here are some ideas if you don't know what to hack on:
+Here are some ideas if you don't know what to hack on: 
 
 - Install Rust [https://www.rust-lang.org/downloads.html](https://www.rust-lang.org/downloads.html "https://www.rust-lang.org/downloads.html") .
 - Read the Rust book [https://doc.rust-lang.org/](https://doc.rust-lang.org/ "https://doc.rust-lang.org/")
