@@ -29,7 +29,7 @@ talks: false
 
 <p>Being an informal meetup, we are open to anything between just meet and talk, explore nerd snipes and rabbit holes, mob code together, plan and build fun projects, tinker with electronics, and presentations with Q&amp;A.</p>
 <p>This time, we are going to run a short variant of the RustLab workshop <a href="https://rustlab.it/talks/network-interception-in-rust-building-a-mitm-tool-from-scratch" target="_blank" rel="nofollow">Network Interception in Rust: Building a MITM Tool from Scratch<strong></strong></a>.</p>
-<p><strong>Note: To participate in this edition you will need to prepare your laptop ahead of time!</strong> Join the Signal group for instructions. You will need roughly 20 GiB of free space to set up two virtualized operating system images. During the workshop, you are going to intercept traffic between the two virtual machines and spoof responses.</p>
+<p><strong>Note: To participate in this edition, you will need to prepare your laptop ahead of time!</strong> Join the Signal group for instructions. You will need roughly 20 GiB of free space to set up two virtualized operating system images. During the workshop, you are going to intercept traffic between the two virtual machines and spoof responses.</p>
 
 <h2>Projected upcoming meetups</h2>
 
