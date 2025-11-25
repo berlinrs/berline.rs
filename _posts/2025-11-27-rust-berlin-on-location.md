@@ -34,7 +34,7 @@ talks: false
 <h2>Projected upcoming meetups</h2>
 
 <p>We schedule regular meetups on Thursday evening every four weeks, using the slot between the Berlin Rust Hack and Learn online meetup (every two weeks), and the Rust Nuremberg online meetup (every four weeks).</p>
-<p>30 October 2025 is our eighth meeting. Our next projected meetings are going to occur on the following dates:</p>
+<p>27 November 2025 is our ninth meeting. Our next projected meetings are going to occur on the following dates:</p>
 
 <ul>
 <li>22 Jan 2026</li>
