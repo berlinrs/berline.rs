@@ -33,7 +33,7 @@ It works from the browser and uses your webcam and microphone over WebRTC.
 
 ## Matrix instructions
 
-See [Chat instructions](/chat/).
+See [Chat instructions](/chat/). 
 
 Rust is a language empowering everyone to build reliable and efficient software.
 
