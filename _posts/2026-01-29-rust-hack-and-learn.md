@@ -35,7 +35,7 @@ It works from the browser and uses your webcam and microphone over WebRTC.
 
 See [Chat instructions](/chat/).
 
-Rust is a language empowering everyone to build reliable and efficient software.
+Rust is a language empowering everyone to build reliable and efficient software. 
 
 Let's meet for open hacking and (co)-learning in our bi-weekly learning group!
 
