@@ -43,7 +43,7 @@ talks: false
 <li>19 Feb 2026</li>
 <li>19 Mar 2026</li>
 <li>16 Apr 2026</li>
-<li>14 May 2026</li>
+<li>14 May 2026 (tentative, public holiday)</li>
 </ul>
 
 <h2>Location</h2>
