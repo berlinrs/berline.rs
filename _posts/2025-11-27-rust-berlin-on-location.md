@@ -9,7 +9,7 @@ talks: false
 ---
 
 <center>
-    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://signal.group/#CjQKIApfEgb36v82nhIb7m6zLCQjEtSEZubR7UvywTcWZXxdEhBWxhMWNCKekvtCYX7iDRRm">Signal Group</a></h2>
+    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://rust-berlin.zulipchat.com/join/gap4pdbz7xsquliiz7tgcyuk/">Zulip chat</a></h2>
     |
     <h2 style="display: inline-block; padding: 0 20px;"><a href="https://www.meetup.com/rust-berlin/events/312169727/">Meetup Event</a></h2>
 </center>
@@ -21,7 +21,7 @@ talks: false
 <p>We build toy projects, share experiences, discuss technology and learn new cool stuff.</p>
 <p>And you are welcome to join!</p>
 <p>No matter if you are writing Rust production code every day, if you already contribute to Open Source projects or want to start doing so, if you use Rust in hobby projects or if you are just curious what the hype and buzz is all about, you are very welcome!</p>
-<p>To coordinate and plan activities, please join our <a href="https://signal.group/#CjQKIApfEgb36v82nhIb7m6zLCQjEtSEZubR7UvywTcWZXxdEhBWxhMWNCKekvtCYX7iDRRm" target="_blank" rel="nofollow"><strong>Rust Berlin on location 🏳️‍🌈</strong> Signal group</a>!</p>
+<p>To coordinate and plan activities, please join our <a href="https://rust-berlin.zulipchat.com/join/gap4pdbz7xsquliiz7tgcyuk/" target="_blank" rel="nofollow"><strong>Rust Berlin on location 🏳️‍🌈</strong> Zulip chat</a>!</p>
 <p>Please <a href="https://www.meetup.com/rust-berlin/events/312169727/" target="_blank">RSVP on meetup.com to save your spot</a>, since our location is relatively small, and the Rust Berlin meetup org has a wide reach and commonly attracts a large number of participants.</p>
 <p>Regardless, as the no-show rate on Meetup.com is rather high, consider showing up even if you are on the waiting list.</p>
 
@@ -29,7 +29,7 @@ talks: false
 
 <p>Being an informal meetup, we are open to anything between just meet and talk, explore nerd snipes and rabbit holes, mob code together, plan and build fun projects, tinker with electronics, and presentations with Q&amp;A.</p>
 <p>This time, we are going to run a short variant of the RustLab workshop <a href="https://rustlab.it/talks/network-interception-in-rust-building-a-mitm-tool-from-scratch" target="_blank" rel="nofollow">Network Interception in Rust: Building a MITM Tool from Scratch<strong></strong></a>.</p>
-<p><strong>Note: To participate in this edition, you will need to prepare your laptop ahead of time!</strong> Join the Signal group for instructions. You will need roughly 20 GiB of free space to set up two virtualized operating system images. During the workshop, you are going to intercept traffic between the two virtual machines and spoof responses.</p>
+<p><strong>Note: To participate in this edition, you will need to prepare your laptop ahead of time!</strong> Join the Zulip chat for instructions. You will need roughly 20 GiB of free space to set up two virtualized operating system images. During the workshop, you are going to intercept traffic between the two virtual machines and spoof responses.</p>
 
 <h2>Projected upcoming meetups</h2>
 
@@ -49,7 +49,7 @@ talks: false
 
 <p>Our meetup location is the new shared office community space of Ferrous Systems, Slint and KDAB in Berlin Mitte, for up to 25 people.</p>
 <p>We are expecting to use this space as our default location for the time being, with the IN-Berlin e.V. community space in Moabit as backup.</p>
-<p>Regardless, as our group might eventually outgrow the locations' size limit, we are low-key looking for bigger locations. If you know a fitting location, then please let us know in our Signal group! Another workable way might be to split the meetup into smaller, interest-specific sub-groups instead.</p>
+<p>Regardless, as our group might eventually outgrow the locations' size limit, we are low-key looking for bigger locations. If you know a fitting location, then please let us know in our Zulip chat! Another workable way might be to split the meetup into smaller, interest-specific sub-groups instead.</p>
 
 <h2>Accessibility</h2>
 

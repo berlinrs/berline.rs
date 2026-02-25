@@ -20,7 +20,7 @@ We are celebrating 10 years of Rust 1.0 with a very special Joint Meetup of
 
 * [Rust Berlin: Hack And Learn](https://www.meetup.com/de-DE/rust-berlin/)
 * [Rust Berlin: Rust And Tell](https://www.meetup.com/de-DE/rust-berlin/)
-* [Rust Berlin: On Location][rust-berlin-on-location-group]
+* [Rust Berlin: On Location][rust-berlin-zulip-chat]
 * [Rust Paris](https://www.meetup.com/de-DE/rust-paris/)
 * [London Rust Project Group](https://www.meetup.com/de-DE/london-rust-project-group/)
 * [Rust Zürisee (Zurich)](https://www.meetup.com/de-DE/rust-zurich/)
@@ -68,9 +68,9 @@ Everybody is welcome! No matter if you are very
 experienced in Rust or have never had contact with it before,
 please come join in and celebrate with us!
 
-To RSVP, coordinate for the in-person even in advance, please [join our signal group][rust-berlin-on-location-group]!
+To RSVP, coordinate for the in-person even in advance, please [join our Zulip chat][rust-berlin-zulip-chat]!
 
-[rust-berlin-on-location-group]: https://signal.group/#CjQKIApfEgb36v82nhIb7m6zLCQjEtSEZubR7UvywTcWZXxdEhBWxhMWNCKekvtCYX7iDRRm
+[rust-berlin-zulip-chat]: https://rust-berlin.zulipchat.com/join/gap4pdbz7xsquliiz7tgcyuk/
 
 [c-base-announcement]: https://www.c-base.org/calendar/#view=month&date=2025-05-15&event=92df14e3-c21c-477a-a150-84be085ed411
 

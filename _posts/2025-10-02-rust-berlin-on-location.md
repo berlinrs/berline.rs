@@ -9,7 +9,7 @@ talks: false
 ---
 
 <center>
-    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://signal.group/#CjQKIApfEgb36v82nhIb7m6zLCQjEtSEZubR7UvywTcWZXxdEhBWxhMWNCKekvtCYX7iDRRm">Signal Group</a></h2>
+    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://rust-berlin.zulipchat.com/join/gap4pdbz7xsquliiz7tgcyuk/">Zulip chat</a></h2>
     |
     <h2 style="display: inline-block; padding: 0 20px;"><a href="https://www.meetup.com/rust-berlin/events/311202886/">Meetup Event</a></h2>
 </center>
@@ -21,7 +21,7 @@ talks: false
 <p>We build toy projects, share experiences, discuss technology and learn new cool stuff.</p>
 <p>And you are welcome to join!</p>
 <p>No matter if you are writing Rust production code every day, if you already contribute to Open Source projects or want to start doing so, if you use Rust in hobby projects or if you are just curious what the hype and buzz is all about, you are very welcome!</p>
-<p>To coordinate and plan activities, please join our <a href="https://signal.group/#CjQKIApfEgb36v82nhIb7m6zLCQjEtSEZubR7UvywTcWZXxdEhBWxhMWNCKekvtCYX7iDRRm" target="_blank" rel="nofollow"><strong>Rust Berlin on location 🏳️‍🌈</strong> Signal group</a>!</p>
+<p>To coordinate and plan activities, please join our <a href="https://rust-berlin.zulipchat.com/join/gap4pdbz7xsquliiz7tgcyuk/" target="_blank" rel="nofollow"><strong>Rust Berlin on location 🏳️‍🌈</strong> Zulip chat</a>!</p>
 <p>Please <a href="https://www.meetup.com/rust-berlin/events/311202886/" target="_blank">RSVP on meetup.com to save your spot</a>, since our location is relatively small, and the Rust Berlin meetup org has a wide reach and commonly attracts a large number of participants.</p>
 <p>Regardless, as the no-show rate on Meetup.com is rather high, consider showing up even if you are on the waiting list.</p>
 
@@ -50,7 +50,7 @@ talks: false
 
 <p>The meetup location for this edition is our backup space <strong>in Moabit, in the IN-Berlin e.V.'s community and presentation room</strong> for up to 25 people.</p>
 <p>Our new home-base meetup location in Mitte, which you might be familiar with from the August and September editions, is <strong>not available this time</strong>.</p>
-<p>As our group might eventually outgrow the locations' size limit, we are low-key looking for bigger locations. If you know a fitting location, then please let us know in our Signal group! Another workable way might be to split the meetup into smaller, interest-specific sub-groups instead.</p>
+<p>As our group might eventually outgrow the locations' size limit, we are low-key looking for bigger locations. If you know a fitting location, then please let us know in our Zulip chat! Another workable way might be to split the meetup into smaller, interest-specific sub-groups instead.</p>
 
 <h2>Accessibility</h2>
 
