@@ -1,9 +1,13 @@
-version: '3.7'
-
 services:
   jekyll:
-    image: bretfisher/jekyll-serve
+    image: ruby:3.4
+    working_dir: /site
     volumes:
       - .:/site
+      - bundle_cache:/usr/local/bundle
     ports:
-      - '8000:4000'
+      - '4000:4000'
+    command: bash -c 'gem install bundler:$(grep -A1 "BUNDLED WITH" Gemfile.lock | tail -1 | xargs) --no-document && bundle install && bundle exec jekyll serve --host 0.0.0.0'
+
+volumes:
+  bundle_cache:
