@@ -11,9 +11,9 @@ To update the current listed meetup without changes to any files:
 
 The workflow is also scheduled to run automatically every Thursday night, updating the website's front page to show the next upcoming meetup.
 
-## Creating the next Hack'n'Learn events
+## Creating the next Hack and Learn events
 
-As of May 2025 Hack'n'Learn events are NO LONGER sourced from <https://www.meetup.com/rust-berlin/>, as the API was deprecated and the new GrapQL-API is behind a paywall.
+As of May 2025 Hack and Learn events are NO LONGER sourced from <https://www.meetup.com/rust-berlin/>, as the API was deprecated and the new GrapQL-API is behind a paywall.
 
 Instead new events are sourced from a local CSV file in the scripts folder. Please refer to the README.md file in the scripts folder for full instructions.
 
