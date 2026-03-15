@@ -228,3 +228,12 @@ in-berlin:
   accessibility:
     wheelchair: true
     toilet: false
+jetbrains:
+  short: JetBrains Berlin
+  name: JetBrains Berlin
+  street: Cuvrystraße 53/Haus F
+  city: Berlin
+  osm: https://www.openstreetmap.org/#map=19/52.500019/13.447404
+  accessibility:
+    wheelchair: true
+    toilet: true
