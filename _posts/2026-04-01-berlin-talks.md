@@ -18,7 +18,7 @@ Due to popular request (and some other reasons, like venue availability and avai
 
 The first speaker for the first edition will be our co-organiser Florian Gilcher, speaking about "Unsafe demystified", a gentle introduction into handing unsafe code properly.
 
-Soares Chen will talk about the current revision of Context Generic, their framework for context generic programming: https://contextgeneric.dev
+Soares Chen will talk about the current revision of Context Generic, their framework for context generic programming: <https://contextgeneric.dev>
 
 We're still getting a second speaker confirmed!
 
