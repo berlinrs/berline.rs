@@ -48,3 +48,6 @@ I will give a short overview of the new implicit arguments feature for Context-G
 _Florian Gilcher_  
 Florian Gilcher used to be part of the Rust team at several positions and served as a member of the Rust Foundation board. He is also a co-founder of the Rust Berlin meetup.
 Today, he's training Rust at Ferrous Systems, a company he co-founded.
+
+_Soares Chen_
+Soares is a Rust programmer with a strong interest in functional programming, type theory, and programming language design. He is the creator of Context-Generic Programming and currently works as a Rust engineer at Tensordyne.
