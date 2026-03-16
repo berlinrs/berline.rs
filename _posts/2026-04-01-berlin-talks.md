@@ -9,7 +9,7 @@ talks:
 - title: "Unsafe Rust demystified"
   speaker:
     name: "Florian Gilcher"
-- title: "Context Generic Programming"
+- title: "Supercharge Rust functions with CGP implicit arguments"
   speaker:
     name: "Soares Chen"
 ---
