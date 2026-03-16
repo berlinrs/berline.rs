@@ -20,8 +20,6 @@ The first speaker for the first edition will be our co-organiser Florian Gilcher
 
 Soares Chen will talk about the current revision of Context Generic, their framework for context generic programming: <https://contextgeneric.dev>
 
-We're still getting a second speaker confirmed!
-
 We are also available for new talks, in particular of people who never gave a public talk. We're happy to be your first talk location.
 
 The new meetup is currently organised by Florian and Liran, who is a new co-organiser at Rust Berlin.
@@ -41,9 +39,9 @@ This is a beginner- to mid-level talk that explains the basics of `unsafe` and h
 Instead of going fully into it all details of unsafe, this talk teaches you easy to digest mental
 frameworks to use when approaching your next unsafe code block.
 
-_Context Generic Programming_ by Soares Chen
+_Supercharge Rust functions with CGP implicit arguments_ by Soares Chen
 
-Abstract incoming.
+I will give a short overview of the new implicit arguments feature for Context-Generic Programming (CGP), which enables structural typing in Rust. Some short example demos will be presented, followed by some explanation of how the feature works.
 
 **Speaker Bios**
 
