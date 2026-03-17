@@ -9,10 +9,10 @@ Berline.rs is the website of the Berlin Rust Community. We currently run the fol
 * [Rust Berlin on location 🏳️‍🌈](#rust-berlin-on-location)
 * [Rust Berlin Talks](#rust-berlin-talks)
 
-We are an inclusive group an would love you to attend!
+We are an inclusive group and would love you to attend!
 
-The group is uses the [Berlin Code of Conduct](https://berlincodeofconduct.org).
-On top of that, we ensure that our meetups are accessible to the extend possible.
+The group uses the [Berlin Code of Conduct](https://berlincodeofconduct.org).
+On top of that, we ensure that our meetups are accessible to the extent possible.
 
 ## Rust Hack & Learn {#rust-hack-and-learn}
 
