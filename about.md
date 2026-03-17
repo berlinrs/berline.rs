@@ -5,16 +5,16 @@ title: About
 
 Berline.rs is the website of the Berlin Rust Community. We currently run the following meetups:
 
-* Rust Berlin Hack & Learn
-* Rust Berlin On Location
-* Rust Berlin Talks
+* [Rust Hack & Learn](#rust-hack-and-learn)
+* [Rust Berlin on location 🏳️‍🌈](#rust-berlin-on-location)
+* [Rust Berlin Talks](#rust-berlin-talks)
 
 We are an inclusive group an would love you to attend!
 
 The group is uses the [Berlin Code of Conduct](https://berlincodeofconduct.org). On top
 of that, we ensure that our meetups are accessible to the extend possible.
 
-## Rust Hack & Learn
+## Rust Hack & Learn {#rust-hack-and-learn}
 
 The Rust Hack & Learn is our longest running format. 
 
@@ -24,14 +24,14 @@ Originally a Berlin-only affair, the the Hack & Learn went online in 2020 and no
 
 Hack & Learn happens every two weeks, you can find the announcements on our main page.
 
-## Rust On Location
+## Rust Berlin on location 🏳️‍🌈 {#rust-berlin-on-location}
 
 The "On Location" meetups are similar to the Hack & Learns, but happen at a physical place. It happens every month.
 
 The purpose of the meeting is exchange and hacking together. Sometimes, attendees give spontaneous explanations of topics
 relevant to the group.
 
-## Rust Berlin Talks
+## Rust Berlin Talks {#rust-berlin-talks}
 
 The classic meetup format. Rust Berlin Talks invites 2-3 speakers to give talks of roughly 20-30 minutes length.
 
