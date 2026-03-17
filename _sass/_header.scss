@@ -54,7 +54,7 @@
       }
     }
 
-    @media screen and (max-width: 20rem) {
+    @media screen and (max-width: 25rem) {
       flex-direction: column-reverse;
 
       svg {
@@ -65,7 +65,7 @@
       }
     }
 
-    @media screen and (min-width: 20.0001rem) {
+    @media screen and (min-width: 25.0001rem) {
       .left {
         flex: 1;
       }
