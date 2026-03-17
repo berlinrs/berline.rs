@@ -17,7 +17,7 @@ talks: false
 ---
 
 <p><strong>Rust Berlin on location 🏳️‍🌈</strong> is a new, informal in-person Rust meetup group in Berlin.</p>
-<p>We are a interactive meetup format interested in mob coding, deep diving and problem solving together.</p>
+<p>We are an interactive meetup format interested in mob coding, deep diving and problem solving together.</p>
 <p>We build toy projects, share experiences, discuss technology and learn new cool stuff.</p>
 <p>And you are welcome to join!</p>
 <p>No matter if you are writing Rust production code every day, if you already contribute to Open Source projects or want to start doing so, if you use Rust in hobby projects or if you are just curious what the hype and buzz is all about, you are very welcome!</p>
