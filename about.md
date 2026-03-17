@@ -11,18 +11,27 @@ Berline.rs is the website of the Berlin Rust Community. We currently run the fol
 
 We are an inclusive group an would love you to attend!
 
-The group is uses the [Berlin Code of Conduct](https://berlincodeofconduct.org). On top
-of that, we ensure that our meetups are accessible to the extend possible.
+The group is uses the [Berlin Code of Conduct](https://berlincodeofconduct.org).
+On top of that, we ensure that our meetups are accessible to the extend possible.
 
 ## Rust Hack & Learn {#rust-hack-and-learn}
 
-The Rust Hack & Learn is our longest running format. 
+The bi-weekly Rust Hack & Learn is our international online meetup, in which we discuss and code Rust together and learn along the way.
+From just attending to have your two hours of focus time with Rust, to having a deep conversation with someone about a topic that nags you – everything is possible.
 
-It's a bi-weekly online get-together in which we code Rust together and learn along the way. From just attending to have your two hours of focus time with Rust or for having a deep conversation with someone about a topic that nags you – everything is possible.
+The meetup editions generally follow a predefined structure, with lots of room to diverge and follow participants' interests:
 
-Originally a Berlin-only affair, the the Hack & Learn went online in 2020 and now has attendees from many other places.
+1. After an introduction round, Rust-related links and articles from the recent two weeks are shared and discussed.<br>
+   In this segment, more often than not, a few notable newly merged PRs from the `rust-lang/rust` repository are presented as well, and contextualized by an experienced Rust maintainer.
+2. For periods at a time, a prepared, beginner-friendly topic is brought in focus next, to ensure participants of all levels have equal opportunity to learn and grow.
+3. In the next segment, several participants show what they have built – or outline where they have gotten stuck and ask questions to receive help from the group.
+4. Many regulars stick around for a few more hours after the official end of the meetup, informally diving into various open discussions and rabbit holes, often deep into the night.
 
-Hack & Learn happens every two weeks, you can find the announcements on our main page.
+Rust Hack & Learn is our longest running format.
+Initially started as a Berlin-local in-person event, it went online in 2020 and has since then attracted regular attendees from several continents.
+The meetup is held in English language.
+
+Hack & Learn takes place every second Thursday at 19:00 Berlin time. You can find the announcements on our main page.
 
 ## Rust Berlin on location 🏳️‍🌈 {#rust-berlin-on-location}
 
