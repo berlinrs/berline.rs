@@ -1,12 +1,12 @@
 ---
-title: "Rust and Tell - It is not June yet"
+title: "Rust and Tell – It is not June yet"
 date: "2024-05-30 18:30:00 +0200"
 categories: meetup
 location: hedwig-dohm-haus
 links:
     "Meetup.com": https://www.meetup.com/rust-berlin/events/299288963/
 talks:
-- title: "ursund - an application for musical improvisation built in Rust"
+- title: "ursund – an application for musical improvisation built in Rust"
   speaker:
     name: Johan Thelander Lövgren
 - title: "Cijail: How to protect your CI/CD pipelines from supply chain attacks?"
@@ -22,9 +22,9 @@ We are grateful, that the Hedwig-Dohm-Haus will feature us! Please note, that th
 
 **Line-Up:**
 
-_ursund - an application for musical improvisation built in Rust_ by Johan Thelander Lövgren
+_ursund – an application for musical improvisation built in Rust_ by Johan Thelander Lövgren
 
-Building software for music making needs a delicate balance. The creative act wants to be free flowing and endlessly flexible, but computers wants things to be clearly defined - and ideally in advance. This contrast means that music technology often suffers from either too much control or too little - either requiring too many decisions be made beforehand at the cost of musical freedom, or allowing free improvisation but only within a narrow mode of working. The project started as a way to enable the way of working that I envisioned, and after many iterations i chose to build it all in rust - for the speed and portability. It has now gotten to a stable enough point where I can use it as my main musical tool and perform on stage with it. In my talk I would do a short demo, and talk about the concepts behind it as well as the technical decisions I made and those I am still considering.
+Building software for music making needs a delicate balance. The creative act wants to be free flowing and endlessly flexible, but computers wants things to be clearly defined – and ideally in advance. This contrast means that music technology often suffers from either too much control or too little – either requiring too many decisions be made beforehand at the cost of musical freedom, or allowing free improvisation but only within a narrow mode of working. The project started as a way to enable the way of working that I envisioned, and after many iterations i chose to build it all in rust – for the speed and portability. It has now gotten to a stable enough point where I can use it as my main musical tool and perform on stage with it. In my talk I would do a short demo, and talk about the concepts behind it as well as the technical decisions I made and those I am still considering.
 
 _Cijail: How to protect your CI/CD pipelines from supply chain attacks?_ by Ivan Gankevich
 

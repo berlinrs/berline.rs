@@ -1,5 +1,5 @@
 ---
-title: "Rust and Tell - November Edition"
+title: "Rust and Tell – November Edition"
 date: "2023-11-14 18:30:00 +0100"
 categories: meetup
 location: gitbutler
@@ -14,11 +14,11 @@ talks:
     name: "Prasun Joshi"
 - title: "Josh Junon"
   speaker:
-    name: "The Oro Kernel Boot Protocol - a Tango with Undefined Behavior"
+    name: "The Oro Kernel Boot Protocol – a Tango with Undefined Behavior"
 ---
 
 <p style="text-align: center">
-<img src="/assets/2023-11-rust-and-tell-gitbutler-500x.png" alt="Rust and Tell - powered by GitButler">
+<img src="/assets/2023-11-rust-and-tell-gitbutler-500x.png" alt="Rust and Tell – powered by GitButler">
 </p>
 
 We are delighted to announce the next edition of Rust and Tell Berlin!
@@ -34,10 +34,10 @@ Among other things, I'll dive into the RustRover debugger and prove that it's ti
 
 _Meilisearch: Rust based search engine_ by Prasun Joshi
 
-In this talk, we'll dissect Meilisearch - a search engine - to understand how to build performant systems using Rust.
+In this talk, we'll dissect Meilisearch – a search engine – to understand how to build performant systems using Rust.
 We'll also see it in action by implementing a custom search engine.
 
-_The Oro Kernel Boot Protocol - a Tango with Undefined Behavior_ by Josh Junon
+_The Oro Kernel Boot Protocol – a Tango with Undefined Behavior_ by Josh Junon
 
 Telling an OS's kernel about the system on which it's running can be messy, especially when you want to decouple the kernel and the bootloader stage.
 He'll talk about how he wrote "ser2mem" using procedural macros, how the kernel can "deserialize" this information using a single pointer cast,
@@ -58,8 +58,8 @@ In his free time he likes to dissect open source tools and this talk is going to
 _Josh Junon_  
 Josh is a software engineer of 20+ years and the creator of the Oro Operating System project.
 He's worked within the OSS community for 15 years, most of which was spent in the Node.js golden era,
-but switched to C/C++ about 10 years ago, and Rust about 3 years ago - the language he works with the most now.
-Previously, he worked at Uber, ZEIT (Vercel), and a number of other interesting companies - and just recently started with GitButler as a Senior Rust Developer.
+but switched to C/C++ about 10 years ago, and Rust about 3 years ago – the language he works with the most now.
+Previously, he worked at Uber, ZEIT (Vercel), and a number of other interesting companies – and just recently started with GitButler as a Senior Rust Developer.
 
 **Food & Drinks**
 

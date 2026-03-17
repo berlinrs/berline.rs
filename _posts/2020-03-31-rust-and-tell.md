@@ -9,7 +9,7 @@ talks:
 - title: "Integers in the Small, Big, and Macro"
   speaker:
     name: "Bram Geron"
-- title: "Tremor - A Rust Project from Wayfair"
+- title: "Tremor – A Rust Project from Wayfair"
   speaker:
     name: "Heinz Gies"
 - title: "Async HTTP"

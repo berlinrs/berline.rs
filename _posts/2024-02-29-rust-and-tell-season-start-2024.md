@@ -1,5 +1,5 @@
 ---
-title: "Rust and Tell - Season start 2024"
+title: "Rust and Tell – Season start 2024"
 date: "2024-02-29 18:30:00 +0100"
 categories: meetup
 location: sap

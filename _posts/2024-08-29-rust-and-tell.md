@@ -1,5 +1,5 @@
 ---
-title: "Rust and Tell - The social Beergarden"
+title: "Rust and Tell – The social Beergarden"
 date: "2024-08-29 18:30:00 +0200"
 categories: meetup
 location: prater

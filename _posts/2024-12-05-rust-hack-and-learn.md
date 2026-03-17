@@ -37,7 +37,7 @@ See [Chat instructions](/chat/).
 
 ---
 
-Notes for this event: Radu Marias from Xorio will give a talk about his development of rencfs - an encrypted filesystem written in Rust.
+Notes for this event: Radu Marias from Xorio will give a talk about his development of rencfs – an encrypted filesystem written in Rust.
 
 ---
 

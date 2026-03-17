@@ -43,7 +43,7 @@ bitcrowd:
 zenmate:
   short: ZenMate
   name: ZenMate
-  street: Ritterstr. 12-14
+  street: Ritterstr. 12–14
   city: Berlin
   web: https://zenmate.com/
   osm: https://www.openstreetmap.org/?mlat=52.50185&mlon=13.41099&zoom=18
@@ -71,7 +71,7 @@ blacklane:
 wire:
   short: Wire
   name: Wire
-  street: Hackescher Hof, Rosenthaler Straße 40-41
+  street: Hackescher Hof, Rosenthaler Straße 40–41
   city: Berlin
   web: https://wire.com
   osm: https://www.openstreetmap.org/?mlat=52.523972&mlon=13.402244&zoom=18
@@ -168,7 +168,7 @@ gitbutler:
 sap:
   short: SAP
   name: Deutschland SE & Co. KG
-  street: "George-Stephenson-Str. 7-13"
+  street: "George-Stephenson-Str. 7–13"
   city: Berlin
   osm: https://www.openstreetmap.org/node/10981860458
 betahaus:
@@ -187,7 +187,7 @@ hedwig-dohm-haus:
 prater:
   short: Prater Beer Garden
   name: Prater Beer Garden
-  street: "Kastanienallee 7-9"
+  street: "Kastanienallee 7–9"
   city: Berlin
   osm: https://www.openstreetmap.org/way/56919250
 c-base:

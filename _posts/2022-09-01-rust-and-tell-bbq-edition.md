@@ -1,5 +1,5 @@
 ---
-title: "Rust and Tell - BBQ Edition"
+title: "Rust and Tell – BBQ Edition"
 date: "2022-09-01 18:30:00 +0200"
 categories: meetup
 location: prisma
@@ -12,29 +12,29 @@ talks:
 - title: "Using Rust inside Scala with `robusta_jni`"
   speaker:
     name: "Bogdan K."
-- title: "Aya - Writing eBPF programs in Rust"
+- title: "Aya – Writing eBPF programs in Rust"
   speaker:
     name: "Michal Rostecki"
 ---
 
-We are delighted to announce another edition of the Rust and Tell Berlin Meetup - this time we are back onsite!
+We are delighted to announce another edition of the Rust and Tell Berlin Meetup – this time we are back onsite!
 
-Come join us for a summer evening of **quality talks, networking, and a barbecue** - veggie and vegan options provided. 🍹🌭
+Come join us for a summer evening of **quality talks, networking, and a barbecue** – veggie and vegan options provided. 🍹🌭
 
 Please follow the 3G rule (“geimpft, getestet, genesen – vaccinated, tested, recovered”).
 
 The talks will be recorded, and there will be a photographer onsite. Please let us know if you do not want to appear in the photos.
 
-* 18:30 - Doors open, time for snacks and networking
-* 19:00 - Welcome and announcements
-* 19:10 - "Hot code reload in Rust" - Robert K.
-* 19:30 - Q&A + announcements from Prisma
-* 19:55 - "Using Rust inside Scala with robusta_jni" - Bogdan K.
-* 20:15 - Q&A
-* 20:25 - Break + snacks
-* 20:45 - Open Slot
-* 21:15 - Hang out and chat
-* 21:30 - Doors close
+* 18:30 – Doors open, time for snacks and networking
+* 19:00 – Welcome and announcements
+* 19:10 – "Hot code reload in Rust" – Robert K.
+* 19:30 – Q&A + announcements from Prisma
+* 19:55 – "Using Rust inside Scala with robusta_jni" – Bogdan K.
+* 20:15 – Q&A
+* 20:25 – Break + snacks
+* 20:45 – Open Slot
+* 21:15 – Hang out and chat
+* 21:30 – Doors close
 
 ---
 

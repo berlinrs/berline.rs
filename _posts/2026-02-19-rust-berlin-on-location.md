@@ -28,7 +28,7 @@ talks: false
 <h2>Planned programme</h2>
 
 <p>Being an informal meetup, we are open to anything between just meet and talk, explore nerd snipes and rabbit holes, mob code together, plan and build fun projects, tinker with electronics, and presentations with Q&amp;A.</p>
-<p>This time, Flix will walk us through error handling approaches in Rust — from typed error enums to crates like <code>anyhow</code> and <code>thiserror</code> — and present his own take: <code>neuer-error</code>, a single-type error library that captures source locations instead of backtraces and provides typed, discoverable error context without generics soup. Then Raf will show off a fun project that renders canvas primitives with vector and matrix geometry, built from scratch with zero dependencies.</p>
+<p>This time, Flix will walk us through error handling approaches in Rust – from typed error enums to crates like <code>anyhow</code> and <code>thiserror</code> – and present his own take: <code>neuer-error</code>, a single-type error library that captures source locations instead of backtraces and provides typed, discoverable error context without generics soup. Then Raf will show off a fun project that renders canvas primitives with vector and matrix geometry, built from scratch with zero dependencies.</p>
 <p>If someone brings other cool stuff, questions or problems, then let us dedicate the second half of the meetup time to that!</p>
 <p>Anyone is invited to bring their projects and questions, show something, ask something, or explore a topic together. The best conversations and deepest rabbit holes can emerge out of seemingly nowhere.</p>
 

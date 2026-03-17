@@ -1,5 +1,5 @@
 ---
-title: "Rust and Tell - August Edition"
+title: "Rust and Tell – August Edition"
 date: "2023-08-10 18:30:00 +0200"
 categories: meetup
 location: hubraum

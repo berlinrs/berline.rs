@@ -1,5 +1,5 @@
 ---
-title: "Rust and Tell - an onsite event"
+title: "Rust and Tell – an onsite event"
 date: "2022-04-12 18:30:00 +0200"
 categories: meetup
 location: prisma
@@ -17,9 +17,9 @@ talks:
     name: "Bartosz Sypytkowski"
 ---
 
-We are very happy to announce another edition of the Rust and Tell Berlin Meetup - this time we are back onsite!
+We are very happy to announce another edition of the Rust and Tell Berlin Meetup – this time we are back onsite!
 
-Come join us for an evening of quality talks, networking, and yummy treats and drinks - veggie and vegan options provided. 🍹🌭
+Come join us for an evening of quality talks, networking, and yummy treats and drinks – veggie and vegan options provided. 🍹🌭
 
 **Please follow the 3G rule (“geimpft, getestet, genesen – vaccinated, tested, recovered”) and wear a mask when you are not eating.**
 
@@ -27,17 +27,17 @@ The talks will be recorded and there will be a photographer onsite. Please let u
 
 ---
 
-* 18:30 - Doors open, time for snacks and networking
-* 19:00 - Welcome and announcements
-* 19:10 - Talk 1: Full-stack WASM development with fp-bindgen - Arend
-* 19:30 - Q&A + announcements from Prisma
-* 19:55 - Talk 2: Graphical User Interfaces with Rust and Slint on a Pico Microcontroller - Simon
-* 20:15 - Q&A
-* 20:25 - Break + snacks
-* 20:45 - Talk 3: Rich collaborative data structures for everyone - Bartosz Sypytkowski
-* 20:05 - Q&A
-* 20:15 - Hang out and chat
-* 22:00 - Doors close
+* 18:30 – Doors open, time for snacks and networking
+* 19:00 – Welcome and announcements
+* 19:10 – Talk 1: Full-stack WASM development with fp-bindgen – Arend
+* 19:30 – Q&A + announcements from Prisma
+* 19:55 – Talk 2: Graphical User Interfaces with Rust and Slint on a Pico Microcontroller – Simon
+* 20:15 – Q&A
+* 20:25 – Break + snacks
+* 20:45 – Talk 3: Rich collaborative data structures for everyone – Bartosz Sypytkowski
+* 20:05 – Q&A
+* 20:15 – Hang out and chat
+* 22:00 – Doors close
 
 ---
 

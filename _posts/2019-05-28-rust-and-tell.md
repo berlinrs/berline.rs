@@ -6,10 +6,10 @@ links:
     "Meetup.com": https://www.meetup.com/Rust-Berlin/events/szgnqqyzhblc/
 location: dalia
 talks:
-- title: "3D Engine in Rust - The challenges going from C++ to Rust"
+- title: "3D Engine in Rust – The challenges going from C++ to Rust"
   speaker:
     name: Stefan Buschmann
-- title: "Nannou - Creative Coding Framework for Rust"
+- title: "Nannou – Creative Coding Framework for Rust"
   speaker:
     name: "Mitchell Nordine"
 - title: "Oxidising Geoclue"

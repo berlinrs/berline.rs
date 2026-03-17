@@ -1,18 +1,18 @@
 ---
-title: "Rust and Tell - Goodbye👋 Edition"
+title: "Rust and Tell – Goodbye👋 Edition"
 date: "2023-04-04 18:00:00 +0200"
 categories: meetup
 location: prisma
 links:
     "Meetup.com": https://www.meetup.com/rust-berlin/events/291839220/
 talks:
-- title: "Introducing Selium - Composable messaging with zero config"
+- title: "Introducing Selium – Composable messaging with zero config"
   speaker:
     name: Peter Hayes
 - title: "autometrics-rs"
   speaker:
     name: Evan Schwartz
-- title: "Kotlin+Rust - How to write bugs once and ship them to many platforms"
+- title: "Kotlin+Rust – How to write bugs once and ship them to many platforms"
   speaker:
     name: TBD
 - title: "Learnings from 4 years of Rust&Tell and a goodbye"
@@ -20,7 +20,7 @@ talks:
     name: Bastian Gruber
 ---
 
-We are delighted - and a bit sad - to announce another edition of the Rust and Tell Berlin Meetup!
+We are delighted – and a bit sad – to announce another edition of the Rust and Tell Berlin Meetup!
 This special edition has 4 talks instead of the usual 3!
 This will be Bastian's last time hosting the event, so it will come with a special learnings & goodbye talk!
 The talks will be recorded, and there will be a photographer onsite.
@@ -28,15 +28,15 @@ Please let us know if you do not want to appear in the photos.
 
 ---
 
-* 18:00 - Doors open, time for snacks and networking
-* 18:30 - Welcome and announcements
-* 18:40 - „Introducing Selium - Composable messaging with zero config“ - Peter Hayes
-* 19:20 - „autometrics-rs“ - Evan Schwartz
-* 19:55 - Break + snacks
-* 20:15 - „Kotlin+Rust - How to write bugs once and ship them to many platforms“ -
-* 20:45 - „Learnings from 4 years of Rust&Tell and a goodbye“ -Bastian Gruber
-* 21:15 - Hang out and chat
-* 21:30 - Doors close
+* 18:00 – Doors open, time for snacks and networking
+* 18:30 – Welcome and announcements
+* 18:40 – „Introducing Selium – Composable messaging with zero config“ – Peter Hayes
+* 19:20 – „autometrics-rs“ – Evan Schwartz
+* 19:55 – Break + snacks
+* 20:15 – „Kotlin+Rust – How to write bugs once and ship them to many platforms“ -
+* 20:45 – „Learnings from 4 years of Rust&Tell and a goodbye“ -Bastian Gruber
+* 21:15 – Hang out and chat
+* 21:30 – Doors close
 
 ---
 

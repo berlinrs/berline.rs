@@ -1,5 +1,5 @@
 ---
-title: "Rust Berlin Talks - The Next Generation"
+title: "Rust Berlin Talks – The Next Generation"
 date: "2026-04-01 19:00:00 +0200"
 categories: meetup
 location: jetbrains

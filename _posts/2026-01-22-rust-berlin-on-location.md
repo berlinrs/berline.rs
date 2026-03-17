@@ -28,7 +28,7 @@ talks: false
 <h2>Planned programme</h2>
 
 <p>Being an informal meetup, we are open to anything between just meet and talk, explore nerd snipes and rabbit holes, mob code together, plan and build fun projects, tinker with electronics, and presentations with Q&amp;A.</p>
-<p>This time, our main topic is going to be dependency-tree security. Jan-Erik will share insights into how security is upheld at Mozilla — in the Firefox project — in the context of third party open source library packages and repeated attempts at attacks through malicious crates.</p>
+<p>This time, our main topic is going to be dependency-tree security. Jan-Erik will share insights into how security is upheld at Mozilla – in the Firefox project – in the context of third party open source library packages and repeated attempts at attacks through malicious crates.</p>
 <p>If someone brings other cool stuff, questions or problems, then let us dedicate the second half of the meetup time to that!</p>
 <p>Anyone is invited to bring their projects and questions, show something, ask something, or explore a topic together. The best conversations and deepest rabbit holes can emerge out of seemingly nowhere.</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Rust Hack and Learn - Birthday edition"
+title: "Rust Hack and Learn – Birthday edition"
 date: "2019-05-15 19:00:00 CEST"
 categories: meetup
 links:

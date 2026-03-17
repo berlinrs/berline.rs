@@ -1,5 +1,5 @@
 ---
-title: "Rust and Tell - Rust for the web"
+title: "Rust and Tell – Rust for the web"
 date: "2024-04-23 19:00:00 +0200"
 categories: meetup
 location: betahaus

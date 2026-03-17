@@ -13,7 +13,7 @@ is the Template file for creating the required _posts/.md-files. It has not been
 - import.rb
 I do not know about this file, probably an old version of the generator script. Not used by me.
 - next-events.csv
-List of the upcoming events. Self-explaining, tab-delimited. Do not remove the header line. All rows will be processed by the script, so enter as many events as you want to create. Remove outdated events (but there will be no error - just a "skipping existing file" warning - if you don't).
+List of the upcoming events. Self-explaining, tab-delimited. Do not remove the header line. All rows will be processed by the script, so enter as many events as you want to create. Remove outdated events (but there will be no error – just a "skipping existing file" warning – if you don't).
 - next-hackandlearn_before_2025-04.rb
 Archived copy of the now obsolete event generator script, based on the meetup.com API.
 - next-hackandlearn.rb

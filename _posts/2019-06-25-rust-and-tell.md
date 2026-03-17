@@ -8,7 +8,7 @@ talks:
 - title: "Share Logic Between Android & iOS Apps using Rust"
   speaker:
     name: "Adrien"
-- title: "Rin - An Open Source Toolkit for Creative Expression with Code in Rust"
+- title: "Rin – An Open Source Toolkit for Creative Expression with Code in Rust"
   speaker:
     name: "Arturo"
 - title: "Replacing the Python Ecosystem One Package at a Time"

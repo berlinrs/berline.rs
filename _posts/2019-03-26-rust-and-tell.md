@@ -9,10 +9,10 @@ talks:
 - title: "Generating WASM/JS bindings"
   speaker:
     name: "Arve Knudsen"
-- title: "Ramhorns - A Mustache-like templating engine"
+- title: "Ramhorns – A Mustache-like templating engine"
   speaker:
     name: "Maciej"
-- title: "Ironbelly - A mobile cryptocurrency wallet"
+- title: "Ironbelly – A mobile cryptocurrency wallet"
   speaker:
     name: "Ivan Sorokin"
 ---

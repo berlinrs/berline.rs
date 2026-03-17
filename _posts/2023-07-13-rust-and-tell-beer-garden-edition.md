@@ -1,5 +1,5 @@
 ---
-title: "Rust and Tell - Beer Garden Edition"
+title: "Rust and Tell – Beer Garden Edition"
 date: "2023-07-13 18:30:00 +0200"
 categories: meetup
 location: schleusenkrug

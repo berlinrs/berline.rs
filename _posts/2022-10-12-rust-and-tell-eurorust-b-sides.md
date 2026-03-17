@@ -1,5 +1,5 @@
 ---
-title: "Rust and Tell - EuroRust B-Sides"
+title: "Rust and Tell – EuroRust B-Sides"
 date: "2022-10-12 18:30:00 +0200"
 categories: meetup
 location: prisma
@@ -12,7 +12,7 @@ talks:
 - title: "Let our rusty crab 🦀 explore the deeps of the C 🌊"
   speaker:
     name: "Ivan Sraka"
-- title: "Aya - extending the Linux Kernel with eBPF and Rust"
+- title: "Aya – extending the Linux Kernel with eBPF and Rust"
   speaker:
     name: "Michal Rostecki"
 ---
@@ -20,7 +20,7 @@ talks:
 We are delighted to host a special "EuroRust" version of Rust&Tell Berlin.
 We invite speakers, whose talk proposals got rejected for EuroRust, to grab 1 of the 3 slots and give the talk at our MeetUp instead!
 
-Join us for an evening of quality talks, networking, and yummy treats and drinks - veggie and vegan options provided. 🍹🌭
+Join us for an evening of quality talks, networking, and yummy treats and drinks – veggie and vegan options provided. 🍹🌭
 
 **Please follow the 3G rule (“geimpft, getestet, genesen – vaccinated, tested, recovered”) and wear a mask when you are not eating.**
 
@@ -28,16 +28,16 @@ The talks will be recorded and there will be a photographer onsite. Please let u
 
 ---
 
-* 18:30 - Doors open, time for snacks and networking
-* 19:00 - Welcome and announcements
-* 19:10 - "Case study: Rust in axle OS" by Philip Tennen
-* 19:30 - Q&A + announcements from Prisma
-* 19:55 - "Let our rusty crab 🦀 explore the deeps of the C 🌊" by Ivan Sraka
-* 20:15 - Q&A
-* 20:25 - Break + snacks
-* 20:45 - "Aya - extending the Linux Kernel with eBPF and Rust" by Michal Rostecki
-* 21:15 - Hang out and chat
-* 21:30 - Doors close
+* 18:30 – Doors open, time for snacks and networking
+* 19:00 – Welcome and announcements
+* 19:10 – "Case study: Rust in axle OS" by Philip Tennen
+* 19:30 – Q&A + announcements from Prisma
+* 19:55 – "Let our rusty crab 🦀 explore the deeps of the C 🌊" by Ivan Sraka
+* 20:15 – Q&A
+* 20:25 – Break + snacks
+* 20:45 – "Aya – extending the Linux Kernel with eBPF and Rust" by Michal Rostecki
+* 21:15 – Hang out and chat
+* 21:30 – Doors close
 
 ---
 
