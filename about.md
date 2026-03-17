@@ -36,7 +36,7 @@ The virtual events take place in English language and are not recorded. You can 
 
 ## Rust Berlin on location 🏳️‍🌈 {#rust-berlin-on-location}
 
-After the previously Berlin-local, in-person _Rust Hack & Learn_ meetup had changed to an online gathering, a new, informal in-person Rust meetup group was founded – led by the desire to bring back physical community events with a focus on social community experience, exchange of knowledge, ideas and perspectives, and the freedom of spontaneity.
+After the previously Berlin-local, in-person _Rust Hack & Learn_ meetup had changed to an online gathering, a new, informal in-person Rust meetup group was founded – led by the desire to bring back physical community events with a focus on social community experience, exchange of knowledge, ideas and perspectives, and the joy of spontaneity.
 
 We are an interactive meetup format interested in mob coding, deep diving and problem solving together. We build toy projects, share experiences, discuss technology and learn new cool stuff.
 
