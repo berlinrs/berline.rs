@@ -3,19 +3,42 @@
   padding-bottom: $spacing;
   border-bottom: 1px solid $color-lo;
   margin-bottom: $spacing;
-  
+
   .wrapper {
     @extend %row;
     display: flex;
 
-    .left, .right {
+    .left,
+    .right {
       display: flex;
       flex-direction: column;
       justify-content: center;
     }
 
+    .left {
+      container: header-left / inline-size;
+
+      .links {
+        display: flex;
+        flex-direction: column;
+        gap: 0.4em;
+        list-style-position: inside;
+        padding-left: 0;
+
+        @container header-left (width > 24em) {
+          flex-direction: row;
+        }
+
+        li {
+          margin-bottom: 0;
+        }
+      }
+    }
+
     svg {
-      g, path {
+
+      g,
+      path {
         transition: all 0.2s ease-in-out;
         transform-origin: center center;
       }
