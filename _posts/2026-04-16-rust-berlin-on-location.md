@@ -31,7 +31,7 @@ talks: false
 <p>With the [introduction](/2026/04/01/berlin-talks.html) of the new [Rust Berlin Talks](/about#rust-berlin-talks) meetup series, <strong>[Rust Berlin on location 🏳️‍🌈](/about#rust-berlin-on-location)</strong> strengthens its focus on social community experience, the exchange of knowledge, ideas and perspectives, and the joy of spontaneity.</p>
 <p>This time, we have the following topics lined up:</p>
 <ul>
-<li>Tobias has working on a <strong><em>project wizard</em></strong> and would like to receive some feedback from the group.</li>
+<li>Tobias has been working on a <strong><em>project wizard</em></strong> and would like to receive some feedback from the group.</li>
 <li>Crop is going to introduce the topic of <strong><em>atomics</em></strong>, then hold a discussion space for answering questions and sharing experiences.</li>
 <li>Raf finally would like to introduce <strong><em>test-driven development</em></strong> with a small mob coding exercise.</li>
 </ul>
