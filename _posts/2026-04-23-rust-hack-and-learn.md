@@ -18,6 +18,10 @@ talks: false
 
 ---
 
+**Notes for this event:** Aside our usual mix of diverse Rust-related topics, we plan to have a look at Rust 1.95 and do a drive-by PR on a selected Ratatui-project as NAIVE session.
+
+---
+
 Bring your ideas, questions & projects and let's meet.
 
 * What did you work on this week?
