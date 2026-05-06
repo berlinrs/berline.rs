@@ -17,6 +17,8 @@ talks: false
 </center>
 
 ---
+Aside our usual mix of diverse Rust-related topics, we plan to finish our drive-by PR on the tracker-TUI project as NAIVE session.
+---
 
 Bring your ideas, questions & projects and let's meet.
 
