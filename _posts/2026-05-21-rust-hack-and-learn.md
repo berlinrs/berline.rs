@@ -18,6 +18,10 @@ talks: false
 
 ---
 
+Notes for this event: Aside our usual mix of diverse Rust-related topics, we plan to do a little NAIVE session about pattern matching.
+
+---
+
 Bring your ideas, questions & projects and let's meet.
 
 * What did you work on this week?
