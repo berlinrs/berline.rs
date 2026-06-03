@@ -2,7 +2,8 @@
 
 ## Sequence
 
-- [ ] Copy previous announcement from `_pages/` as new post with next date.
+- [ ] Copy previous announcement from `_posts/` as new post with next date.
+- [ ] Stage the new file.
 - [ ] Open last announcement on Meetup.com and duplicate, then preview the draft.
 - [ ] Copy the Meetup ID from the Meetup.com event URL.
 - [ ] In the new post, select the previous meetup announcement's Meetup.com event ID
@@ -10,8 +11,9 @@
 - [ ] In the frontmatter, update `title:` and `date:`.
 - [ ] Update `location:` if the event does not take place at the default location.
 - [ ] Update the _"Planned programme"_ section with plans for the upcoming edition.
-- [ ] Update the upcoming meetups list introduction paragraph and shift the list items,
-      adding a new item according to the 4-weeks cadence.
+- [ ] Update the upcoming meetups list introduction paragraph,
+      mentioning date and ordinal of the upcoming edition.
+- [ ] Shift the upcoming meetups list items, adding a new item according to the 4-weeks cadence.
 - [ ] Update the _"Location"_ and _"Accessibility"_ sections if the event
       does not take place at the default location.
 - [ ] Stage and review the changes.
