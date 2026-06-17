@@ -18,6 +18,10 @@ talks: false
 
 ---
 
+Notes for this event: Nothing special planned for today. You are welcome to share your projects!
+
+---
+
 Bring your ideas, questions & projects and let's meet.
 
 * What did you work on this week?
