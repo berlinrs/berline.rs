@@ -37,6 +37,7 @@ talks: false
 <li>Run a Cargo check &amp; compile: <code>cargo check && cargo build --release</code></li>
 <li>Open the project once in your editor or IDE to allow <code>rust-analyzer</code> to initialize.</li>
 </ul>
+<p><strong>Note:</strong> [Rust 1.97](https://releases.rs/docs/1.97.0/) will be released on the day of the meetup. Updating your Rust installation will invalidate your precompiled artifacts. Either prepare after updating Rust, or update Rust only <em>after</em> the workshop.</p>
 <p>We will be compiling in release mode throughout the workshop.</p>
 <p>Anyone is invited to bring their projects and questions, show something, ask something, or explore a topic together. The best conversations and deepest rabbit holes can emerge out of seemingly nowhere.</p>
 
