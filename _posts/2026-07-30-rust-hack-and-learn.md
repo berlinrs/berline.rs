@@ -28,6 +28,12 @@ Bring your ideas, questions & projects and let's meet.
 Feel free to join and drop out at any point.
 Everyone is invited to join us, no travel necessary.
 
+---
+
+Notes for this event: Aside our usual mix of diverse Rust-related topics, we plan to do a little NAIVE session about Return Type Polymorphism.
+
+---
+
 ## Online meetup instructions
 
 At [19:00 CET](https://time.is/1900_30_Jul_2026_in_Berlin/UTC/Baltimore/London/Los_Angeles/New_York/Lagos/Sydney/Kuala_Lumpur/Kolkata?Rust__Hack%27n%27Learn) join [our Jitsi Video Chat](https://meet.jit.si/RustHackAndLearnBerlin).
