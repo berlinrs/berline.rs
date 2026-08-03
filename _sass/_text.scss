@@ -94,6 +94,28 @@ hr {
   @include hr(dashed);
 }
 
+blockquote {
+  position: relative;
+  margin-block: 1.4em;
+  margin-inline: 0;
+  padding-inline-start: 2em;
+  font-style: italic;
+  color: $color-fg;
+
+  &::before {
+    content: "\201C";
+    position: absolute;
+    top: -0.28em;
+    left: -0.04em;
+    font-size: 4em;
+    font-weight: bold;
+    font-style: normal;
+    opacity: 0.15;
+    line-height: 1;
+    color: $color-fg;
+  }
+}
+
 
 // Font Features
 
