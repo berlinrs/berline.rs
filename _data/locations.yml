@@ -237,12 +237,3 @@ jetbrains:
   accessibility:
     wheelchair: true
     toilet: true
-tempelhofer-feld:
-  short: Tempelhofer Feld
-  name: Tempelhofer Feld Grillplatz
-  street: Südbahn
-  city: Berlin
-  osm: https://www.openstreetmap.org/search?lat=52.470204&lon=13.394474
-  accessibility:
-    wheelchair: true
-    toilet: yes
