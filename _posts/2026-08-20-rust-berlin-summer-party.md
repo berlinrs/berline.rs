@@ -11,7 +11,7 @@ talks: false
 <center>
     <h2 style="display: inline-block; padding: 0 20px;"><a href="https://rust-berlin.zulipchat.com/join/gap4pdbz7xsquliiz7tgcyuk/">Zulip chat</a></h2>
     |
-    <h2 style="display: inline-block; padding: 0 20px;"><a href="https://www.meetup.com/rust-berlin/events/315966137/">Meetup Event</a></h2>
+    <h2 style="display: inline-block; padding: 0 20px;"><a href="TODO">Meetup Event</a></h2>
 </center>
 
 ---
