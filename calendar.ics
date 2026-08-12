@@ -1,0 +1,39 @@
+---
+layout: null
+---
+{% assign curDate = site.time %}
+{% assign next_meetups = site.posts | where_exp: "item", "item.date > curDate" | sort: "date" %}
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://berline.rs
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+END:VTIMEZONE{% for post in next_meetups limit:5 %}
+BEGIN:VEVENT
+UID:{{ post.date | date: "%Y%m%d%H%M00" }}@berline.rs
+ORGANIZER;CN="Rust Berlin":MAILTO:contact@berline.rs
+LOCATION:{{ post.location }}
+SUMMARY:{{ post.title | remove: ',' | remove: ';' }}
+DESCRIPTION:More info at {{ site.url }}{{ post.url }}
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Berlin:{{ post.date | date: "%Y%m%dT%H%M00" }}
+DTEND;TZID=Europe/Berlin:{{ post.date | date: "%Y%m%d" }}T190000Z
+DTSTAMP:{{ post.date | date: "%Y%m%dT%H%M00Z" }}
+END:VEVENT{% endfor %}
+END:VCALENDAR
