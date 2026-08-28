@@ -28,15 +28,15 @@ talks: false
 <h2>Planned programme</h2>
 
 <p>Being an informal meetup, we are open to anything between just meet and talk, explore nerd snipes and rabbit holes, mob code together, plan and build fun projects, tinker with electronics, and presentations with Q&amp;A.</p>
-<p>With the [introduction](/2026/04/01/berlin-talks.html) of the new [Rust Berlin Talks](/about#rust-berlin-talks) meetup series, <strong>[Rust Berlin on location 🏳️‍🌈](/about#rust-berlin-on-location)</strong> strengthens its focus on social community experience, the exchange of knowledge, ideas and perspectives, and the joy of spontaneity.</p>
 <p>This time, Jan-Erik will lead an <strong>interactive introduction to <a href="https://github.com/jj-vcs/jj">*Jujutsu VCS*</a> ("`jj`")</strong>, the git-compatible version control system.</p>
 <blockquote>
 <p>Jujutsu is a powerful [version control system](https://en.wikipedia.org/wiki/Version_control) for software projects. You use it to get a copy of your code, track changes to the code, and finally publish those changes for others to see and use. It is designed from the ground up to be easy to use—whether you're new or experienced, working on brand new projects alone, or large scale software projects with large histories and teams.</p>
 </blockquote>
 <p>Expect a guided exploration, followed by hands-on demo and play-along time with questions. Feel free to bring your laptops if you want to follow along!</p>
 <p>Tobias Hunger will join us as well and help with questions.</p>
-<p>If _you_ would like to lead a session on either topic at one of our upcoming editions, that would be wonderful — reach out in our Zulip chat!<br>
-Anyone is invited to bring their projects and questions, show or ask something, or bring a topic to explore together. The best conversations and deepest rabbit holes can emerge out of seemingly nowhere.</p>
+<p>If _you_ would like to lead a session on either topic at one of our upcoming editions, that would be wonderful — reach out in our Zulip chat!</p>
+<p>With the [introduction](/2026/04/01/berlin-talks.html) of the new [Rust Berlin Talks](/about#rust-berlin-talks) meetup series, <strong>[Rust Berlin on location 🏳️‍🌈](/about#rust-berlin-on-location)</strong> strengthens its focus on social community experience, the exchange of knowledge, ideas and perspectives, and the joy of spontaneity.</p>
+<p>Anyone is invited to bring their projects and questions, show or ask something, or bring a topic to explore together. The best conversations and deepest rabbit holes can emerge out of seemingly nowhere.</p>
 
 <h2>Projected upcoming meetups</h2>
 
