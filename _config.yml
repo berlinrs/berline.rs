@@ -36,6 +36,7 @@ timezone: "Europe/Berlin"
 exclude:
   - .vscode
   - .gitignore
+  - .jj
   - meetup-orga
   - scripts
   - vendor
