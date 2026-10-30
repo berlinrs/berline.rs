@@ -5,6 +5,7 @@ categories: meetup
 location: jetbrains
 links:
   "Meetup.com": https://www.meetup.com/rust-berlin/events/314396600/
+  "YouTube Livestream": https://www.youtube.com/watch?v=SGR5qBdwk30
 talks:
   - title: "RICO8: A new fun way to learn & master Rust"
     speaker:
