@@ -28,7 +28,7 @@ talks: false
 <h2>Planned programme</h2>
 
 <p>Being an informal meetup, we are open to anything between just meet and talk, explore nerd snipes and rabbit holes, mob code together, plan and build fun projects, tinker with electronics, and presentations with Q&amp;A.</p>
-<p>This time, we will be exploring <strong>formal verification in Rust</strong>. We will go through the <a href="https://verus-lang.github.io/verus/guide/">_Verus_ guide</a> together to learn about the concepts and practical applications of formal verification.</p>
+<p>This time, Tobias will lead us in exploring <strong>formal verification in Rust</strong>. We will go through the <a href="https://verus-lang.github.io/verus/guide/">_Verus_ guide</a> together to learn about the concepts and practical applications of formal verification.</p>
 <p>But this is no one-way presentation: we encourage everyone to bring their own projects, ideas, or discoveries related to formal verification or any other Rust-related topics they'd like to discuss.</p>
 <p>After a short introduction to <a href="https://github.com/verus-lang/verus">_Verus_</a>, the evening opens up for discussion, technical deep dives, or hands-on contributions. No prior experience with _Verus_ is required – feel free to bring your laptop if you want to follow along!</p>
 <p>If _you_ would like to lead a session at one of our upcoming editions, that would be wonderful – reach out in our Zulip chat!</p>
